@@ -1,0 +1,7 @@
+SR_Pcode,SR_Name_Eng,District/SAZ_Pcode,District/SAZ_Name_Eng,Tsp_Pcode,Township_Name_Eng,VT_Pcode,Village_Tract_Name_Eng,Village_Pcode,Village_Name_Eng,Village_Name_MMR,Commonly_Used_Local_Vlg_Name_Eng,Commonly_Used_Local_Vlg_Name_Mya,Longitude,Latitude,Source,Start_Date,Modified_End_Date,Notification,Notification_modified,GAD_Village_Status,Field_Village_Status,MIMU_Village_Mapping_Status,Change_Type,Previous_Village_Name_Eng,Remark
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013007,Shwepyithar,MMR013007004,Hlaw Kar,151986,Hlaw Kar,လှော်ကား,,,96.0784358142616,17.0041760841646,GAD,,,,,Active,N/A,Active,,,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013007,Shwepyithar,MMR013007003,Kyaung Kone,155365,Kyaung Kone,ကျောင်းကုန်း,,,96.0838512439361,16.9993069817937,GAD,,,,,Active,N/A,Active,,,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013007,Shwepyithar,MMR013007001,Oke Hpo,158802,Bon Shey Kone,ဘုံရှေကုန်း,,,96.0996780395508,16.9760704040527,GAD,,,,,Active,N/A,Active,,,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013007,Shwepyithar,MMR013007001,Oke Hpo,158801,Oke Hpo,အုပ်ဖို,,,,,GAD,,2010-07-28 00:00:00,,200/23-329/U-1,Inactive,N/A,Inactive,Delete,,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013007,Shwepyithar,MMR013007001,Oke Hpo,158803,Thar Du Kan,သာဓုကန်,,,96.0952987670898,16.9841995239258,GAD,,,,,Active,N/A,Active,,,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013007,Shwepyithar,MMR013007002,Zee Kone,164032,Zee Kone,ဇီးကုန်း,No (24) Ward,၂၄ ရပ်ကွက်,96.1039505004883,16.9496402740479,GAD,,,,,Active,N/A,Active,,,

@@ -1,0 +1,10 @@
+SR_Pcode,SR_Name_Eng,District/SAZ_Pcode,District/SAZ_Name_Eng,Tsp_Pcode,Township_Name_Eng,VT_Pcode,Village_Tract_Name_Eng,Village_Pcode,Village_Name_Eng,Village_Name_MMR,Commonly_Used_Local_Vlg_Name_Eng,Commonly_Used_Local_Vlg_Name_Mya,Longitude,Latitude,Source,Start_Date,Modified_End_Date,Notification,Notification_modified,GAD_Village_Status,Field_Village_Status,MIMU_Village_Mapping_Status,Change_Type,Previous_Village_Name_Eng,Remark
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013046,Hlaingtharya (East),MMR013046002,Ka Sin,153586,Ka Sin,ကစင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013046,Hlaingtharya (East),MMR013046002,Ka Sin,153587,Nyan Chaung,ဉာဏ်ချောင်း,,,96.082123,16.90724,GAD,,,,,Active,N/A,Active,,,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013046,Hlaingtharya (East),MMR013046005,Nyaung,158406,Daing Su,ဒိုင်စု,,,96.1022033691406,16.8420791625977,GAD,,,,,Active,N/A,Active,,,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013046,Hlaingtharya (East),MMR013046005,Nyaung,158405,Nyaung,ညောင်,,,96.0879592895508,16.8345794677734,GAD,,,,,Active,N/A,Active,,,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013046,Hlaingtharya (East),MMR013046003,Shan Chaung,160158,Shan Chaung,ရှမ်းချောင်း,,,96.0953463536482,16.8511598486024,GAD,,,,,Active,N/A,Active,,,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013046,Hlaingtharya (East),MMR013046001,Shwe Lin Ban,160390,Kyon Su,ကြုံစု,,,96.0392227172852,16.8980293273926,GAD,,,,,Active,N/A,Active,,,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013046,Hlaingtharya (East),MMR013046001,Shwe Lin Ban,160389,Shwe Lin Ban,ရွှေလင်ဘန်း,,,96.0680084228516,16.8965892791748,GAD,,,,,Active,N/A,Active,,,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013046,Hlaingtharya (East),MMR013046004,Yae Oke Kan,158817,Oke Kan,ဥက္ကံ,,,96.064697265625,16.8505992889404,GAD,,,,,Active,N/A,Active,,,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013046,Hlaingtharya (East),MMR013046004,Yae Oke Kan,158816,Oke Kan Thaung Kyar,ဥက္ကံသောင်ကြား,,,,,GAD,,,,,Active,N/A,Active,,,

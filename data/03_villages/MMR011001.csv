@@ -1,0 +1,52 @@
+SR_Pcode,SR_Name_Eng,District/SAZ_Pcode,District/SAZ_Name_Eng,Tsp_Pcode,Township_Name_Eng,VT_Pcode,Village_Tract_Name_Eng,Village_Pcode,Village_Name_Eng,Village_Name_MMR,Commonly_Used_Local_Vlg_Name_Eng,Commonly_Used_Local_Vlg_Name_Mya,Longitude,Latitude,Source,Start_Date,Modified_End_Date,Notification,Notification_modified,GAD_Village_Status,Field_Village_Status,MIMU_Village_Mapping_Status,Change_Type,Previous_Village_Name_Eng,Remark
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001013,Chauk Maing Kywe Chan Kone,194954,Chauk Maing,ခြောက်မိုင်,,,,,GAD,,2012-05-11 00:00:00,,No. 958/2012,Inactive,N/A,Inactive,VillagetoWard,,Reclassified village to Chauk Maing Kywe Chan Kone Ward in Mawlamyine Town
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001013,Chauk Maing Kywe Chan Kone,194955,Kywe Chan Kone,ကျွဲခြံကုန်း,,,,,GAD,,2012-05-11 00:00:00,,No. 958/2012,Inactive,N/A,Inactive,VillagetoWard,,Reclassified village to Chauk Maing Kywe Chan Kone Ward in Mawlamyine Town
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001013,Chauk Maing Kywe Chan Kone,194956,Thway Thauk,သွေးသောက်,,,,,GAD,,2012-05-11 00:00:00,,No. 958/2012,Inactive,N/A,Inactive,VillagetoWard,,Reclassified village to Chauk Maing Kywe Chan Kone Ward in Mawlamyine Town
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001012,Gway Kone,194952,Gway Kone,ဂွေးကုန်း,,,,,GAD,,2012-05-11 00:00:00,,No. 958/2012,Inactive,N/A,Inactive,VillagetoWard,,Reclassified village to Gway Kone Ward in Mawlamyine Town
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001012,Gway Kone,194953,Nat Taung,နတ်တောင်,,,,,GAD,,2012-05-11 00:00:00,,No. 958/2012,Inactive,N/A,Inactive,VillagetoWard,,Reclassified village to Gway Kone Ward in Mawlamyine Town
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001018,Hpar Auk,194969,Hpar Auk,ဖားအောက်,,,97.6544799804688,16.363712310791,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001001,Ka Toe,194925,Ka Toe,ကတိုး,,,97.6594009399414,16.576509475708,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001007,Kawt Hlar,194940,Hpe Htaw,ဖဲထော်,,,97.6837463378906,16.5819301605225,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001007,Kawt Hlar,194939,Kawt Hlar,ကော့လှာ,,,97.6761932373047,16.5707302093506,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001006,Kawt Hnat,194934,Kawt Hnat,ကော့နှပ်,,,97.6603698730469,16.5841903686523,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001006,Kawt Hnat,194935,Kun Tar,ကွမ်တာ,,,97.655653,16.58571,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001006,Kawt Hnat,194938,Me Kha Yit,မဲခရစ်,,,,,GAD,,2011-02-28 00:00:00,,200/22-186/U-1,Inactive,N/A,Inactive,Delete,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001006,Kawt Hnat,194937,Min Ywar,မင်းရွာ,,,,,GAD,,2011-02-28 00:00:00,,200/22-186/U-1,Inactive,N/A,Inactive,Delete,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001006,Kawt Hnat,194936,Than Ka Paing,သံကပိုင်,,,97.655422,16.589226,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001017,Kawt Kha Mei,194966,Kawt Kha Mei,ကော့ခမယ်,,,97.6588287353516,16.3724136352539,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001017,Kawt Kha Mei,194967,Kawt Kha Po,ကော့ခပို,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001017,Kawt Kha Mei,194968,Thu Gyi Kone,သူကြီးကုန်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001014,Kawt Kha Ni,194957,Kawt Kha Ni,ကော့ခနိ,,,97.6376800537109,16.3943500518799,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001014,Kawt Kha Ni,194958,Kawt Ya,ကော့ရ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001008,Kawt Pauk,194941,Kawt Pauk,ကော့ပေါက်,,,97.6430816650391,16.5519790649414,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001008,Kawt Pauk,194942,Ma Yan,မရမ်း,,,97.6383248,16.5545192,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001008,Kawt Pauk,194943,Ma Yan Kwin,မရမ်းကွင်း,,,97.6277625,16.5467749,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001008,Kawt Pauk,194944,Min Ywar,မင်းရွာ,,,,,GAD,,2011-02-28 00:00:00,,200/22-186/U-1,Inactive,N/A,Inactive,Delete,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001002,Kawt Sein,194926,Kawt Sein Ywar Ma,ကော့စိန်ရွာမ,,,97.6327598,16.5651773,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001002,Kawt Sein,194927,Kawt Sein Ywar Thit,ကော့စိန်ရွာသစ်,,,97.6406604,16.5661805,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001005,Kawt Tun,194931,Kawt Tun,ကော့တွန်,,,97.654226,16.5468062,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001005,Kawt Tun,194932,Kawt Tun Kwin Paing,ကော့တွန်ကွင်းပိုင်း,,,97.651309,16.5598351,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001005,Kawt Tun,194933,Zaw Ya Kyun,ဇော်ရကျွန်း,,,97.6417014,16.531374,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001016,Kyar Inn,194963,Kha Yun,ခရွန်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001016,Kyar Inn,194962,Kyar Inn,ကြာအင်း,,,97.6593322753906,16.3846435546875,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001016,Kyar Inn,194965,Shan Ywar,ရှမ်းရွာ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001016,Kyar Inn,194964,Zaw Kone,ဇော်ကုန်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001003,Kyauk Tan,194928,Kyauk Tan,ကျောက်တန်း,,,,,GAD,,2012-05-11 00:00:00,,No. 958/2012,Inactive,N/A,Inactive,VillagetoWard,,Reclassified village to Kyauk Tan Ward in Mawlamyine Town
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001010,Min Ywar,194946,Min Ywar,မင်းရွာ,,,97.6721420288086,16.466890335083,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001010,Min Ywar,194948,Put Ta Lu Kone,ပွတ္တလူးကုန်း,,,97.6968154907227,16.4577312469482,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001010,Min Ywar,194947,Ywar Thit,ရွာသစ်,,,97.6836318969727,16.4646892547607,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001011,Mu Yaung,194951,Kyet Thun Kone,ကြက်သွန်ကုန်း,,,97.6901168823242,16.4412975311279,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001011,Mu Yaung,194949,Mu Yaung,မုရောင်း,,,97.6942520141602,16.4441394805908,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001011,Mu Yaung,194950,Put Ta Lu Kone,ပွတ္တလူးကုန်း,,,97.6936340332031,16.4504623413086,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001015,Naung Kha Ri,219200,Aung Min Ga Lar (1),အောင်မင်္ဂလာ (၁),,,,,GAD,2011-02-28 00:00:00,2012-05-11 00:00:00,200/22-186/U-1,No. 958/2012,Inactive,N/A,Inactive,VillagetoWard,,Reclassified village to Naung Ka Ri Ward in Mawlamyine Town
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001015,Naung Kha Ri,219201,Aung Min Ga Lar (2),အောင်မင်္ဂလာ (၂),,,,,GAD,2011-02-28 00:00:00,2012-05-11 00:00:00,200/22-186/U-1,No. 958/2012,Inactive,N/A,Inactive,VillagetoWard,,Reclassified village to Naung Ka Ri Ward in Mawlamyine Town
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001015,Naung Kha Ri,219202,Chaung Sauk,ချောင်းစောက်,,,,,GAD,2011-02-28 00:00:00,2012-05-11 00:00:00,200/22-186/U-1,No. 958/2012,Inactive,N/A,Inactive,VillagetoWard,,Reclassified village to Naung Ka Ri Ward in Mawlamyine Town
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001015,Naung Kha Ri,194960,Kawt Ka Loke,ကော့ကလုပ်,,,,,GAD,,2012-05-11 00:00:00,,No. 958/2012,Inactive,N/A,Inactive,VillagetoWard,,Reclassified village to Naung Ka Ri Ward in Mawlamyine Town
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001015,Naung Kha Ri,219203,Myauk Kha Yun,မြောက်ခရွန်း,,,,,GAD,2011-02-28 00:00:00,2012-05-11 00:00:00,200/22-186/U-1,No. 958/2012,Inactive,N/A,Inactive,VillagetoWard,,Reclassified village to Naung Ka Ri Ward in Mawlamyine Town
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001015,Naung Kha Ri,194959,Naung Kha Ri,နောင်ခရိ,,,,,GAD,,2012-05-11 00:00:00,,No. 958/2012,Inactive,N/A,Inactive,VillagetoWard,,Reclassified village to Naung Ka Ri Ward in Mawlamyine Town
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001015,Naung Kha Ri,194961,Rakhine Kone,ရခိုင်ကုန်း,,,,,GAD,,2012-05-11 00:00:00,,No. 958/2012,Inactive,N/A,Inactive,VillagetoWard,,Reclassified village to Naung Ka Ri Ward in Mawlamyine Town
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001009,Ngan Tay,194945,Ngan Tay,ငန်းတေး,,,,,GAD,,2012-05-11 00:00:00,,No. 958/2012,Inactive,N/A,Inactive,VillagetoWard,,Reclassified village to Ngan Tay Ward in Mawlamyine Town
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001004,San Gyi,194930,In Waing,အင်ဝိုင်း,,,,,GAD,,2012-05-11 00:00:00,,No. 958/2012,Inactive,N/A,Inactive,VillagetoWard,,Reclassified village to San Gyi Ward in Mawlamyine Town
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001004,San Gyi,194929,San Gyi,စမ်းကြီး,,,,,GAD,,2012-05-11 00:00:00,,No. 958/2012,Inactive,N/A,Inactive,VillagetoWard,,Reclassified village to San Gyi Ward in Mawlamyine Town
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001019,Yo Goe,194970,Yo Goe (Ywar Haung),ရိုးဂိုး (ရွာဟောင်း),,,97.6680999,16.3620193,GAD,,,,,Active,N/A,Active,,,
+MMR011,Mon,MMR011D001,Mawlamyine,MMR011001,Mawlamyine,MMR011001019,Yo Goe,194971,Yo Goe (Ywar thit),ရိုးဂိုး (ရွာသစ်),,,97.6661433,16.3600204,GAD,,,,,Active,N/A,Active,,,

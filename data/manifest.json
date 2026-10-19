@@ -1,0 +1,2993 @@
+{
+  "source": "Myanmar_PCodes_Release_9.7_Jan2026_Countrywide.xlsm",
+  "levels": {
+    "states_regions": "01_states_regions.csv",
+    "townships_dir": "02_townships",
+    "villages_dir": "03_villages"
+  },
+  "village_columns": {
+    "pcode": 8,
+    "name_eng": 9,
+    "name_mmr": 10,
+    "vt_pcode": 6,
+    "vt_name_eng": 7,
+    "longitude": 13,
+    "latitude": 14
+  },
+  "states_regions": [
+    {
+      "pcode": "MMR017",
+      "name_eng": "Ayeyarwady",
+      "townships_file": "MMR017.csv",
+      "township_count": 26
+    },
+    {
+      "pcode": "MMR007",
+      "name_eng": "Bago (East)",
+      "townships_file": "MMR007.csv",
+      "township_count": 14
+    },
+    {
+      "pcode": "MMR008",
+      "name_eng": "Bago (West)",
+      "townships_file": "MMR008.csv",
+      "township_count": 14
+    },
+    {
+      "pcode": "MMR004",
+      "name_eng": "Chin",
+      "townships_file": "MMR004.csv",
+      "township_count": 9
+    },
+    {
+      "pcode": "MMR001",
+      "name_eng": "Kachin",
+      "townships_file": "MMR001.csv",
+      "township_count": 18
+    },
+    {
+      "pcode": "MMR002",
+      "name_eng": "Kayah",
+      "townships_file": "MMR002.csv",
+      "township_count": 7
+    },
+    {
+      "pcode": "MMR003",
+      "name_eng": "Kayin",
+      "townships_file": "MMR003.csv",
+      "township_count": 7
+    },
+    {
+      "pcode": "MMR009",
+      "name_eng": "Magway",
+      "townships_file": "MMR009.csv",
+      "township_count": 25
+    },
+    {
+      "pcode": "MMR010",
+      "name_eng": "Mandalay",
+      "townships_file": "MMR010.csv",
+      "township_count": 28
+    },
+    {
+      "pcode": "MMR011",
+      "name_eng": "Mon",
+      "townships_file": "MMR011.csv",
+      "township_count": 10
+    },
+    {
+      "pcode": "MMR018",
+      "name_eng": "Nay Pyi Taw",
+      "townships_file": "MMR018.csv",
+      "township_count": 8
+    },
+    {
+      "pcode": "MMR012",
+      "name_eng": "Rakhine",
+      "townships_file": "MMR012.csv",
+      "township_count": 17
+    },
+    {
+      "pcode": "MMR005",
+      "name_eng": "Sagaing",
+      "townships_file": "MMR005.csv",
+      "township_count": 37
+    },
+    {
+      "pcode": "MMR016",
+      "name_eng": "Shan (East)",
+      "townships_file": "MMR016.csv",
+      "township_count": 15
+    },
+    {
+      "pcode": "MMR015",
+      "name_eng": "Shan (North)",
+      "townships_file": "MMR015.csv",
+      "township_count": 45
+    },
+    {
+      "pcode": "MMR014",
+      "name_eng": "Shan (South)",
+      "townships_file": "MMR014.csv",
+      "township_count": 21
+    },
+    {
+      "pcode": "MMR006",
+      "name_eng": "Tanintharyi",
+      "townships_file": "MMR006.csv",
+      "township_count": 10
+    },
+    {
+      "pcode": "MMR013",
+      "name_eng": "Yangon",
+      "townships_file": "MMR013.csv",
+      "township_count": 47
+    }
+  ],
+  "townships": [
+    {
+      "pcode": "MMR017024",
+      "name_eng": "Bogale",
+      "name_mmr": "ဘိုကလေး",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017024.csv",
+      "village_count": 676
+    },
+    {
+      "pcode": "MMR017022",
+      "name_eng": "Danubyu",
+      "name_mmr": "ဓနုဖြူ",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017022.csv",
+      "village_count": 454
+    },
+    {
+      "pcode": "MMR017026",
+      "name_eng": "Dedaye",
+      "name_mmr": "ဒေးဒရဲ",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017026.csv",
+      "village_count": 433
+    },
+    {
+      "pcode": "MMR017015",
+      "name_eng": "Einme",
+      "name_mmr": "အိမ်မဲ",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017015.csv",
+      "village_count": 511
+    },
+    {
+      "pcode": "MMR017008",
+      "name_eng": "Hinthada",
+      "name_mmr": "ဟင်္သာတ",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017008.csv",
+      "village_count": 951
+    },
+    {
+      "pcode": "MMR017013",
+      "name_eng": "Ingapu",
+      "name_mmr": "အင်္ဂပူ",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017013.csv",
+      "village_count": 675
+    },
+    {
+      "pcode": "MMR017002",
+      "name_eng": "Kangyidaunt",
+      "name_mmr": "ကန်ကြီးထောင့်",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017002.csv",
+      "village_count": 386
+    },
+    {
+      "pcode": "MMR017025",
+      "name_eng": "Kyaiklat",
+      "name_mmr": "ကျိုက်လတ်",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017025.csv",
+      "village_count": 426
+    },
+    {
+      "pcode": "MMR017012",
+      "name_eng": "Kyangin",
+      "name_mmr": "ကြံခင်း",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017012.csv",
+      "village_count": 261
+    },
+    {
+      "pcode": "MMR017007",
+      "name_eng": "Kyaunggon",
+      "name_mmr": "ကျောင်းကုန်း",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017007.csv",
+      "village_count": 421
+    },
+    {
+      "pcode": "MMR017005",
+      "name_eng": "Kyonpyaw",
+      "name_mmr": "ကျုံပျော်",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017005.csv",
+      "village_count": 527
+    },
+    {
+      "pcode": "MMR017016",
+      "name_eng": "Labutta",
+      "name_mmr": "လပွတ္တာ",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017016.csv",
+      "village_count": 582
+    },
+    {
+      "pcode": "MMR017010",
+      "name_eng": "Lemyethna",
+      "name_mmr": "လေးမျက်နှာ",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017010.csv",
+      "village_count": 288
+    },
+    {
+      "pcode": "MMR017019",
+      "name_eng": "Maubin",
+      "name_mmr": "မအူပင်",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017019.csv",
+      "village_count": 470
+    },
+    {
+      "pcode": "MMR017018",
+      "name_eng": "Mawlamyinegyun",
+      "name_mmr": "မော်လမြိုင်ကျွန်း",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017018.csv",
+      "village_count": 730
+    },
+    {
+      "pcode": "MMR017011",
+      "name_eng": "Myanaung",
+      "name_mmr": "မြန်အောင်",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017011.csv",
+      "village_count": 519
+    },
+    {
+      "pcode": "MMR017014",
+      "name_eng": "Myaungmya",
+      "name_mmr": "မြောင်းမြ",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017014.csv",
+      "village_count": 538
+    },
+    {
+      "pcode": "MMR017004",
+      "name_eng": "Ngapudaw",
+      "name_mmr": "ငပုတော",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017004.csv",
+      "village_count": 440
+    },
+    {
+      "pcode": "MMR017021",
+      "name_eng": "Nyaungdon",
+      "name_mmr": "ညောင်တုန်း",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017021.csv",
+      "village_count": 314
+    },
+    {
+      "pcode": "MMR017020",
+      "name_eng": "Pantanaw",
+      "name_mmr": "ပန်းတနော်",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017020.csv",
+      "village_count": 452
+    },
+    {
+      "pcode": "MMR017001",
+      "name_eng": "Pathein",
+      "name_mmr": "ပုသိမ်",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017001.csv",
+      "village_count": 304
+    },
+    {
+      "pcode": "MMR017023",
+      "name_eng": "Pyapon",
+      "name_mmr": "ဖျာပုံ",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017023.csv",
+      "village_count": 295
+    },
+    {
+      "pcode": "MMR017003",
+      "name_eng": "Thabaung",
+      "name_mmr": "သာပေါင်း",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017003.csv",
+      "village_count": 444
+    },
+    {
+      "pcode": "MMR017017",
+      "name_eng": "Wakema",
+      "name_mmr": "ဝါးခယ်မ",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017017.csv",
+      "village_count": 590
+    },
+    {
+      "pcode": "MMR017006",
+      "name_eng": "Yegyi",
+      "name_mmr": "ရေကြည်",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017006.csv",
+      "village_count": 548
+    },
+    {
+      "pcode": "MMR017009",
+      "name_eng": "Zalun",
+      "name_mmr": "ဇလွန်",
+      "sr_pcode": "MMR017",
+      "villages_file": "MMR017009.csv",
+      "village_count": 463
+    },
+    {
+      "pcode": "MMR007001",
+      "name_eng": "Bago",
+      "name_mmr": "ပဲခူး",
+      "sr_pcode": "MMR007",
+      "villages_file": "MMR007001.csv",
+      "village_count": 229
+    },
+    {
+      "pcode": "MMR007007",
+      "name_eng": "Daik-U",
+      "name_mmr": "ဒိုက်ဦး",
+      "sr_pcode": "MMR007",
+      "villages_file": "MMR007007.csv",
+      "village_count": 184
+    },
+    {
+      "pcode": "MMR007014",
+      "name_eng": "Htantabin",
+      "name_mmr": "ထန်းတပင်",
+      "sr_pcode": "MMR007",
+      "villages_file": "MMR007014.csv",
+      "village_count": 114
+    },
+    {
+      "pcode": "MMR007003",
+      "name_eng": "Kawa",
+      "name_mmr": "ကဝ",
+      "sr_pcode": "MMR007",
+      "villages_file": "MMR007003.csv",
+      "village_count": 160
+    },
+    {
+      "pcode": "MMR007011",
+      "name_eng": "Kyaukkyi",
+      "name_mmr": "ကျောက်ကြီး",
+      "sr_pcode": "MMR007",
+      "villages_file": "MMR007011.csv",
+      "village_count": 241
+    },
+    {
+      "pcode": "MMR007006",
+      "name_eng": "Kyauktaga",
+      "name_mmr": "ကျောက်တံခါး",
+      "sr_pcode": "MMR007",
+      "villages_file": "MMR007006.csv",
+      "village_count": 324
+    },
+    {
+      "pcode": "MMR007005",
+      "name_eng": "Nyaunglebin",
+      "name_mmr": "ညောင်လေးပင်",
+      "sr_pcode": "MMR007",
+      "villages_file": "MMR007005.csv",
+      "village_count": 152
+    },
+    {
+      "pcode": "MMR007013",
+      "name_eng": "Oktwin",
+      "name_mmr": "အုတ်တွင်း",
+      "sr_pcode": "MMR007",
+      "villages_file": "MMR007013.csv",
+      "village_count": 239
+    },
+    {
+      "pcode": "MMR007012",
+      "name_eng": "Phyu",
+      "name_mmr": "ဖြူး",
+      "sr_pcode": "MMR007",
+      "villages_file": "MMR007012.csv",
+      "village_count": 353
+    },
+    {
+      "pcode": "MMR007008",
+      "name_eng": "Shwegyin",
+      "name_mmr": "ရွှေကျင်",
+      "sr_pcode": "MMR007",
+      "villages_file": "MMR007008.csv",
+      "village_count": 227
+    },
+    {
+      "pcode": "MMR007009",
+      "name_eng": "Taungoo",
+      "name_mmr": "တောင်ငူ",
+      "sr_pcode": "MMR007",
+      "villages_file": "MMR007009.csv",
+      "village_count": 264
+    },
+    {
+      "pcode": "MMR007002",
+      "name_eng": "Thanatpin",
+      "name_mmr": "သနပ်ပင်",
+      "sr_pcode": "MMR007",
+      "villages_file": "MMR007002.csv",
+      "village_count": 103
+    },
+    {
+      "pcode": "MMR007004",
+      "name_eng": "Waw",
+      "name_mmr": "ဝေါ",
+      "sr_pcode": "MMR007",
+      "villages_file": "MMR007004.csv",
+      "village_count": 119
+    },
+    {
+      "pcode": "MMR007010",
+      "name_eng": "Yedashe",
+      "name_mmr": "ရေတာရှည်",
+      "sr_pcode": "MMR007",
+      "villages_file": "MMR007010.csv",
+      "village_count": 341
+    },
+    {
+      "pcode": "MMR008014",
+      "name_eng": "Gyobingauk",
+      "name_mmr": "ကြို့ပင်ကောက်",
+      "sr_pcode": "MMR008",
+      "villages_file": "MMR008014.csv",
+      "village_count": 277
+    },
+    {
+      "pcode": "MMR008008",
+      "name_eng": "Letpadan",
+      "name_mmr": "လက်ပံတန်း",
+      "sr_pcode": "MMR008",
+      "villages_file": "MMR008008.csv",
+      "village_count": 311
+    },
+    {
+      "pcode": "MMR008009",
+      "name_eng": "Minhla",
+      "name_mmr": "မင်းလှ",
+      "sr_pcode": "MMR008",
+      "villages_file": "MMR008009.csv",
+      "village_count": 248
+    },
+    {
+      "pcode": "MMR008013",
+      "name_eng": "Monyo",
+      "name_mmr": "မိုးညို",
+      "sr_pcode": "MMR008",
+      "villages_file": "MMR008013.csv",
+      "village_count": 207
+    },
+    {
+      "pcode": "MMR008012",
+      "name_eng": "Nattalin",
+      "name_mmr": "နတ်တလင်း",
+      "sr_pcode": "MMR008",
+      "villages_file": "MMR008012.csv",
+      "village_count": 367
+    },
+    {
+      "pcode": "MMR008010",
+      "name_eng": "Okpho",
+      "name_mmr": "အုတ်ဖို",
+      "sr_pcode": "MMR008",
+      "villages_file": "MMR008010.csv",
+      "village_count": 255
+    },
+    {
+      "pcode": "MMR008003",
+      "name_eng": "Padaung",
+      "name_mmr": "ပန်းတောင်း",
+      "sr_pcode": "MMR008",
+      "villages_file": "MMR008003.csv",
+      "village_count": 211
+    },
+    {
+      "pcode": "MMR008002",
+      "name_eng": "Paukkhaung",
+      "name_mmr": "ပေါက်ခေါင်း",
+      "sr_pcode": "MMR008",
+      "villages_file": "MMR008002.csv",
+      "village_count": 247
+    },
+    {
+      "pcode": "MMR008004",
+      "name_eng": "Paungde",
+      "name_mmr": "ပေါင်းတည်",
+      "sr_pcode": "MMR008",
+      "villages_file": "MMR008004.csv",
+      "village_count": 244
+    },
+    {
+      "pcode": "MMR008001",
+      "name_eng": "Pyay",
+      "name_mmr": "ပြည်",
+      "sr_pcode": "MMR008",
+      "villages_file": "MMR008001.csv",
+      "village_count": 261
+    },
+    {
+      "pcode": "MMR008006",
+      "name_eng": "Shwedaung",
+      "name_mmr": "ရွှေတောင်",
+      "sr_pcode": "MMR008",
+      "villages_file": "MMR008006.csv",
+      "village_count": 297
+    },
+    {
+      "pcode": "MMR008007",
+      "name_eng": "Thayarwady",
+      "name_mmr": "သာယာဝတီ",
+      "sr_pcode": "MMR008",
+      "villages_file": "MMR008007.csv",
+      "village_count": 263
+    },
+    {
+      "pcode": "MMR008005",
+      "name_eng": "Thegon",
+      "name_mmr": "သဲကုန်း",
+      "sr_pcode": "MMR008",
+      "villages_file": "MMR008005.csv",
+      "village_count": 349
+    },
+    {
+      "pcode": "MMR008011",
+      "name_eng": "Zigon",
+      "name_mmr": "ဇီးကုန်း",
+      "sr_pcode": "MMR008",
+      "villages_file": "MMR008011.csv",
+      "village_count": 132
+    },
+    {
+      "pcode": "MMR004001",
+      "name_eng": "Falam",
+      "name_mmr": "ဖလမ်း",
+      "sr_pcode": "MMR004",
+      "villages_file": "MMR004001.csv",
+      "village_count": 194
+    },
+    {
+      "pcode": "MMR004002",
+      "name_eng": "Hakha",
+      "name_mmr": "ဟားခါး",
+      "sr_pcode": "MMR004",
+      "villages_file": "MMR004002.csv",
+      "village_count": 70
+    },
+    {
+      "pcode": "MMR004008",
+      "name_eng": "Kanpetlet",
+      "name_mmr": "ကန်ပက်လက်",
+      "sr_pcode": "MMR004",
+      "villages_file": "MMR004008.csv",
+      "village_count": 113
+    },
+    {
+      "pcode": "MMR004007",
+      "name_eng": "Matupi",
+      "name_mmr": "မတူပီ",
+      "sr_pcode": "MMR004",
+      "villages_file": "MMR004007.csv",
+      "village_count": 145
+    },
+    {
+      "pcode": "MMR004006",
+      "name_eng": "Mindat",
+      "name_mmr": "မင်းတပ်",
+      "sr_pcode": "MMR004",
+      "villages_file": "MMR004006.csv",
+      "village_count": 210
+    },
+    {
+      "pcode": "MMR004009",
+      "name_eng": "Paletwa",
+      "name_mmr": "ပလက်ဝ",
+      "sr_pcode": "MMR004",
+      "villages_file": "MMR004009.csv",
+      "village_count": 455
+    },
+    {
+      "pcode": "MMR004004",
+      "name_eng": "Tedim",
+      "name_mmr": "တီးတိန်",
+      "sr_pcode": "MMR004",
+      "villages_file": "MMR004004.csv",
+      "village_count": 135
+    },
+    {
+      "pcode": "MMR004003",
+      "name_eng": "Thantlang",
+      "name_mmr": "ထန်တလန်",
+      "sr_pcode": "MMR004",
+      "villages_file": "MMR004003.csv",
+      "village_count": 93
+    },
+    {
+      "pcode": "MMR004005",
+      "name_eng": "Tonzang",
+      "name_mmr": "တွန်းဇန်",
+      "sr_pcode": "MMR004",
+      "villages_file": "MMR004005.csv",
+      "village_count": 103
+    },
+    {
+      "pcode": "MMR001010",
+      "name_eng": "Bhamo",
+      "name_mmr": "ဗန်းမော်",
+      "sr_pcode": "MMR001",
+      "villages_file": "MMR001010.csv",
+      "village_count": 92
+    },
+    {
+      "pcode": "MMR001005",
+      "name_eng": "Chipwi",
+      "name_mmr": "ချီ​ဖွေ",
+      "sr_pcode": "MMR001",
+      "villages_file": "MMR001005.csv",
+      "village_count": 153
+    },
+    {
+      "pcode": "MMR001009",
+      "name_eng": "Hpakant",
+      "name_mmr": "ဖားကန့်",
+      "sr_pcode": "MMR001",
+      "villages_file": "MMR001009.csv",
+      "village_count": 116
+    },
+    {
+      "pcode": "MMR001003",
+      "name_eng": "Injangyang",
+      "name_mmr": "အင်ဂျန်းယန်",
+      "sr_pcode": "MMR001",
+      "villages_file": "MMR001003.csv",
+      "village_count": 367
+    },
+    {
+      "pcode": "MMR001018",
+      "name_eng": "Khaunglanhpu",
+      "name_mmr": "ခေါင်လန်ဖူး",
+      "sr_pcode": "MMR001",
+      "villages_file": "MMR001018.csv",
+      "village_count": 217
+    },
+    {
+      "pcode": "MMR001016",
+      "name_eng": "Machanbaw",
+      "name_mmr": "မချမ်းဘော",
+      "sr_pcode": "MMR001",
+      "villages_file": "MMR001016.csv",
+      "village_count": 112
+    },
+    {
+      "pcode": "MMR001013",
+      "name_eng": "Mansi",
+      "name_mmr": "မံစီ",
+      "sr_pcode": "MMR001",
+      "villages_file": "MMR001013.csv",
+      "village_count": 325
+    },
+    {
+      "pcode": "MMR001008",
+      "name_eng": "Mogaung",
+      "name_mmr": "မိုးကောင်း",
+      "sr_pcode": "MMR001",
+      "villages_file": "MMR001008.csv",
+      "village_count": 104
+    },
+    {
+      "pcode": "MMR001007",
+      "name_eng": "Mohnyin",
+      "name_mmr": "မိုးညှင်း",
+      "sr_pcode": "MMR001",
+      "villages_file": "MMR001007.csv",
+      "village_count": 160
+    },
+    {
+      "pcode": "MMR001012",
+      "name_eng": "Momauk",
+      "name_mmr": "မိုးမောက်",
+      "sr_pcode": "MMR001",
+      "villages_file": "MMR001012.csv",
+      "village_count": 307
+    },
+    {
+      "pcode": "MMR001001",
+      "name_eng": "Myitkyina",
+      "name_mmr": "မြစ်ကြီးနား",
+      "sr_pcode": "MMR001",
+      "villages_file": "MMR001001.csv",
+      "village_count": 76
+    },
+    {
+      "pcode": "MMR001017",
+      "name_eng": "Nawngmun",
+      "name_mmr": "နောင်မွန်း",
+      "sr_pcode": "MMR001",
+      "villages_file": "MMR001017.csv",
+      "village_count": 60
+    },
+    {
+      "pcode": "MMR001014",
+      "name_eng": "Puta-O",
+      "name_mmr": "ပူတာအို",
+      "sr_pcode": "MMR001",
+      "villages_file": "MMR001014.csv",
+      "village_count": 128
+    },
+    {
+      "pcode": "MMR001011",
+      "name_eng": "Shwegu",
+      "name_mmr": "ရွှေကူ",
+      "sr_pcode": "MMR001",
+      "villages_file": "MMR001011.csv",
+      "village_count": 110
+    },
+    {
+      "pcode": "MMR001015",
+      "name_eng": "Sumprabum",
+      "name_mmr": "ဆွမ်ပရာဘွမ်",
+      "sr_pcode": "MMR001",
+      "villages_file": "MMR001015.csv",
+      "village_count": 358
+    },
+    {
+      "pcode": "MMR001004",
+      "name_eng": "Tanai",
+      "name_mmr": "တနိုင်း",
+      "sr_pcode": "MMR001",
+      "villages_file": "MMR001004.csv",
+      "village_count": 72
+    },
+    {
+      "pcode": "MMR001006",
+      "name_eng": "Tsawlaw",
+      "name_mmr": "ဆော့လော်",
+      "sr_pcode": "MMR001",
+      "villages_file": "MMR001006.csv",
+      "village_count": 144
+    },
+    {
+      "pcode": "MMR001002",
+      "name_eng": "Waingmaw",
+      "name_mmr": "ဝိုင်းမော်",
+      "sr_pcode": "MMR001",
+      "villages_file": "MMR001002.csv",
+      "village_count": 263
+    },
+    {
+      "pcode": "MMR002005",
+      "name_eng": "Bawlake",
+      "name_mmr": "ဘောလခဲ",
+      "sr_pcode": "MMR002",
+      "villages_file": "MMR002005.csv",
+      "village_count": 30
+    },
+    {
+      "pcode": "MMR002002",
+      "name_eng": "Demoso",
+      "name_mmr": "ဒီးမော့ဆို",
+      "sr_pcode": "MMR002",
+      "villages_file": "MMR002002.csv",
+      "village_count": 190
+    },
+    {
+      "pcode": "MMR002006",
+      "name_eng": "Hpasawng",
+      "name_mmr": "ဖားဆောင်း",
+      "sr_pcode": "MMR002",
+      "villages_file": "MMR002006.csv",
+      "village_count": 64
+    },
+    {
+      "pcode": "MMR002003",
+      "name_eng": "Hpruso",
+      "name_mmr": "ဖရူဆို",
+      "sr_pcode": "MMR002",
+      "villages_file": "MMR002003.csv",
+      "village_count": 117
+    },
+    {
+      "pcode": "MMR002001",
+      "name_eng": "Loikaw",
+      "name_mmr": "လွိုင်ကော်",
+      "sr_pcode": "MMR002",
+      "villages_file": "MMR002001.csv",
+      "village_count": 182
+    },
+    {
+      "pcode": "MMR002007",
+      "name_eng": "Mese",
+      "name_mmr": "မယ်စဲ့",
+      "sr_pcode": "MMR002",
+      "villages_file": "MMR002007.csv",
+      "village_count": 26
+    },
+    {
+      "pcode": "MMR002004",
+      "name_eng": "Shadaw",
+      "name_mmr": "ရှားတော",
+      "sr_pcode": "MMR002",
+      "villages_file": "MMR002004.csv",
+      "village_count": 107
+    },
+    {
+      "pcode": "MMR003002",
+      "name_eng": "Hlaingbwe",
+      "name_mmr": "လှိုင်းဘွဲ့",
+      "sr_pcode": "MMR003",
+      "villages_file": "MMR003002.csv",
+      "village_count": 403
+    },
+    {
+      "pcode": "MMR003001",
+      "name_eng": "Hpa-An",
+      "name_mmr": "ဘားအံ",
+      "sr_pcode": "MMR003",
+      "villages_file": "MMR003001.csv",
+      "village_count": 481
+    },
+    {
+      "pcode": "MMR003003",
+      "name_eng": "Hpapun",
+      "name_mmr": "ဖာပွန်",
+      "sr_pcode": "MMR003",
+      "villages_file": "MMR003003.csv",
+      "village_count": 307
+    },
+    {
+      "pcode": "MMR003006",
+      "name_eng": "Kawkareik",
+      "name_mmr": "ကော့ကရိတ်",
+      "sr_pcode": "MMR003",
+      "villages_file": "MMR003006.csv",
+      "village_count": 261
+    },
+    {
+      "pcode": "MMR003007",
+      "name_eng": "Kyainseikgyi",
+      "name_mmr": "ကြာအင်းဆိပ်ကြီး",
+      "sr_pcode": "MMR003",
+      "villages_file": "MMR003007.csv",
+      "village_count": 293
+    },
+    {
+      "pcode": "MMR003005",
+      "name_eng": "Myawaddy",
+      "name_mmr": "မြဝတီ",
+      "sr_pcode": "MMR003",
+      "villages_file": "MMR003005.csv",
+      "village_count": 76
+    },
+    {
+      "pcode": "MMR003004",
+      "name_eng": "Thandaunggyi",
+      "name_mmr": "သံတောင်ကြီး",
+      "sr_pcode": "MMR003",
+      "villages_file": "MMR003004.csv",
+      "village_count": 342
+    },
+    {
+      "pcode": "MMR009016",
+      "name_eng": "Aunglan",
+      "name_mmr": "အောင်လံ",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009016.csv",
+      "village_count": 249
+    },
+    {
+      "pcode": "MMR009003",
+      "name_eng": "Chauk",
+      "name_mmr": "ချောက်",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009003.csv",
+      "village_count": 230
+    },
+    {
+      "pcode": "MMR009023",
+      "name_eng": "Gangaw",
+      "name_mmr": "ဂန့်ဂေါ",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009023.csv",
+      "village_count": 116
+    },
+    {
+      "pcode": "MMR009015",
+      "name_eng": "Kamma",
+      "name_mmr": "ကံမ",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009015.csv",
+      "village_count": 156
+    },
+    {
+      "pcode": "MMR009001",
+      "name_eng": "Magway",
+      "name_mmr": "မကွေး",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009001.csv",
+      "village_count": 217
+    },
+    {
+      "pcode": "MMR009007",
+      "name_eng": "Minbu",
+      "name_mmr": "မင်းဘူး",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009007.csv",
+      "village_count": 154
+    },
+    {
+      "pcode": "MMR009014",
+      "name_eng": "Mindon",
+      "name_mmr": "မင်းတုန်း",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009014.csv",
+      "village_count": 182
+    },
+    {
+      "pcode": "MMR009013",
+      "name_eng": "Minhla",
+      "name_mmr": "မင်းလှ",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009013.csv",
+      "village_count": 157
+    },
+    {
+      "pcode": "MMR009020",
+      "name_eng": "Myaing",
+      "name_mmr": "မြိုင်",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009020.csv",
+      "village_count": 333
+    },
+    {
+      "pcode": "MMR009005",
+      "name_eng": "Myothit",
+      "name_mmr": "မြို့သစ်",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009005.csv",
+      "village_count": 181
+    },
+    {
+      "pcode": "MMR009006",
+      "name_eng": "Natmauk",
+      "name_mmr": "နတ်မောက်",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009006.csv",
+      "village_count": 237
+    },
+    {
+      "pcode": "MMR009009",
+      "name_eng": "Ngape",
+      "name_mmr": "ငဖဲ",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009009.csv",
+      "village_count": 83
+    },
+    {
+      "pcode": "MMR009018",
+      "name_eng": "Pakokku",
+      "name_mmr": "ပခုက္ကူ",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009018.csv",
+      "village_count": 272
+    },
+    {
+      "pcode": "MMR009021",
+      "name_eng": "Pauk",
+      "name_mmr": "ပေါက်",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009021.csv",
+      "village_count": 235
+    },
+    {
+      "pcode": "MMR009008",
+      "name_eng": "Pwintbyu",
+      "name_mmr": "ပွင့်ဖြူ",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009008.csv",
+      "village_count": 205
+    },
+    {
+      "pcode": "MMR009010",
+      "name_eng": "Salin",
+      "name_mmr": "စလင်း",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009010.csv",
+      "village_count": 427
+    },
+    {
+      "pcode": "MMR009025",
+      "name_eng": "Saw",
+      "name_mmr": "ဆော",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009025.csv",
+      "village_count": 121
+    },
+    {
+      "pcode": "MMR009022",
+      "name_eng": "Seikphyu",
+      "name_mmr": "ဆိပ်ဖြူ",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009022.csv",
+      "village_count": 145
+    },
+    {
+      "pcode": "MMR009011",
+      "name_eng": "Sidoktaya",
+      "name_mmr": "စေတုတ္ထရာ",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009011.csv",
+      "village_count": 122
+    },
+    {
+      "pcode": "MMR009017",
+      "name_eng": "Sinbaungwe",
+      "name_mmr": "ဆင်ပေါင်ဝဲ",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009017.csv",
+      "village_count": 144
+    },
+    {
+      "pcode": "MMR009004",
+      "name_eng": "Taungdwingyi",
+      "name_mmr": "တောင်တွင်းကြီး",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009004.csv",
+      "village_count": 289
+    },
+    {
+      "pcode": "MMR009012",
+      "name_eng": "Thayet",
+      "name_mmr": "သရက်",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009012.csv",
+      "village_count": 159
+    },
+    {
+      "pcode": "MMR009024",
+      "name_eng": "Tilin",
+      "name_mmr": "ထီးလင်း",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009024.csv",
+      "village_count": 96
+    },
+    {
+      "pcode": "MMR009002",
+      "name_eng": "Yenangyaung",
+      "name_mmr": "ရေနံချောင်း",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009002.csv",
+      "village_count": 146
+    },
+    {
+      "pcode": "MMR009019",
+      "name_eng": "Yesagyo",
+      "name_mmr": "ရေစကြို",
+      "sr_pcode": "MMR009",
+      "villages_file": "MMR009019.csv",
+      "village_count": 252
+    },
+    {
+      "pcode": "MMR010006",
+      "name_eng": "Amarapura",
+      "name_mmr": "အမရပူရ",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010006.csv",
+      "village_count": 181
+    },
+    {
+      "pcode": "MMR010001",
+      "name_eng": "Aungmyaythazan",
+      "name_mmr": "အောင်မြေသာစံ",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010001.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR010002",
+      "name_eng": "Chanayethazan",
+      "name_mmr": "ချမ်းအေးသာစံ",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010002.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR010004",
+      "name_eng": "Chanmyathazi",
+      "name_mmr": "ချမ်းမြသာစည်",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010004.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR010020",
+      "name_eng": "Kyaukpadaung",
+      "name_mmr": "ကျောက်ပန်းတောင်း",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010020.csv",
+      "village_count": 343
+    },
+    {
+      "pcode": "MMR010013",
+      "name_eng": "Kyaukse",
+      "name_mmr": "ကျောက်ဆည်",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010013.csv",
+      "village_count": 241
+    },
+    {
+      "pcode": "MMR010009",
+      "name_eng": "Madaya",
+      "name_mmr": "မတ္တရာ",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010009.csv",
+      "village_count": 296
+    },
+    {
+      "pcode": "MMR010003",
+      "name_eng": "Mahaaungmyay",
+      "name_mmr": "မဟာအောင်မြေ",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010003.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR010029",
+      "name_eng": "Mahlaing",
+      "name_mmr": "မလှိုင်",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010029.csv",
+      "village_count": 247
+    },
+    {
+      "pcode": "MMR010028",
+      "name_eng": "Meiktila",
+      "name_mmr": "မိတ္ထီလာ",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010028.csv",
+      "village_count": 390
+    },
+    {
+      "pcode": "MMR010011",
+      "name_eng": "Mogoke",
+      "name_mmr": "မိုးကုတ်",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010011.csv",
+      "village_count": 141
+    },
+    {
+      "pcode": "MMR010017",
+      "name_eng": "Myingyan",
+      "name_mmr": "မြင်းခြံ",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010017.csv",
+      "village_count": 187
+    },
+    {
+      "pcode": "MMR010015",
+      "name_eng": "Myittha",
+      "name_mmr": "မြစ်သား",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010015.csv",
+      "village_count": 243
+    },
+    {
+      "pcode": "MMR010019",
+      "name_eng": "Natogyi",
+      "name_mmr": "နွားထိုးကြီး",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010019.csv",
+      "village_count": 190
+    },
+    {
+      "pcode": "MMR010021",
+      "name_eng": "Ngazun",
+      "name_mmr": "ငါန်းဇွန်",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010021.csv",
+      "village_count": 161
+    },
+    {
+      "pcode": "MMR010022",
+      "name_eng": "Nyaung-U",
+      "name_mmr": "ညောင်ဦး",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010022.csv",
+      "village_count": 232
+    },
+    {
+      "pcode": "MMR010007",
+      "name_eng": "Patheingyi",
+      "name_mmr": "ပုသိမ်ကြီး",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010007.csv",
+      "village_count": 147
+    },
+    {
+      "pcode": "MMR010024",
+      "name_eng": "Pyawbwe",
+      "name_mmr": "ပျော်ဘွယ်",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010024.csv",
+      "village_count": 320
+    },
+    {
+      "pcode": "MMR010005",
+      "name_eng": "Pyigyitagon",
+      "name_mmr": "ပြည်ကြီးတံခွန်",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010005.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR010008",
+      "name_eng": "Pyinoolwin",
+      "name_mmr": "ပြင်ဦးလွင်",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010008.csv",
+      "village_count": 120
+    },
+    {
+      "pcode": "MMR010010",
+      "name_eng": "Singu",
+      "name_mmr": "စဉ့်ကူး",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010010.csv",
+      "village_count": 137
+    },
+    {
+      "pcode": "MMR010014",
+      "name_eng": "Sintgaing",
+      "name_mmr": "စဉ့်ကိုင်",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010014.csv",
+      "village_count": 167
+    },
+    {
+      "pcode": "MMR010016",
+      "name_eng": "Tada-U",
+      "name_mmr": "တံတားဦး",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010016.csv",
+      "village_count": 172
+    },
+    {
+      "pcode": "MMR010018",
+      "name_eng": "Taungtha",
+      "name_mmr": "တောင်သာ",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010018.csv",
+      "village_count": 248
+    },
+    {
+      "pcode": "MMR010012",
+      "name_eng": "Thabeikkyin",
+      "name_mmr": "သပိတ်ကျင်း",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010012.csv",
+      "village_count": 74
+    },
+    {
+      "pcode": "MMR010030",
+      "name_eng": "Thazi",
+      "name_mmr": "သာစည်",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010030.csv",
+      "village_count": 260
+    },
+    {
+      "pcode": "MMR010031",
+      "name_eng": "Wundwin",
+      "name_mmr": "ဝမ်းတွင်း",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010031.csv",
+      "village_count": 218
+    },
+    {
+      "pcode": "MMR010023",
+      "name_eng": "Yamethin",
+      "name_mmr": "ရမည်းသင်း",
+      "sr_pcode": "MMR010",
+      "villages_file": "MMR010023.csv",
+      "village_count": 260
+    },
+    {
+      "pcode": "MMR011010",
+      "name_eng": "Bilin",
+      "name_mmr": "ဘီးလင်း",
+      "sr_pcode": "MMR011",
+      "villages_file": "MMR011010.csv",
+      "village_count": 245
+    },
+    {
+      "pcode": "MMR011003",
+      "name_eng": "Chaungzon",
+      "name_mmr": "ချောင်းဆုံ",
+      "sr_pcode": "MMR011",
+      "villages_file": "MMR011003.csv",
+      "village_count": 80
+    },
+    {
+      "pcode": "MMR011002",
+      "name_eng": "Kyaikmaraw",
+      "name_mmr": "ကျိုက်မရော",
+      "sr_pcode": "MMR011",
+      "villages_file": "MMR011002.csv",
+      "village_count": 172
+    },
+    {
+      "pcode": "MMR011009",
+      "name_eng": "Kyaikto",
+      "name_mmr": "ကျိုက်ထို",
+      "sr_pcode": "MMR011",
+      "villages_file": "MMR011009.csv",
+      "village_count": 90
+    },
+    {
+      "pcode": "MMR011001",
+      "name_eng": "Mawlamyine",
+      "name_mmr": "မော်လမြိုင်",
+      "sr_pcode": "MMR011",
+      "villages_file": "MMR011001.csv",
+      "village_count": 51
+    },
+    {
+      "pcode": "MMR011005",
+      "name_eng": "Mudon",
+      "name_mmr": "မုဒုံ",
+      "sr_pcode": "MMR011",
+      "villages_file": "MMR011005.csv",
+      "village_count": 56
+    },
+    {
+      "pcode": "MMR011008",
+      "name_eng": "Paung",
+      "name_mmr": "ပေါင်",
+      "sr_pcode": "MMR011",
+      "villages_file": "MMR011008.csv",
+      "village_count": 169
+    },
+    {
+      "pcode": "MMR011004",
+      "name_eng": "Thanbyuzayat",
+      "name_mmr": "သံဖြူဇရပ်",
+      "sr_pcode": "MMR011",
+      "villages_file": "MMR011004.csv",
+      "village_count": 95
+    },
+    {
+      "pcode": "MMR011007",
+      "name_eng": "Thaton",
+      "name_mmr": "သထုံ",
+      "sr_pcode": "MMR011",
+      "villages_file": "MMR011007.csv",
+      "village_count": 198
+    },
+    {
+      "pcode": "MMR011006",
+      "name_eng": "Ye",
+      "name_mmr": "ရေး",
+      "sr_pcode": "MMR011",
+      "villages_file": "MMR011006.csv",
+      "village_count": 161
+    },
+    {
+      "pcode": "MMR018004",
+      "name_eng": "Det Khi Na Thi Ri",
+      "name_mmr": "ဒက္ခိဏသီရိ",
+      "sr_pcode": "MMR018",
+      "villages_file": "MMR018004.csv",
+      "village_count": 36
+    },
+    {
+      "pcode": "MMR018007",
+      "name_eng": "Lewe",
+      "name_mmr": "လယ်ဝေး",
+      "sr_pcode": "MMR018",
+      "villages_file": "MMR018007.csv",
+      "village_count": 288
+    },
+    {
+      "pcode": "MMR018008",
+      "name_eng": "Oke Ta Ra Thi Ri",
+      "name_mmr": "ဥတ္တရသီရိ",
+      "sr_pcode": "MMR018",
+      "villages_file": "MMR018008.csv",
+      "village_count": 56
+    },
+    {
+      "pcode": "MMR018005",
+      "name_eng": "Poke Ba Thi Ri",
+      "name_mmr": "ပုဗ္ဗသီရိ",
+      "sr_pcode": "MMR018",
+      "villages_file": "MMR018005.csv",
+      "village_count": 79
+    },
+    {
+      "pcode": "MMR018006",
+      "name_eng": "Pyinmana",
+      "name_mmr": "ပျဉ်းမနား",
+      "sr_pcode": "MMR018",
+      "villages_file": "MMR018006.csv",
+      "village_count": 172
+    },
+    {
+      "pcode": "MMR018003",
+      "name_eng": "Tatkon",
+      "name_mmr": "တပ်ကုန်း",
+      "sr_pcode": "MMR018",
+      "villages_file": "MMR018003.csv",
+      "village_count": 197
+    },
+    {
+      "pcode": "MMR018002",
+      "name_eng": "Za Bu Thi Ri",
+      "name_mmr": "ဇမ္ဗူသီရိ",
+      "sr_pcode": "MMR018",
+      "villages_file": "MMR018002.csv",
+      "village_count": 20
+    },
+    {
+      "pcode": "MMR018001",
+      "name_eng": "Zay Yar Thi Ri",
+      "name_mmr": "ဇေယျာသီရိ",
+      "sr_pcode": "MMR018",
+      "villages_file": "MMR018001.csv",
+      "village_count": 68
+    },
+    {
+      "pcode": "MMR012014",
+      "name_eng": "Ann",
+      "name_mmr": "အမ်း",
+      "sr_pcode": "MMR012",
+      "villages_file": "MMR012014.csv",
+      "village_count": 292
+    },
+    {
+      "pcode": "MMR012010",
+      "name_eng": "Buthidaung",
+      "name_mmr": "ဘူးသီးတောင်",
+      "sr_pcode": "MMR012",
+      "villages_file": "MMR012010.csv",
+      "village_count": 370
+    },
+    {
+      "pcode": "MMR012017",
+      "name_eng": "Gwa",
+      "name_mmr": "ဂွ",
+      "sr_pcode": "MMR012",
+      "villages_file": "MMR012017.csv",
+      "village_count": 176
+    },
+    {
+      "pcode": "MMR012011",
+      "name_eng": "Kyaukpyu",
+      "name_mmr": "ကျောက်ဖြူ",
+      "sr_pcode": "MMR012",
+      "villages_file": "MMR012011.csv",
+      "village_count": 281
+    },
+    {
+      "pcode": "MMR012004",
+      "name_eng": "Kyauktaw",
+      "name_mmr": "ကျောက်တော်",
+      "sr_pcode": "MMR012",
+      "villages_file": "MMR012004.csv",
+      "village_count": 329
+    },
+    {
+      "pcode": "MMR012009",
+      "name_eng": "Maungdaw",
+      "name_mmr": "မောင်တော",
+      "sr_pcode": "MMR012",
+      "villages_file": "MMR012009.csv",
+      "village_count": 398
+    },
+    {
+      "pcode": "MMR012005",
+      "name_eng": "Minbya",
+      "name_mmr": "မင်းပြား",
+      "sr_pcode": "MMR012",
+      "villages_file": "MMR012005.csv",
+      "village_count": 297
+    },
+    {
+      "pcode": "MMR012003",
+      "name_eng": "Mrauk-U",
+      "name_mmr": "မြောက်ဦး",
+      "sr_pcode": "MMR012",
+      "villages_file": "MMR012003.csv",
+      "village_count": 265
+    },
+    {
+      "pcode": "MMR012012",
+      "name_eng": "Munaung",
+      "name_mmr": "မာန်အောင်",
+      "sr_pcode": "MMR012",
+      "villages_file": "MMR012012.csv",
+      "village_count": 144
+    },
+    {
+      "pcode": "MMR012006",
+      "name_eng": "Myebon",
+      "name_mmr": "မြေပုံ",
+      "sr_pcode": "MMR012",
+      "villages_file": "MMR012006.csv",
+      "village_count": 174
+    },
+    {
+      "pcode": "MMR012007",
+      "name_eng": "Pauktaw",
+      "name_mmr": "ပေါက်တော",
+      "sr_pcode": "MMR012",
+      "villages_file": "MMR012007.csv",
+      "village_count": 200
+    },
+    {
+      "pcode": "MMR012002",
+      "name_eng": "Ponnagyun",
+      "name_mmr": "ပုဏ္ဏားကျွန်း",
+      "sr_pcode": "MMR012",
+      "villages_file": "MMR012002.csv",
+      "village_count": 214
+    },
+    {
+      "pcode": "MMR012013",
+      "name_eng": "Ramree",
+      "name_mmr": "ရမ်းဗြဲ",
+      "sr_pcode": "MMR012",
+      "villages_file": "MMR012013.csv",
+      "village_count": 214
+    },
+    {
+      "pcode": "MMR012008",
+      "name_eng": "Rathedaung",
+      "name_mmr": "ရသေ့တောင်",
+      "sr_pcode": "MMR012",
+      "villages_file": "MMR012008.csv",
+      "village_count": 223
+    },
+    {
+      "pcode": "MMR012001",
+      "name_eng": "Sittwe",
+      "name_mmr": "စစ်တွေ",
+      "sr_pcode": "MMR012",
+      "villages_file": "MMR012001.csv",
+      "village_count": 94
+    },
+    {
+      "pcode": "MMR012015",
+      "name_eng": "Thandwe",
+      "name_mmr": "သံတွဲ",
+      "sr_pcode": "MMR012",
+      "villages_file": "MMR012015.csv",
+      "village_count": 301
+    },
+    {
+      "pcode": "MMR012016",
+      "name_eng": "Toungup",
+      "name_mmr": "တောင်ကုတ်",
+      "sr_pcode": "MMR012",
+      "villages_file": "MMR012016.csv",
+      "village_count": 231
+    },
+    {
+      "pcode": "MMR005014",
+      "name_eng": "Ayadaw",
+      "name_mmr": "အရာတော်",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005014.csv",
+      "village_count": 166
+    },
+    {
+      "pcode": "MMR005023",
+      "name_eng": "Banmauk",
+      "name_mmr": "ဗန်းမောက်",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005023.csv",
+      "village_count": 240
+    },
+    {
+      "pcode": "MMR005013",
+      "name_eng": "Budalin",
+      "name_mmr": "ဘုတလင်",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005013.csv",
+      "village_count": 191
+    },
+    {
+      "pcode": "MMR005015",
+      "name_eng": "Chaung-U",
+      "name_mmr": "ချောင်းဦး",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005015.csv",
+      "village_count": 90
+    },
+    {
+      "pcode": "MMR005033",
+      "name_eng": "Hkamti",
+      "name_mmr": "ခန္တီး",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005033.csv",
+      "village_count": 110
+    },
+    {
+      "pcode": "MMR005034",
+      "name_eng": "Homalin",
+      "name_mmr": "ဟုမ္မလင်း",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005034.csv",
+      "village_count": 357
+    },
+    {
+      "pcode": "MMR005021",
+      "name_eng": "Indaw",
+      "name_mmr": "အင်းတော်",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005021.csv",
+      "village_count": 160
+    },
+    {
+      "pcode": "MMR005027",
+      "name_eng": "Kale",
+      "name_mmr": "ကလေး",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005027.csv",
+      "village_count": 190
+    },
+    {
+      "pcode": "MMR005028",
+      "name_eng": "Kalewa",
+      "name_mmr": "ကလေးဝ",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005028.csv",
+      "village_count": 132
+    },
+    {
+      "pcode": "MMR005007",
+      "name_eng": "Kanbalu",
+      "name_mmr": "ကန့်ဘလူ",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005007.csv",
+      "village_count": 310
+    },
+    {
+      "pcode": "MMR005017",
+      "name_eng": "Kani",
+      "name_mmr": "ကနီ",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005017.csv",
+      "village_count": 198
+    },
+    {
+      "pcode": "MMR005020",
+      "name_eng": "Katha",
+      "name_mmr": "ကသာ",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005020.csv",
+      "village_count": 157
+    },
+    {
+      "pcode": "MMR005024",
+      "name_eng": "Kawlin",
+      "name_mmr": "ကောလင်း",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005024.csv",
+      "village_count": 217
+    },
+    {
+      "pcode": "MMR005005",
+      "name_eng": "Khin-U",
+      "name_mmr": "ခင်ဦး",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005005.csv",
+      "village_count": 150
+    },
+    {
+      "pcode": "MMR005008",
+      "name_eng": "Kyunhla",
+      "name_mmr": "ကျွန်းလှ",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005008.csv",
+      "village_count": 124
+    },
+    {
+      "pcode": "MMR005036",
+      "name_eng": "Lahe",
+      "name_mmr": "လဟယ်",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005036.csv",
+      "village_count": 124
+    },
+    {
+      "pcode": "MMR005035",
+      "name_eng": "Layshi",
+      "name_mmr": "လေရှီး",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005035.csv",
+      "village_count": 90
+    },
+    {
+      "pcode": "MMR005031",
+      "name_eng": "Mawlaik",
+      "name_mmr": "မော်လိုက်",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005031.csv",
+      "village_count": 80
+    },
+    {
+      "pcode": "MMR005029",
+      "name_eng": "Mingin",
+      "name_mmr": "မင်းကင်း",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005029.csv",
+      "village_count": 190
+    },
+    {
+      "pcode": "MMR005012",
+      "name_eng": "Monywa",
+      "name_mmr": "မုံရွာ",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005012.csv",
+      "village_count": 194
+    },
+    {
+      "pcode": "MMR005003",
+      "name_eng": "Myaung",
+      "name_mmr": "မြောင်",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005003.csv",
+      "village_count": 84
+    },
+    {
+      "pcode": "MMR005002",
+      "name_eng": "Myinmu",
+      "name_mmr": "မြင်းမူ",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005002.csv",
+      "village_count": 87
+    },
+    {
+      "pcode": "MMR005037",
+      "name_eng": "Nanyun",
+      "name_mmr": "နန်းယွန်း",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005037.csv",
+      "village_count": 165
+    },
+    {
+      "pcode": "MMR005019",
+      "name_eng": "Pale",
+      "name_mmr": "ပုလဲ",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005019.csv",
+      "village_count": 199
+    },
+    {
+      "pcode": "MMR005032",
+      "name_eng": "Paungbyin",
+      "name_mmr": "ဖောင်းပြင်",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005032.csv",
+      "village_count": 188
+    },
+    {
+      "pcode": "MMR005026",
+      "name_eng": "Pinlebu",
+      "name_mmr": "ပင်လည်ဘူး",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005026.csv",
+      "village_count": 288
+    },
+    {
+      "pcode": "MMR005001",
+      "name_eng": "Sagaing",
+      "name_mmr": "စစ်ကိုင်း",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005001.csv",
+      "village_count": 222
+    },
+    {
+      "pcode": "MMR005018",
+      "name_eng": "Salingyi",
+      "name_mmr": "ဆားလင်းကြီး",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005018.csv",
+      "village_count": 158
+    },
+    {
+      "pcode": "MMR005004",
+      "name_eng": "Shwebo",
+      "name_mmr": "ရွှေဘို",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005004.csv",
+      "village_count": 184
+    },
+    {
+      "pcode": "MMR005010",
+      "name_eng": "Tabayin",
+      "name_mmr": "ဒီပဲယင်း",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005010.csv",
+      "village_count": 216
+    },
+    {
+      "pcode": "MMR005030",
+      "name_eng": "Tamu",
+      "name_mmr": "တမူး",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005030.csv",
+      "village_count": 68
+    },
+    {
+      "pcode": "MMR005011",
+      "name_eng": "Taze",
+      "name_mmr": "တန့်ဆည်",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005011.csv",
+      "village_count": 285
+    },
+    {
+      "pcode": "MMR005022",
+      "name_eng": "Tigyaing",
+      "name_mmr": "ထီးချိုင့်",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005022.csv",
+      "village_count": 125
+    },
+    {
+      "pcode": "MMR005006",
+      "name_eng": "Wetlet",
+      "name_mmr": "ဝက်လက်",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005006.csv",
+      "village_count": 246
+    },
+    {
+      "pcode": "MMR005025",
+      "name_eng": "Wuntho",
+      "name_mmr": "ဝန်းသို",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005025.csv",
+      "village_count": 192
+    },
+    {
+      "pcode": "MMR005009",
+      "name_eng": "Ye-U",
+      "name_mmr": "ရေဦး",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005009.csv",
+      "village_count": 212
+    },
+    {
+      "pcode": "MMR005016",
+      "name_eng": "Yinmarbin",
+      "name_mmr": "ယင်းမာပင်",
+      "sr_pcode": "MMR005",
+      "villages_file": "MMR005016.csv",
+      "village_count": 174
+    },
+    {
+      "pcode": "MMR016320",
+      "name_eng": "Ho Tawng (Ho Tao)",
+      "name_mmr": "ဟိုတောင်း",
+      "sr_pcode": "MMR016",
+      "villages_file": "MMR016320.csv",
+      "village_count": 59
+    },
+    {
+      "pcode": "MMR016001",
+      "name_eng": "Kengtung",
+      "name_mmr": "ကျိုင်းတုံ",
+      "sr_pcode": "MMR016",
+      "villages_file": "MMR016001.csv",
+      "village_count": 896
+    },
+    {
+      "pcode": "MMR016319",
+      "name_eng": "Mong Hpen",
+      "name_mmr": "မိုင်းဖျန်",
+      "sr_pcode": "MMR016",
+      "villages_file": "MMR016319.csv",
+      "village_count": 82
+    },
+    {
+      "pcode": "MMR016322",
+      "name_eng": "Mong Kar",
+      "name_mmr": "မိုင်းကာ",
+      "sr_pcode": "MMR016",
+      "villages_file": "MMR016322.csv",
+      "village_count": 29
+    },
+    {
+      "pcode": "MMR016321",
+      "name_eng": "Mong Pawk",
+      "name_mmr": "မိုင်းပေါက်",
+      "sr_pcode": "MMR016",
+      "villages_file": "MMR016321.csv",
+      "village_count": 130
+    },
+    {
+      "pcode": "MMR016010",
+      "name_eng": "Monghpyak",
+      "name_mmr": "မိုင်းဖြတ်",
+      "sr_pcode": "MMR016",
+      "villages_file": "MMR016010.csv",
+      "village_count": 207
+    },
+    {
+      "pcode": "MMR016006",
+      "name_eng": "Monghsat",
+      "name_mmr": "မိုင်းဆတ်",
+      "sr_pcode": "MMR016",
+      "villages_file": "MMR016006.csv",
+      "village_count": 536
+    },
+    {
+      "pcode": "MMR016002",
+      "name_eng": "Mongkhet",
+      "name_mmr": "မိုင်းခတ်",
+      "sr_pcode": "MMR016",
+      "villages_file": "MMR016002.csv",
+      "village_count": 293
+    },
+    {
+      "pcode": "MMR016005",
+      "name_eng": "Mongla",
+      "name_mmr": "မိုင်းလား",
+      "sr_pcode": "MMR016",
+      "villages_file": "MMR016005.csv",
+      "village_count": 185
+    },
+    {
+      "pcode": "MMR016007",
+      "name_eng": "Mongping",
+      "name_mmr": "မိုင်းပျဉ်း",
+      "sr_pcode": "MMR016",
+      "villages_file": "MMR016007.csv",
+      "village_count": 833
+    },
+    {
+      "pcode": "MMR016008",
+      "name_eng": "Mongton",
+      "name_mmr": "မိုင်းတုံ",
+      "sr_pcode": "MMR016",
+      "villages_file": "MMR016008.csv",
+      "village_count": 184
+    },
+    {
+      "pcode": "MMR016003",
+      "name_eng": "Mongyang",
+      "name_mmr": "မိုင်းယန်း",
+      "sr_pcode": "MMR016",
+      "villages_file": "MMR016003.csv",
+      "village_count": 334
+    },
+    {
+      "pcode": "MMR016011",
+      "name_eng": "Mongyawng",
+      "name_mmr": "မိုင်းယောင်း",
+      "sr_pcode": "MMR016",
+      "villages_file": "MMR016011.csv",
+      "village_count": 321
+    },
+    {
+      "pcode": "MMR016323",
+      "name_eng": "Nam Hpai",
+      "name_mmr": "နမ့်ဖိုင်",
+      "sr_pcode": "MMR016",
+      "villages_file": "MMR016323.csv",
+      "village_count": 52
+    },
+    {
+      "pcode": "MMR016009",
+      "name_eng": "Tachileik",
+      "name_mmr": "တာချီလိတ်",
+      "sr_pcode": "MMR016",
+      "villages_file": "MMR016009.csv",
+      "village_count": 319
+    },
+    {
+      "pcode": "MMR015311",
+      "name_eng": "Aik Chan (Ai' Chun)",
+      "name_mmr": "အိုက်ချန်",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015311.csv",
+      "village_count": 93
+    },
+    {
+      "pcode": "MMR015203",
+      "name_eng": "Chinshwehaw Sub-township (Kokang SAZ)",
+      "name_mmr": "ချင်းရွှေဟော်မြို့နယ်ခွဲ (အထူးဒေသ ၁)",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015203.csv",
+      "village_count": 14
+    },
+    {
+      "pcode": "MMR015306",
+      "name_eng": "Hkun Mar (Hkwin Ma)",
+      "name_mmr": "ခွန်းမား",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015306.csv",
+      "village_count": 2
+    },
+    {
+      "pcode": "MMR015021",
+      "name_eng": "Hopang",
+      "name_mmr": "ဟိုပန်",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015021.csv",
+      "village_count": 312
+    },
+    {
+      "pcode": "MMR015305",
+      "name_eng": "Hsawng Hpa (Saun Pha)",
+      "name_mmr": "ဆောင်ဖ",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015305.csv",
+      "village_count": 87
+    },
+    {
+      "pcode": "MMR015002",
+      "name_eng": "Hseni",
+      "name_mmr": "သိန္နီ",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015002.csv",
+      "village_count": 285
+    },
+    {
+      "pcode": "MMR015014",
+      "name_eng": "Hsipaw",
+      "name_mmr": "သီပေါ",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015014.csv",
+      "village_count": 620
+    },
+    {
+      "pcode": "MMR015310",
+      "name_eng": "Ka Lawng Hpar",
+      "name_mmr": "ကလောင်ဖါ",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015310.csv",
+      "village_count": 56
+    },
+    {
+      "pcode": "MMR015304",
+      "name_eng": "Kawng Min Hsang",
+      "name_mmr": "ကောင်မင်ဆန်း",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015304.csv",
+      "village_count": 86
+    },
+    {
+      "pcode": "MMR015023",
+      "name_eng": "Konkyan",
+      "name_mmr": "ကုန်းကြမ်း",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015023.csv",
+      "village_count": 248
+    },
+    {
+      "pcode": "MMR015201",
+      "name_eng": "Konkyan (Kokang SAZ)",
+      "name_mmr": "ကုန်းကြမ်း (အထူးဒေသ ၁)",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015201.csv",
+      "village_count": 59
+    },
+    {
+      "pcode": "MMR015020",
+      "name_eng": "Kunlong",
+      "name_mmr": "ကွမ်းလုံ",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015020.csv",
+      "village_count": 173
+    },
+    {
+      "pcode": "MMR015011",
+      "name_eng": "Kutkai",
+      "name_mmr": "ကွတ်ခိုင်",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015011.csv",
+      "village_count": 742
+    },
+    {
+      "pcode": "MMR015012",
+      "name_eng": "Kyaukme",
+      "name_mmr": "ကျောက်မဲ",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015012.csv",
+      "village_count": 426
+    },
+    {
+      "pcode": "MMR015001",
+      "name_eng": "Lashio",
+      "name_mmr": "လားရှိုး",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015001.csv",
+      "village_count": 665
+    },
+    {
+      "pcode": "MMR015022",
+      "name_eng": "Laukkaing",
+      "name_mmr": "လောက်ကိုင်",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015022.csv",
+      "village_count": 199
+    },
+    {
+      "pcode": "MMR015202",
+      "name_eng": "Laukkaing (Kokang SAZ)",
+      "name_mmr": "လောက်ကိုင် (အထူးဒေသ ၁)",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015202.csv",
+      "village_count": 51
+    },
+    {
+      "pcode": "MMR015309",
+      "name_eng": "Lin Haw",
+      "name_mmr": "လင်ဟော်",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015309.csv",
+      "village_count": 120
+    },
+    {
+      "pcode": "MMR015307",
+      "name_eng": "Long Htan",
+      "name_mmr": "လုံထန်",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015307.csv",
+      "village_count": 29
+    },
+    {
+      "pcode": "MMR015018",
+      "name_eng": "Mabein",
+      "name_mmr": "မဘိမ်း",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015018.csv",
+      "village_count": 69
+    },
+    {
+      "pcode": "MMR015313",
+      "name_eng": "Man Man Hseng",
+      "name_mmr": "မန်မန်ဆိုင်",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015313.csv",
+      "village_count": 31
+    },
+    {
+      "pcode": "MMR015303",
+      "name_eng": "Man Tun",
+      "name_mmr": "မန်တွန်း",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015303.csv",
+      "village_count": 56
+    },
+    {
+      "pcode": "MMR015019",
+      "name_eng": "Manton",
+      "name_mmr": "မန်တုံ",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015019.csv",
+      "village_count": 242
+    },
+    {
+      "pcode": "MMR015024",
+      "name_eng": "Matman",
+      "name_mmr": "မက်မန်း",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015024.csv",
+      "village_count": 189
+    },
+    {
+      "pcode": "MMR015008",
+      "name_eng": "Mongmao",
+      "name_mmr": "မိုင်းမော",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015008.csv",
+      "village_count": 268
+    },
+    {
+      "pcode": "MMR015017",
+      "name_eng": "Mongmit",
+      "name_mmr": "မိုးမိတ်",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015017.csv",
+      "village_count": 146
+    },
+    {
+      "pcode": "MMR015003",
+      "name_eng": "Mongyai",
+      "name_mmr": "မိုင်းရယ်",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015003.csv",
+      "village_count": 266
+    },
+    {
+      "pcode": "MMR015009",
+      "name_eng": "Muse",
+      "name_mmr": "မူဆယ်",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015009.csv",
+      "village_count": 335
+    },
+    {
+      "pcode": "MMR015315",
+      "name_eng": "Nam Hkam Wu",
+      "name_mmr": "နမ်ခမ်းဝူး",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015315.csv",
+      "village_count": 80
+    },
+    {
+      "pcode": "MMR015301",
+      "name_eng": "Nam Tit",
+      "name_mmr": "နမ့် တစ်",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015301.csv",
+      "village_count": 48
+    },
+    {
+      "pcode": "MMR015010",
+      "name_eng": "Namhkan",
+      "name_mmr": "နမ့်ခမ်း",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015010.csv",
+      "village_count": 209
+    },
+    {
+      "pcode": "MMR015016",
+      "name_eng": "Namhsan",
+      "name_mmr": "နမ့်ဆန်",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015016.csv",
+      "village_count": 140
+    },
+    {
+      "pcode": "MMR015015",
+      "name_eng": "Namtu",
+      "name_mmr": "နမ္မတူ",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015015.csv",
+      "village_count": 210
+    },
+    {
+      "pcode": "MMR015316",
+      "name_eng": "Nar Kawng",
+      "name_mmr": "နားကောင်",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015316.csv",
+      "village_count": 44
+    },
+    {
+      "pcode": "MMR015302",
+      "name_eng": "Nar Wee (Na Wi)",
+      "name_mmr": "နာဝီး",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015302.csv",
+      "village_count": 64
+    },
+    {
+      "pcode": "MMR015006",
+      "name_eng": "Narphan",
+      "name_mmr": "နားဖန်း",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015006.csv",
+      "village_count": 182
+    },
+    {
+      "pcode": "MMR015314",
+      "name_eng": "Nawng Hkit",
+      "name_mmr": "နောင်ခစ်",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015314.csv",
+      "village_count": 29
+    },
+    {
+      "pcode": "MMR015013",
+      "name_eng": "Nawnghkio",
+      "name_mmr": "နောင်ချို",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015013.csv",
+      "village_count": 273
+    },
+    {
+      "pcode": "MMR015317",
+      "name_eng": "Pang Hkam",
+      "name_mmr": "ပန်ခမ့်",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015317.csv",
+      "village_count": 68
+    },
+    {
+      "pcode": "MMR015318",
+      "name_eng": "Pang Yang",
+      "name_mmr": "ပန်ယန်း",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015318.csv",
+      "village_count": 28
+    },
+    {
+      "pcode": "MMR015005",
+      "name_eng": "Pangsang (Panghkam)",
+      "name_mmr": "ပန်ဆန်း (ပန်ခမ်း)",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015005.csv",
+      "village_count": 472
+    },
+    {
+      "pcode": "MMR015007",
+      "name_eng": "Pangwaun",
+      "name_mmr": "ပန်ဝိုင်",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015007.csv",
+      "village_count": 93
+    },
+    {
+      "pcode": "MMR015004",
+      "name_eng": "Tangyan",
+      "name_mmr": "တန့်ယန်း",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015004.csv",
+      "village_count": 601
+    },
+    {
+      "pcode": "MMR015308",
+      "name_eng": "Yawng Lin",
+      "name_mmr": "ယောင်လင်း",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015308.csv",
+      "village_count": 38
+    },
+    {
+      "pcode": "MMR015312",
+      "name_eng": "Yin Pang",
+      "name_mmr": "ရင်ဖန့်",
+      "sr_pcode": "MMR015",
+      "villages_file": "MMR015312.csv",
+      "village_count": 80
+    },
+    {
+      "pcode": "MMR014003",
+      "name_eng": "Hopong",
+      "name_mmr": "ဟိုပုံး",
+      "sr_pcode": "MMR014",
+      "villages_file": "MMR014003.csv",
+      "village_count": 346
+    },
+    {
+      "pcode": "MMR014004",
+      "name_eng": "Hsihseng",
+      "name_mmr": "ဆီဆိုင်",
+      "sr_pcode": "MMR014",
+      "villages_file": "MMR014004.csv",
+      "village_count": 338
+    },
+    {
+      "pcode": "MMR014005",
+      "name_eng": "Kalaw",
+      "name_mmr": "ကလော",
+      "sr_pcode": "MMR014",
+      "villages_file": "MMR014005.csv",
+      "village_count": 279
+    },
+    {
+      "pcode": "MMR014014",
+      "name_eng": "Kunhing",
+      "name_mmr": "ကွန်ဟိန်း",
+      "sr_pcode": "MMR014",
+      "villages_file": "MMR014014.csv",
+      "village_count": 196
+    },
+    {
+      "pcode": "MMR014015",
+      "name_eng": "Kyethi",
+      "name_mmr": "ကျေးသီး",
+      "sr_pcode": "MMR014",
+      "villages_file": "MMR014015.csv",
+      "village_count": 461
+    },
+    {
+      "pcode": "MMR014012",
+      "name_eng": "Laihka",
+      "name_mmr": "လဲချား",
+      "sr_pcode": "MMR014",
+      "villages_file": "MMR014012.csv",
+      "village_count": 251
+    },
+    {
+      "pcode": "MMR014018",
+      "name_eng": "Langkho",
+      "name_mmr": "လင်းခေး",
+      "sr_pcode": "MMR014",
+      "villages_file": "MMR014018.csv",
+      "village_count": 204
+    },
+    {
+      "pcode": "MMR014008",
+      "name_eng": "Lawksawk",
+      "name_mmr": "ရပ်စောက်",
+      "sr_pcode": "MMR014",
+      "villages_file": "MMR014008.csv",
+      "village_count": 276
+    },
+    {
+      "pcode": "MMR014011",
+      "name_eng": "Loilen",
+      "name_mmr": "လွိုင်လင်",
+      "sr_pcode": "MMR014",
+      "villages_file": "MMR014011.csv",
+      "village_count": 310
+    },
+    {
+      "pcode": "MMR014020",
+      "name_eng": "Mawkmai",
+      "name_mmr": "မောက်မယ်",
+      "sr_pcode": "MMR014",
+      "villages_file": "MMR014020.csv",
+      "village_count": 205
+    },
+    {
+      "pcode": "MMR014017",
+      "name_eng": "Monghsu",
+      "name_mmr": "မိုင်းရှူး",
+      "sr_pcode": "MMR014",
+      "villages_file": "MMR014017.csv",
+      "village_count": 266
+    },
+    {
+      "pcode": "MMR014016",
+      "name_eng": "Mongkaing",
+      "name_mmr": "မိုင်းကိုင်",
+      "sr_pcode": "MMR014",
+      "villages_file": "MMR014016.csv",
+      "village_count": 348
+    },
+    {
+      "pcode": "MMR014019",
+      "name_eng": "Mongnai",
+      "name_mmr": "မိုးနဲ",
+      "sr_pcode": "MMR014",
+      "villages_file": "MMR014019.csv",
+      "village_count": 176
+    },
+    {
+      "pcode": "MMR014021",
+      "name_eng": "Mongpan",
+      "name_mmr": "မိုင်းပန်",
+      "sr_pcode": "MMR014",
+      "villages_file": "MMR014021.csv",
+      "village_count": 142
+    },
+    {
+      "pcode": "MMR014013",
+      "name_eng": "Nansang",
+      "name_mmr": "နမ့်စန်",
+      "sr_pcode": "MMR014",
+      "villages_file": "MMR014013.csv",
+      "village_count": 364
+    },
+    {
+      "pcode": "MMR014002",
+      "name_eng": "Nyaungshwe",
+      "name_mmr": "ညောင်ရွှေ",
+      "sr_pcode": "MMR014",
+      "villages_file": "MMR014002.csv",
+      "village_count": 447
+    },
+    {
+      "pcode": "MMR014010",
+      "name_eng": "Pekon",
+      "name_mmr": "ဖယ်ခုံ",
+      "sr_pcode": "MMR014",
+      "villages_file": "MMR014010.csv",
+      "village_count": 211
+    },
+    {
+      "pcode": "MMR014006",
+      "name_eng": "Pindaya",
+      "name_mmr": "ပင်းတယ",
+      "sr_pcode": "MMR014",
+      "villages_file": "MMR014006.csv",
+      "village_count": 146
+    },
+    {
+      "pcode": "MMR014009",
+      "name_eng": "Pinlaung",
+      "name_mmr": "ပင်လောင်း",
+      "sr_pcode": "MMR014",
+      "villages_file": "MMR014009.csv",
+      "village_count": 538
+    },
+    {
+      "pcode": "MMR014001",
+      "name_eng": "Taunggyi",
+      "name_mmr": "တောင်ကြီး",
+      "sr_pcode": "MMR014",
+      "villages_file": "MMR014001.csv",
+      "village_count": 336
+    },
+    {
+      "pcode": "MMR014007",
+      "name_eng": "Ywangan",
+      "name_mmr": "ရွာငံ",
+      "sr_pcode": "MMR014",
+      "villages_file": "MMR014007.csv",
+      "village_count": 125
+    },
+    {
+      "pcode": "MMR006010",
+      "name_eng": "Bokpyin",
+      "name_mmr": "ဘုတ်ပြင်း",
+      "sr_pcode": "MMR006",
+      "villages_file": "MMR006010.csv",
+      "village_count": 137
+    },
+    {
+      "pcode": "MMR006001",
+      "name_eng": "Dawei",
+      "name_mmr": "ထားဝယ်",
+      "sr_pcode": "MMR006",
+      "villages_file": "MMR006001.csv",
+      "village_count": 106
+    },
+    {
+      "pcode": "MMR006009",
+      "name_eng": "Kawthoung",
+      "name_mmr": "ကော့သောင်း",
+      "sr_pcode": "MMR006",
+      "villages_file": "MMR006009.csv",
+      "village_count": 98
+    },
+    {
+      "pcode": "MMR006006",
+      "name_eng": "Kyunsu",
+      "name_mmr": "ကျွန်းစု",
+      "sr_pcode": "MMR006",
+      "villages_file": "MMR006006.csv",
+      "village_count": 199
+    },
+    {
+      "pcode": "MMR006002",
+      "name_eng": "Launglon",
+      "name_mmr": "လောင်းလုံး",
+      "sr_pcode": "MMR006",
+      "villages_file": "MMR006002.csv",
+      "village_count": 113
+    },
+    {
+      "pcode": "MMR006005",
+      "name_eng": "Myeik",
+      "name_mmr": "မြိတ်",
+      "sr_pcode": "MMR006",
+      "villages_file": "MMR006005.csv",
+      "village_count": 163
+    },
+    {
+      "pcode": "MMR006007",
+      "name_eng": "Palaw",
+      "name_mmr": "ပုလော",
+      "sr_pcode": "MMR006",
+      "villages_file": "MMR006007.csv",
+      "village_count": 176
+    },
+    {
+      "pcode": "MMR006008",
+      "name_eng": "Tanintharyi",
+      "name_mmr": "တနင်္သာရီ",
+      "sr_pcode": "MMR006",
+      "villages_file": "MMR006008.csv",
+      "village_count": 239
+    },
+    {
+      "pcode": "MMR006003",
+      "name_eng": "Thayetchaung",
+      "name_mmr": "သရက်ချောင်း",
+      "sr_pcode": "MMR006",
+      "villages_file": "MMR006003.csv",
+      "village_count": 104
+    },
+    {
+      "pcode": "MMR006004",
+      "name_eng": "Yebyu",
+      "name_mmr": "ရေဖြူ",
+      "sr_pcode": "MMR006",
+      "villages_file": "MMR006004.csv",
+      "village_count": 148
+    },
+    {
+      "pcode": "MMR013037",
+      "name_eng": "Ahlone",
+      "name_mmr": "အလုံ",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013037.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013044",
+      "name_eng": "Bahan",
+      "name_mmr": "ဗဟန်း",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013044.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013017",
+      "name_eng": "Botahtaung",
+      "name_mmr": "ဗိုလ်တထောင်",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013017.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013032",
+      "name_eng": "Cocokyun",
+      "name_mmr": "ကိုကိုးကျွန်း",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013032.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013043",
+      "name_eng": "Dagon",
+      "name_mmr": "ဒဂုံ",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013043.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013020",
+      "name_eng": "Dagon Myothit (East)",
+      "name_mmr": "ဒဂုံမြို့သစ် (အရှေ့ပိုင်း)",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013020.csv",
+      "village_count": 6
+    },
+    {
+      "pcode": "MMR013019",
+      "name_eng": "Dagon Myothit (North)",
+      "name_mmr": "ဒဂုံမြို့သစ် (မြောက်ပိုင်း)",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013019.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013021",
+      "name_eng": "Dagon Myothit (Seikkan)",
+      "name_mmr": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013021.csv",
+      "village_count": 5
+    },
+    {
+      "pcode": "MMR013018",
+      "name_eng": "Dagon Myothit (South)",
+      "name_mmr": "ဒဂုံမြို့သစ် (တောင်ပိုင်း)",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013018.csv",
+      "village_count": 5
+    },
+    {
+      "pcode": "MMR013030",
+      "name_eng": "Dala",
+      "name_mmr": "ဒလ",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013030.csv",
+      "village_count": 55
+    },
+    {
+      "pcode": "MMR013014",
+      "name_eng": "Dawbon",
+      "name_mmr": "ဒေါပုံ",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013014.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013040",
+      "name_eng": "Hlaing",
+      "name_mmr": "လှိုင်",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013040.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013008",
+      "name_eng": "Hlaingtharya",
+      "name_mmr": "လှိုင်သာယာ",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013008.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013004",
+      "name_eng": "Hlegu",
+      "name_mmr": "လှည်းကူး",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013004.csv",
+      "village_count": 201
+    },
+    {
+      "pcode": "MMR013003",
+      "name_eng": "Hmawbi",
+      "name_mmr": "မှော်ဘီ",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013003.csv",
+      "village_count": 205
+    },
+    {
+      "pcode": "MMR013006",
+      "name_eng": "Htantabin",
+      "name_mmr": "ထန်းတပင်",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013006.csv",
+      "village_count": 237
+    },
+    {
+      "pcode": "MMR013001",
+      "name_eng": "Insein",
+      "name_mmr": "အင်းစိန်",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013001.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013041",
+      "name_eng": "Kamaryut",
+      "name_mmr": "ကမာရွတ်",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013041.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013028",
+      "name_eng": "Kawhmu",
+      "name_mmr": "ကော့မှူး",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013028.csv",
+      "village_count": 133
+    },
+    {
+      "pcode": "MMR013026",
+      "name_eng": "Kayan",
+      "name_mmr": "ခရမ်း",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013026.csv",
+      "village_count": 172
+    },
+    {
+      "pcode": "MMR013029",
+      "name_eng": "Kungyangon",
+      "name_mmr": "ကွမ်းခြံကုန်း",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013029.csv",
+      "village_count": 149
+    },
+    {
+      "pcode": "MMR013033",
+      "name_eng": "Kyauktada",
+      "name_mmr": "ကျောက်တံတား",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013033.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013024",
+      "name_eng": "Kyauktan",
+      "name_mmr": "ကျောက်တန်း",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013024.csv",
+      "village_count": 96
+    },
+    {
+      "pcode": "MMR013038",
+      "name_eng": "Kyeemyindaing",
+      "name_mmr": "ကြည့်မြင်တိုင်",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013038.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013035",
+      "name_eng": "Lanmadaw",
+      "name_mmr": "လမ်းမတော်",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013035.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013036",
+      "name_eng": "Latha",
+      "name_mmr": "လသာ",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013036.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013042",
+      "name_eng": "Mayangone",
+      "name_mmr": "မရမ်းကုန်း",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013042.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013002",
+      "name_eng": "Mingaladon",
+      "name_mmr": "မင်္ဂလာဒုံ",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013002.csv",
+      "village_count": 21
+    },
+    {
+      "pcode": "MMR013022",
+      "name_eng": "Mingalartaungnyunt",
+      "name_mmr": "မင်္ဂလာတောင်ညွန့်",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013022.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013012",
+      "name_eng": "North Okkalapa",
+      "name_mmr": "မြောက်ဥက္ကလာပ",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013012.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013034",
+      "name_eng": "Pabedan",
+      "name_mmr": "ပန်းဘဲတန်း",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013034.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013016",
+      "name_eng": "Pazundaung",
+      "name_mmr": "ပုဇွန်တောင်",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013016.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013039",
+      "name_eng": "Sanchaung",
+      "name_mmr": "စမ်းချောင်း",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013039.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013031",
+      "name_eng": "Seikgyikanaungto",
+      "name_mmr": "ဆိပ်ကြီး/ခနောင်တို",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013031.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013045",
+      "name_eng": "Seikkan",
+      "name_mmr": "ဆိပ်ကမ်း",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013045.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013007",
+      "name_eng": "Shwepyithar",
+      "name_mmr": "ရွှေပြည်သာ",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013007.csv",
+      "village_count": 6
+    },
+    {
+      "pcode": "MMR013011",
+      "name_eng": "South Okkalapa",
+      "name_mmr": "တောင်ဥက္ကလာပ",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013011.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013005",
+      "name_eng": "Taikkyi",
+      "name_mmr": "တိုက်ကြီး",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013005.csv",
+      "village_count": 477
+    },
+    {
+      "pcode": "MMR013015",
+      "name_eng": "Tamwe",
+      "name_mmr": "တာမွေ",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013015.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013013",
+      "name_eng": "Thaketa",
+      "name_mmr": "သာကေတ",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013013.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013023",
+      "name_eng": "Thanlyin",
+      "name_mmr": "သန်လျင်",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013023.csv",
+      "village_count": 60
+    },
+    {
+      "pcode": "MMR013009",
+      "name_eng": "Thingangyun",
+      "name_mmr": "သင်္ဃန်းကျွန်း",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013009.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013025",
+      "name_eng": "Thongwa",
+      "name_mmr": "သုံးခွ",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013025.csv",
+      "village_count": 173
+    },
+    {
+      "pcode": "MMR013027",
+      "name_eng": "Twantay",
+      "name_mmr": "တွံတေး",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013027.csv",
+      "village_count": 256
+    },
+    {
+      "pcode": "MMR013010",
+      "name_eng": "Yankin",
+      "name_mmr": "ရန်ကင်း",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013010.csv",
+      "village_count": 0
+    },
+    {
+      "pcode": "MMR013046",
+      "name_eng": "Hlaingtharya (East)",
+      "name_mmr": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013046.csv",
+      "village_count": 9
+    },
+    {
+      "pcode": "MMR013047",
+      "name_eng": "Hlaingtharya (West)",
+      "name_mmr": "လှိုင်သာယာ (အနောက်ပိုင်း)",
+      "sr_pcode": "MMR013",
+      "villages_file": "MMR013047.csv",
+      "village_count": 9
+    }
+  ]
+}

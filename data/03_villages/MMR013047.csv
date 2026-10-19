@@ -1,0 +1,10 @@
+SR_Pcode,SR_Name_Eng,District/SAZ_Pcode,District/SAZ_Name_Eng,Tsp_Pcode,Township_Name_Eng,VT_Pcode,Village_Tract_Name_Eng,Village_Pcode,Village_Name_Eng,Village_Name_MMR,Commonly_Used_Local_Vlg_Name_Eng,Commonly_Used_Local_Vlg_Name_Mya,Longitude,Latitude,Source,Start_Date,Modified_End_Date,Notification,Notification_modified,GAD_Village_Status,Field_Village_Status,MIMU_Village_Mapping_Status,Change_Type,Previous_Village_Name_Eng,Remark
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013047,Hlaingtharya (West),MMR013047001,Ah Lel,150170,Ah Lel,အလယ်,,,96.0634384155273,16.922399520874,GAD,,,,,Active,N/A,Active,,,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013047,Hlaingtharya (West),MMR013047001,Ah Lel,150171,Kan Nar (Ah Lel),ကမ်းနား (အလယ်),,,,,GAD,,,,,Active,N/A,Active,,,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013047,Hlaingtharya (West),MMR013047004,Ah Pyin Pa Dan,150246,Ah Pyin Pa Dan,အပြင်ပဒံ,,,96.0287780761719,16.8612308502197,GAD,,,,,Active,N/A,Active,,,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013047,Hlaingtharya (West),MMR013047004,Ah Pyin Pa Dan,150247,Ka Pyo,ကပြို,,,96.0113372802734,16.8581790924072,GAD,,,,,Active,N/A,Active,,,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013047,Hlaingtharya (West),MMR013047004,Ah Pyin Pa Dan,150248,Kyun Gyi,ကျွန်းကြီး,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013047,Hlaingtharya (West),MMR013047003,Ah Twin Pa Dan,150349,Ah Twin Pa Dan,အတွင်းပဒံ,,,96.0295028686523,16.8715896606445,GAD,,,,,Active,N/A,Active,,,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013047,Hlaingtharya (West),MMR013047003,Ah Twin Pa Dan,150350,Kyun Ka Lay,ကျွန်းကလေး,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013047,Hlaingtharya (West),MMR013047002,Ku Lar Gyi Su,154573,Kan Hla,ကန်လှ,,,96.0379867553711,16.891809463501,GAD,,,,,Active,N/A,Active,,,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013047,Hlaingtharya (West),MMR013047002,Ku Lar Gyi Su,154572,Ku Lar Gyi Su,ကုလားကြီးစု,,,,,GAD,,,,,Active,N/A,Active,,,

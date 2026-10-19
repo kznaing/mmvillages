@@ -1,0 +1,322 @@
+SR_Pcode,SR_Name_Eng,District/SAZ_Pcode,District/SAZ_Name_Eng,Tsp_Pcode,Township_Name_Eng,VT_Pcode,Village_Tract_Name_Eng,Village_Pcode,Village_Name_Eng,Village_Name_MMR,Commonly_Used_Local_Vlg_Name_Eng,Commonly_Used_Local_Vlg_Name_Mya,Longitude,Latitude,Source,Start_Date,Modified_End_Date,Notification,Notification_modified,GAD_Village_Status,Field_Village_Status,MIMU_Village_Mapping_Status,Change_Type,Previous_Village_Name_Eng,Remark
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011002,Hawng Kyant,215075,Hawng Kyant,ဟောင်ကြန့်,,,100.36060333252,21.1580791473389,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011002,Hawng Kyant,215088,Kaw Nam Ngawt,ကော်နမ့်ငေါ့,,,100.350608825684,21.1573505401611,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011002,Hawng Kyant,215078,Nam Ma Ngawt,နမ့်မငေါ့,,,100.351600646973,21.1533699035645,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011002,Hawng Kyant,222252,Nam Yun,နမ့်ယွန်း,,,100.3443389,21.135273,Field Sources,2020-02-01 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011002,Hawng Kyant,222253,Pong Cho Nee,ပုံချို(နီး),,,100.3487751,21.1526409,Field Sources,2020-02-01 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011002,Hawng Kyant,222251,San Pya,စံပြ,,,100.3505601,21.1544804,Field Sources,2020-02-01 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011002,Hawng Kyant,215082,Tar Pauk,တာပေါက်,,,100.35530090332,21.1388397216797,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011002,Hawng Kyant,215081,Wan Hawng Kwayt,ဝမ်ဟောင်ကွေ့,,,100.340599060059,21.1307697296143,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011002,Hawng Kyant,215083,Wan Hpyo,ဝမ်ဖြို,,,100.36009979248,21.1263294219971,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011002,Hawng Kyant,215084,Wan Htant Kyant,ဝမ်ထန့်ကြန့်,,,100.36499786377,21.126859664917,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011002,Hawng Kyant,215076,Wan Hun,ဝမ်ဟွန်း,,,100.37670135498,21.1389293670654,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011002,Hawng Kyant,215085,Wan Kyan Par,ဝမ်ကျန်ပါ,,,100.364288330078,21.1188659667969,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011002,Hawng Kyant,215087,Wan Par Hsat,ဝမ်ပါဆတ်,,,100.349098205566,21.1121196746826,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011002,Hawng Kyant,215079,Wan Par Lawng,ဝမ်ပါလောင်း,,,100.348701477051,21.1504192352295,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011002,Hawng Kyant,215077,Wan Par Man,ဝမ်ပါမန်း,,,100.363502502441,21.1476707458496,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011002,Hawng Kyant,215086,Wan Waing Mai,ဝမ်ဝိုင်းမိုင်,,,100.342361450195,21.1129894256592,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011002,Hawng Kyant,215080,Wan Yang Hkam,ဝမ်ယမ်းခမ်း,,,100.34529876709,21.1401805877686,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011002,Hawng Kyant,222254,Ye Baw Haung,ရဲဘော်ဟောင်း,,,100.35119,21.1549608,Field Sources,2020-02-01 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011008,Hway Hpa,215171,Hway Hpa,ဟွေဖ,,,100.3783062,21.2215151,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011008,Hway Hpa,215183,Kaw Ho Inn Nay,ကော်ဟိုအင်းနေ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011008,Hway Hpa,215177,Kaw Ho Inn Taik,ကော်ဟိုအင်းတိုက်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011008,Hway Hpa,215182,Kaw Ho Kyun,ကော်ဟိုကျွန်,,,100.355201721191,21.2066097259521,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011008,Hway Hpa,215178,Kaw Hway Mun,ကော်ဟွေမွန်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011008,Hway Hpa,215174,Kaw Hway Pu,ကော်ဟွေပူး,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011008,Hway Hpa,215173,Kaw Pang Sang,ကော်ပန်ဆန်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011008,Hway Hpa,215175,Kaw Pu Kit,ကော်ပူကစ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011008,Hway Hpa,215185,Kwi Ho Wei,ကွီဟိုဝယ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011008,Hway Hpa,215181,Kwi Hpa Wan,ကွီဖဝမ်း,,,100.32080078125,21.2171897888184,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011008,Hway Hpa,215184,Kwi Nam Ngawt,ကွီနမ့်ငေါ့,,,100.460403442383,21.2577991485596,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011008,Hway Hpa,215172,Kwi Par Ta,ကွီပါတ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011008,Hway Hpa,215179,Loi Wan Inn Nay,လွယ်ဝမ်အင်းနေ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011008,Hway Hpa,215180,Loi Wan Inn Taik,လွယ်ဝမ်အင်းတိုက်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011008,Hway Hpa,215176,Loi Wan Pang,လွယ်ဝမ်ပန်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011015,Keng Hkam,215280,Kaw Ho Nu,ကော်ဟိုန,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011015,Keng Hkam,215275,Kaw Hson Mai,ကော်ဆုံမိုင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011015,Keng Hkam,215278,Kaw Hway Kawt,ကော်ဟွေကော့,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011015,Keng Hkam,215273,Kaw Mo Htaw,ကော်မိုထော,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011015,Keng Hkam,215269,Keng Hkam,ကျိုင်းခမ်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011015,Keng Hkam,215279,Loi Nay Hlan,လွယ်နေလျန်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011015,Keng Hkam,215271,Loi Wan Hpai,လွယ်ဝမ်ဖိုင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011015,Keng Hkam,215277,Loi Wan Sang,လွယ်ဝမ်ဆန်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011015,Keng Hkam,215276,Loi Wan Saw,လွယ်ဝမ်ဆော,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011015,Keng Hkam,215272,Loi Wan Tan,လွယ်ဝမ်တန်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011015,Keng Hkam,215270,Wan Ho Nar,ဝမ်ဟိုနား,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011015,Keng Hkam,215274,Wan Nam Hpan,ဝမ်နမ့်ဖန်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011010,Keng Kone,215213,Kaw Aik Hsan,ကော်အိုက်ဆန်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011010,Keng Kone,215220,Kaw Ho Dwei Wan Mai,ကောဟိုဒွယ်ဝမ်မိုင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011010,Keng Kone,215212,Kaw Hpar Hlyan,ကော်ဖာလျှမ်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011010,Keng Kone,215214,Kaw Hsut Payt,ကော်စွပ်ပေ့,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011010,Keng Kone,215207,Kaw Hway Aut,ကော်ဟွေအွတ်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011010,Keng Kone,215215,Kaw Hway Dwei Mai,ကော်ဟွေဒွယ်မိုင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011010,Keng Kone,215210,Kaw Hway Sa Le,ကော်ဟွေဆလဲ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011010,Keng Kone,215211,Kaw Kyar Hkam Lu,ကော်ကြားခမ်းလူး,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011010,Keng Kone,215218,Kaw Kyar Ohn,ကော်ကြာအုန်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011010,Keng Kone,215222,Kaw Mone Hin Mai,ကော်မုန်းဟင်မိုင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011010,Keng Kone,215217,Kaw Nam Hkon Mai,ကော်နန့်ခုံမိုင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011010,Keng Kone,215208,Kaw Po In Awng,ကော်ပိုအင်အောင်,Kaw Po In Kawng,ကော်ပိုအင်ကောင်,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011010,Keng Kone,215209,Kaw Poke Het,ကော်ပုတ်ဟက်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011010,Keng Kone,215219,Kaw Shan Hkon,ကော်ရှန်ခုန်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011010,Keng Kone,215221,Mong Hpan,မိုင်းဖန်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011010,Keng Kone,215216,Shan Ahr Hsar,ရှန်အားဆာ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011010,Keng Kone,215206,Wan Kyan,ဝမ်ကျန်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011010,Keng Kone,215205,Wan Mai Hoe Nar,ဝမ်မိုင်ဟိုးနား,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,222261,Hpat Tu,ဖတ္တူ,,,100.150597,20.9952549,Field Sources,2020-02-01 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,215095,Mone Laik,မုန်းလိုက်,,,100.326202392578,21.1013507843018,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,215108,Mong Han,မိုင်းဟန်,,,100.254096984863,21.0481700897217,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,215107,Mong Hawt,မိုင်းဟော့,,,100.282501220703,21.0663108825684,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,215112,Mong Hit,မိုင်းဟစ်,,,100.12629699707,21.0297107696533,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,215099,Nam An,နန့်အဲန်,,,100.307800292969,21.0440196990967,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,215098,Nam Kit,နမ့်ကစ်,,,100.317100524902,21.0459003448486,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,215096,Nam Pong,နန့်ပုန်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,215110,Nawnghkio,နောင်ချို,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,222257,Pang Ma Kyu,ပန်မကျူ,,,100.2150217,21.0380429,Field Sources,2020-02-01 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,222259,Par Pyet,ပါပျက်,,,100.2883535,21.0766296,Field Sources,2020-02-01 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,222258,Par Sang,ပါဆန်း,,,100.3026958,21.0761908,Field Sources,2020-02-01 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,222260,Pong Cho Way,ပုံချိုဝေး,,,100.2804779,21.0630297,Field Sources,2020-02-01 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,222262,Shey Khin,ရှေခင်,,,100.3108535,21.0552467,Field Sources,2020-02-01 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,215100,Tar Lut,တာလွတ်,,,100.349197387695,21.0953598022461,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,215106,Wan Hlyan Hpai,ဝမ်လျှဲန်းဖိုင်,,,100.328102111816,21.1150798797607,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,215101,Wan Ho Done,ဝမ်ဟိုဒုံး,,,100.3291015625,21.0930500030518,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,215109,Wan Hpa,ဝမ်ဖ,,,100.194396972656,21.0256900787354,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,215111,Wan Hpoke,ဝမ်ဖုတ်,,,100.151802062988,21.047269821167,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,215103,Wan Kawt Khwei,ဝမ်ကော့ခွယ်,,,100.355697631836,21.1000099182129,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,222256,Wan Keng,၀မ်ကြိမ်း,,,100.3202464,21.0940209,Field Sources,2020-02-01 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,215097,Wan Kying,ဝမ်ကြိမ်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,215104,Wan Lawt Ngoe,ဝမ်လော့ငိုး,Wan Lauk Ngoe,ဝမ်လောက်ငိုး,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,222255,Wan Ma Li,၀မ္ဇလီ,,,100.3379241,21.1279132,Field Sources,2020-02-01 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,215105,Wan Mong Hkun,ဝမ်မိုင်းခွန်,,,100.3429576,21.1215298,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011004,Mone Laik,215102,Wan Tone Sar,ဝမ်တုံးဆာ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011016,Mong Hee,215297,Hkauk Pauk,ခေါက်ပေါက်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011016,Mong Hee,215284,Hpyar Hkam Hsawng,ဖျားခမ်းဆောင်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011016,Mong Hee,215296,Hpyar Hkam Lu,ဖျားခမ်းလူး,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011016,Mong Hee,215286,Hpyar Wan Mai,ဖျားဝမ်မိုင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011016,Mong Hee,215290,Hpyee Hsar,ဖြီးဆာ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011016,Mong Hee,215294,Kyar Kyauk,ကြားကျောက်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011016,Mong Hee,215295,Kyar Kyauk Kawng,ကျားကျောက်ကောင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011016,Mong Hee,215283,Mong Lin,မိုင်းလင်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011016,Mong Hee,215289,Nam Pauk,နမ့်ပေါက်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011016,Mong Hee,215292,Nam Tan Htaik,နမ့်တန်းထိုက်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011016,Mong Hee,215291,Nam Tan Nay,နမ့်တန်းနေ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011016,Mong Hee,215293,Sut Nam,ဆွပ်နမ့်ပ်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011016,Mong Hee,215282,Wan Hsar,ဝမ်ဆာ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011016,Mong Hee,215285,Wan Hsaw,ဝမ်ဆော,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011016,Mong Hee,215288,Wan Hsut Long,ဝမ်ဆွပ်လုံ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011016,Mong Hee,215287,Wan Kaw Long,ဝမ်ကော်လုံး,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011016,Mong Hee,215281,Wan Win,ဝမ်ဝင်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215349,Ahr Da Yan,အာဒရန်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215345,Ahr Hsawng,အားဆောင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215348,Ahr Paw Law,အာပေါလော,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215360,Boke Awt,ဘုတ်အော့,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215365,Hsan Long,ဆန်လုံ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215366,Hsan Maik,ဆန်မိုက်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215352,Hsay Loet,ဆေလို့,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215358,Hway Pauk,ဟွေပေါက်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215346,Kyan Lit,ကြန်လစ်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215370,Kyar Boe Hkam,ကြားဘိုးခမ်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215362,Kyar In Nan,ကျားအင်နန်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215367,Kyar In Nwet,ကျာအင်နွဲ့,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215354,Kyar Wan Kawng,ကြားဝမ်ကောင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215353,Kyar Wan Mai,ကြားဝမ်မိုင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215343,Laik Nay,လိုက်နေ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215342,Laik Taik,လိုက်တိုက်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215351,May Ei Kyauk,မေအီကျောက်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215336,Mong Hkan,မိုင်းခန်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215361,Mun Long,မွန်လုံ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215347,Nang Htun,နမ်းထွန်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215341,Nar Yawng Nay,နားယောင်းနေ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215337,Naw Hawt,နောဟော့,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215364,Paik Maik,ပိုက်မိုက်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215371,Paw Ei Kyauk,ပေါအီကျောက်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215356,Shan Wan,ရှန်ဝမ်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215355,Sut Long,စွပ်လုံ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215363,Sut Pang,စွပ်ပန်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215340,Wan Hawt,ဝမ်ဟော့,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215350,Wan Hin Kawng,ဝမ်ဟင်းကောင်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215344,Wan Hpyat,ဝမ်ဖြတ်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215338,Wan In,ဝမ်အင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215368,Wan Kawng,ဝမ်ကောင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215359,Wan Mat Kwayt,ဝမ်မတ်ကွေ့,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215339,Wan Nar Mauk,ဝမ်နားမောက်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215369,Wan Pai Maik,ဝမ်ပိုင်းမိုက်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011020,Mong Hkan,215357,Wan Ping,ဝမ်ပင်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011017,Mong Hsaw,215302,Ho Nam Pang,ဟိုနမ့်ပန်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011017,Mong Hsaw,215300,Hpan Kyan Taik,ဖန်ကျန်တိုက်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011017,Mong Hsaw,215301,Hpyan Kyan Nay,ဖျန်ကျန်းနေ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011017,Mong Hsaw,215307,Hpyar Aht,ဖျားအပ်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011017,Mong Hsaw,215304,Hpyar Wan Nay,ဖျားဝမ်းနေ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011017,Mong Hsaw,215303,Hpyar Wan Taik,ဖျားဝမ်းတိုက်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011017,Mong Hsaw,215305,Kyar Sa Li,ကျားစလီ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011017,Mong Hsaw,215298,Mong Hsaw,မိုင်းဆော်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011017,Mong Hsaw,215306,Pang Hka Yan,ပန်ခရမ်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011017,Mong Hsaw,215299,Wan Hseng,ဝမ်ဆိုင်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011017,Mong Hsaw,215309,Wan Mai,ဝမ်မိုင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011017,Mong Hsaw,215310,Wan Mong Long,ဝမ်မိုင်းလုံ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011017,Mong Hsaw,215308,Wan Nwet,ဝမ်နွဲ့,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011017,Mong Hsaw,215311,Wan Wun,ဝမ်ဝန်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011019,Mong Htan,215331,Hpar Long Mai,ဖားလုံမိုင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011019,Mong Htan,215330,Hpar Long Tawng,ဖားလုံတောင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011019,Mong Htan,215335,Kaw Kyar In,ကော်ကျားအင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011019,Mong Htan,215334,Kyar,ကျား,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011019,Mong Htan,215326,Mong Htan,မိုင်းထန်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011019,Mong Htan,215328,Nawng Ngin,နောင်ငင်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011019,Mong Htan,215327,Wan Mai Long,ဝမ်မိုင်လုံ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011019,Mong Htan,215329,Wan Nawng,ဝမ်နောင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011019,Mong Htan,215332,Wan Sang Nay,ဝမ်ဆန်းနေ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011019,Mong Htan,215333,Wan Sang Taik,ဝမ်ဆန်းတိုက်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011013,Mong Lway,215257,Hlwe Shan Hkon,လွှဲရှန်ခုံ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011013,Mong Lway,215254,Kaw Kyan Wan,ကော်ကြန်ဝမ်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011013,Mong Lway,215253,Kaw Nam Hkon,ကော်နမ့်ခုံ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011013,Mong Lway,215252,Kaw Nawng Long,ကော်နောင်လုံ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011013,Mong Lway,215251,Kaw Nay Hta,ကော်နေထ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011013,Mong Lway,215256,Kyar Kyauk Mai,ကြားကျောက်မိုင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011013,Mong Lway,215255,Kyar Kyawng Kawng,ကြားကျောင်ကောင်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011013,Mong Lway,215259,Lwe Hpa Kyan,လွဲဖကြမ်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011013,Mong Lway,215260,Lwe Nam Pawng,လွဲနမ့်ပေါင်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011013,Mong Lway,215258,Lwe Pu Tin,လွဲပူတင်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011013,Mong Lway,215247,Wan Hsi Li,ဝမ်ဆီလီ,,,100.577796936035,21.3369903564453,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011013,Mong Lway,215249,Wan Kawng,ဝမ်ကောင်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011013,Mong Lway,215250,Wan Pauk,ဝမ်ပေါက်,,,100.601997375488,21.3487091064453,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011013,Mong Lway,215246,Wan Win,ဝမ်ဝင်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011013,Mong Lway,215248,Wan Yang Hkam,ဝမ်ယမ်းခမ်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011018,Mong Nang,215315,Hkam Da Yan,ခမ်းဒရမ်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011018,Mong Nang,215317,Kyar Hkun Long,ကျားခွန်လုံ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011018,Mong Nang,215319,Kyar Hpyi Keng,ကျားဖြီကျိုင်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011018,Mong Nang,215320,Kyar Hsa Li Kawng,ကျားဆလီကောင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011018,Mong Nang,215324,Kyar Hsa Li Mai,ကျားဆလီမိုင်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011018,Mong Nang,215318,Kyar Pu Tit,ကျားပူတစ်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011018,Mong Nang,215313,Mong Aun,မိုင်းအွန်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011018,Mong Nang,215312,Mong Nang,မိုင်းနန်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011018,Mong Nang,215314,Nar Pun,နားပွန်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011018,Mong Nang,215321,Wan Nwet,ဝမ်နွဲ့,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011018,Mong Nang,215316,Wan Pang Dee,ဝမ်ပန်ဒီး,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011018,Mong Nang,215323,Wan Paw Hpyi,ဝမ်ပေါ်ဖြီ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011018,Mong Nang,215325,Wan Pu Wan,ဝမ်ပူဝမ်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011018,Mong Nang,215322,Wan Tar Nwet Nang,ဝမ်တာနွဲ့နန်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011001,Wan Boe,215065,Wan Boe,ဝမ်ဘိုး,,,100.381797790527,21.1712493896484,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011001,Wan Boe,215074,Wan Hko Ke,ဝမ်ခိုကဲ,,,100.355400085449,21.1632995605469,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011001,Wan Boe,215067,Wan Hpa Kyauk,ဝမ်ဖကျောက်,,,100.395896911621,21.1684093475342,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011001,Wan Boe,215068,Wan Lawt Han,ဝမ်လော့ဟန်,Wan Launt Han,ဝမ်လောင့်ဟန်,100.401298522949,21.1844005584717,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011001,Wan Boe,215069,Wan Nar Hpan,ဝမ်နားဖန်,,,100.386497497559,21.1771602630615,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011001,Wan Boe,215066,Wan Par Mon,ဝမ်ပါမုန်,,,100.3687224,21.1694671,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011001,Wan Boe,215072,Wan Pong,ဝမ်ပုံ,,,100.37809753418,21.1931991577148,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011001,Wan Boe,215070,Wan Twi,ဝမ်တွီ,,,100.407402038574,21.179859161377,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011001,Wan Boe,215073,Wan Yang Le,ဝမ်ယမ်းလဲ,,,100.39289855957,21.2032794952393,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011001,Wan Boe,215071,Wan Yang Ma,ဝမ်ယမ်းမ,,,100.369201660156,21.1846103668213,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011001,Wan Boe,222250,Yan Moon,ယမ်းမွန်း,,,100.4004929,21.1921157,Field Sources,2020-02-01 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011012,Wan Dun Nwet,215238,Hlwe Pu Wan,လွှဲပူဝမ်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011012,Wan Dun Nwet,215242,Hway Kyan,ဟွေကြန်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011012,Wan Dun Nwet,215239,Kaw Ho Koet,ကော်ဟိုကို့,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011012,Wan Dun Nwet,215243,Kaw Ho La,ကော်ဟိုလ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011012,Wan Dun Nwet,215240,Kaw Hway Yet,ကော်ဟွေယက်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011012,Wan Dun Nwet,215244,Kaw Kyin Hpyo,ကော်ကြင်ဖြို,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011012,Wan Dun Nwet,215241,Kaw Shee Hti,ကော်ရှီထီ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011012,Wan Dun Nwet,215237,Wan Dun Nwet,ဝမ်ဒွန်းနွဲ့,,,100.559799194336,21.3160305023193,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011012,Wan Dun Nwet,215245,Wan Tar Pauk,ဝမ်တာပေါက်,,,100.557899475098,21.3156890869141,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011014,Wan Hpyat,215265,Kaw Ah Shi,ကော်အရှိ,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011014,Wan Hpyat,215268,Kaw Hkauk Pauk,ကော်ခေါက်ပေါက်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011014,Wan Hpyat,215264,Kaw Hsan Mein,ကော်ဆန်မိန်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011014,Wan Hpyat,215267,Kaw Par Hlyan,ကော်ပါလျှန်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011014,Wan Hpyat,215266,Kaw Par Mone,ကော်ပါမုန်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011014,Wan Hpyat,215262,Nam Pang,နန့်ပန်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011014,Wan Hpyat,215263,Wan Ayet,ဝမ်အေ့,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011014,Wan Hpyat,215261,Wan Hpyat,ဝမ်ဖြတ်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011011,Wan Htan Kyant,215235,Kaw Hpar Kunt,ကော်ဖားကွမ့်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011011,Wan Htan Kyant,215233,Kaw Nam Tawng,ကော်နမ့်တောင်း,,,100.46019744873,21.2579708099365,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011011,Wan Htan Kyant,215234,Kaw Wan Hit,ကော်ဝမ်ဟစ်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011011,Wan Htan Kyant,215231,Wan Hit,ဝမ်ဟစ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011011,Wan Htan Kyant,215225,Wan Ho Hko,ဝမ်ဟိုခို,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011011,Wan Htan Kyant,215223,Wan Htan Kyant,ဝမ်ထန်ကျန့်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011011,Wan Htan Kyant,215228,Wan Keng,ဝမ်ကျိုင်း,,,100.474098205566,21.2599391937256,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011011,Wan Htan Kyant,215226,Wan Mai Long,ဝမ်မိုင်လုံး,,,100.484397888184,21.2642498016357,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011011,Wan Htan Kyant,215227,Wan Nam Koke,ဝမ်နမ့်ကုတ်,,,100.501502990723,21.2726097106934,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011011,Wan Htan Kyant,215232,Wan Nam Tawng,ဝမ်နမ့်တောင်း,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011011,Wan Htan Kyant,215224,Wan Nar Myet,ဝမ်နားမြက်,,,100.540100097656,21.3011608123779,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011011,Wan Htan Kyant,215229,Wan Nawng Hkam,ဝမ်နောင်ခမ်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011011,Wan Htan Kyant,215236,Wan Pawt,ဝမ်ပေါ့,,,100.531402587891,21.3046894073486,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011011,Wan Htan Kyant,215230,Wan Tauk,ဝမ်တောက်,,,,,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011009,Wan In,215201,Kaw Hway Sar,ကော်ဟွေဆာ,,,100.480903625488,21.2161197662354,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011009,Wan In,215203,Kaw Kyar Aht,ကော်ကြာအပ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011009,Wan In,215190,Kaw Pang Hsi Li Awng,ကော်ပန်ဆီလီအောင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011009,Wan In,215194,Kaw Pang Hsi Li Mai,ကော်ပန်ဆီလီမိုင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011009,Wan In,215188,Kaw Pang Yoke Kawng,ကော်ပန်ယုတ်ကောင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011009,Wan In,215193,Kaw Pang Yoke Mai,ကော်ပန်ယုတ်မိုင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011009,Wan In,215187,Kaw Sun La,ကော်စွန်လ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011009,Wan In,215189,Kwi Gar Sat,ကွီဂါဆတ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011009,Wan In,215191,Kwi Ho Dei,ကွီဟိုဒယ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011009,Wan In,215197,Kwi Hpyar Hkam Hing,ကွီဖျာခမ်းဟိန်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011009,Wan In,215198,Kwi Hpyar Hsin Hkam,ကွီဖျာဆင်ခမ်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011009,Wan In,215202,Kwi Hpyar Kawng Hkam,ကွီဖျာကောင်ခမ်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011009,Wan In,215195,Kwi Hway Htan,ကွီဟွေထမ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011009,Wan In,215200,Kwi Mun Pu Hut,ကွီမွန်ပူဟွတ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011009,Wan In,215192,Kwi Paw Hkam Shan,ကွီပေါ်ခမ်းရှန်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011009,Wan In,215196,Wan Hkoe,ဝမ်ခိုး,,,100.457901000977,21.1046371459961,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011009,Wan In,215186,Wan In,ဝမ်အင်,,,100.460601806641,21.1874008178711,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011009,Wan In,215204,Wan Mai Aik Kyauk,ဝမ်မိုင်အိုက်ကျောက်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011009,Wan In,215199,Wan Nam Hin,ဝမ်နမ့်ဟင်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011003,Wan Kawng,215090,Wan Dun Keng,ဝမ်ဒွန်းကျိုင်း,,,100.3423864,21.1228245,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011003,Wan Kawng,215091,Wan Ho Nar,ဝမ်ဟိုနား,,,100.39289855957,21.126350402832,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011003,Wan Kawng,215089,Wan Kawng,ဝမ်ကောင်း,,,100.379600524902,21.1268196105957,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011003,Wan Kawng,215094,Wan Kone,ဝမ်ကုန်း,,,100.412399291992,21.1083393096924,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011003,Wan Kawng,215093,Wan Tawng,ဝမ်တောင်း,,,100.379302978516,21.113489151001,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011003,Wan Kawng,215092,Wan Yut,ဝမ်ယွတ်,,,100.401496887207,21.1332206726074,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011006,Wan Man,215133,Wan Dan,ဝမ်ဒန်,,,100.373100280762,21.1617202758789,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011006,Wan Man,215131,Wan Hpyat,ဝမ်ဖြတ်,,,100.386901855469,21.14328956604,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011006,Wan Man,215139,Wan Hsi Li Mun,ဝမ်ဆီလီမွန်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011006,Wan Man,215132,Wan Kyan Tawng,ဝမ်ကျန်းတောင်း,,,100.377502441406,21.1550407409668,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011006,Wan Man,215145,Wan Kyin Wan,ဝမ်ကြင်းဝမ်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011006,Wan Man,215135,Wan Kying,ဝမ်ကျိန်,,,100.401702880859,21.1461791992188,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011006,Wan Man,215130,Wan Man,ဝမ်မန်း,,,100.396499633789,21.1546401977539,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011006,Wan Man,215143,Wan Nam Taunt,ဝမ့်နမ့်တောင့်,Wan Nam Taunt,ဝမ်နမ့်တောင့်,100.439002990723,21.0932693481445,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011006,Wan Man,215144,Wan Nawng Boe,ဝမ်နောင်ဘိုး,,,100.417198181152,21.1455097198486,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011006,Wan Man,215136,Wan Nawng Yang,​ဝမ်နောင်ယဲန်း,Wan Nawng Yang,​ဝမ်နောင်ယန်း,100.42569732666,21.141450881958,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011006,Wan Man,215140,Wan Par Mon,ဝမ်ပါမုန်,,,100.369201660156,21.1689205169678,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011006,Wan Man,215142,Wan Shen,ဝမ်ရှဲန်း,,,100.462799072266,21.139820098877,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011006,Wan Man,215137,Wan Ton,ဝမ်တုန်,,,100.419502258301,21.1349792480469,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011006,Wan Man,215138,Wan Wein Keng,ဝမ်ဝိန်းကျိုင်း,Wan Wing Keng,ဝမ်ဝင်းကျိုင်း,100.432899475098,21.1184005737305,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011006,Wan Man,215134,Wan Yang Pong,ဝမ်ယမ်းပုံး,,,100.385902404785,21.1547107696533,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011006,Wan Man,215141,Want Tont,ဝမ့်တုံ့,,,100.444198608398,21.1366195678711,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215151,Dwei Sai Hkawng,ဒွယ်စိုင်းခေါင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215158,Kaw Ho Hput,ကော်ဟိုဖွတ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215149,Kaw Ho Pwe Daik,ကော်ဟိုပွဲဒိုက်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215150,Kaw Ho Pwe Nay,ကော်ဟိုပွဲနေ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215166,Kaw Ho Pwe Toke Ywar Thit,ကော်ဟိုပွဲတုတ်ရွာသစ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215165,Kaw Hpar Htoke,ကော်ဖားထုတ်,,,100.148803710938,20.9987907409668,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215155,Kaw Pang Hkun,ကော်ပန်ခွန်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215157,Kaw Pang Kaw Lawng,ကော်ပန်ကော်လောင်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215154,Kaw Pang Ma Kyu,ကော်ပန်းမကျူ,,,100.214599609375,21.0375804901123,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215168,Kaw Pang Zar,ကော်ပန်ဇာ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215153,Kaw Par Hpyet,ကော်ပါဖျက်,,,100.14330291748,21.0097198486328,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215164,Kaw Po Hkio Ywar Haung,ကော်ပိုချိုရွာဟောင်း,,,100.28099822998,21.0630798339844,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215167,Kaw Pong Hkio Taik,ကော်ပုံချိုတိုက်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215148,Kwi Ho Dwei Wan Hpat,ကွိဟိုဒွယ်ဝမ်ဖတ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215152,Kwi Ho Hpon Long,ကွိဟိုဖုံလုံး,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215156,Kwi Kya Law,ကွီကျလော,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215163,Kwi Win Keng,ကွီဝင်းကျိုင်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215160,Mu Hsay Hpar Hsay Nay,မူဆေဖားဆေနေ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215159,Mu Hsay Hpar Hsay Taik,မူဆေဖားဆေတိုက်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215161,Mu Hsay Law Par,မူဆေလောပါး,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215162,Mu Hsay Nar Lawng,မူဆေနားလောင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215170,Mun Nwet,မွန်နွဲ့,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215169,Nam Sa Li,နမ့်စလီး,,,100.288597106934,21.0765895843506,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215146,Par Hoke,ပါဟုတ်,,,100.148803710938,20.9987392425537,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011007,Wan Par Hoke,215147,Wan Kawng,ဝမ်ကောင်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011005,Wan Tat,215117,Wan An,ဝမ်အဲန်,,,100.4170327,21.2060396,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011005,Wan Tat,215123,Wan Ban,ဝမ်ဘမ်း,,,100.425796508789,21.192590713501,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011005,Wan Tat,215125,Wan Day,ဝမ်ဒေ,,,100.439498901367,21.1974697113037,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011005,Wan Tat,215120,Wan Hlyant,ဝမ်လျှဲန့်,Wan Hlyant,ဝမ်လျှမ့်,100.412002563477,21.2030296325684,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011005,Wan Tat,215121,Wan Ho Yang,ဝမ်ဟိုရမ်း,,,100.406898498535,21.1996593475342,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011005,Wan Tat,215126,Wan Hsi Li Mun,ဝမ်ဆီလီမွန်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011005,Wan Tat,215118,Wan Htin,ဝမ်ထင်,,,100.418502807617,21.2082004547119,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011005,Wan Tat,215129,Wan Hway Byi Byan,ဝမ်ဟွေဗြိဗြန်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011005,Wan Tat,215115,Wan Hway Htan,ဝမ်ဟွေထမ်,Wan Htway Htan,ဝမ်ထွေထမ်,100.441299438477,21.2284297943115,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011005,Wan Tat,222263,Wan Kyu,ဝမ်ကြူး,,,100.4479152,21.1994925,Field Sources,2020-02-01 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011005,Wan Tat,215124,Wan Le,ဝမ်လဲ,,,100.430397033691,21.1979503631592,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011005,Wan Tat,215122,Wan Lut,ဝမ်လွတ်,,,100.41480255127,21.1872692108154,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011005,Wan Tat,215127,Wan Mai,ဝမ်မိုင်,,,100.455703735352,21.1975193023682,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011005,Wan Tat,215128,Wan Nar Hkam,ဝမ်နားခမ်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011005,Wan Tat,215116,Wan Sho,ဝမ်ရှို,,,100.447448730469,21.1990089416504,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011005,Wan Tat,215119,Wan Tar Khwei,ဝမ်တာခွယ်,,,100.4222324,21.2127909,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011005,Wan Tat,215113,Wan Tat,ဝမ်တပ်,,,100.430702209473,21.2299098968506,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011005,Wan Tat,215114,Wan Yang Hkam,ဝမ်ယမ်းခမ်း,,,100.401260375977,21.1919803619385,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"

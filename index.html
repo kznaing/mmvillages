@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Myanmar P-Codes Browser</title>
+<style>
+  :root {
+    --bg: #f5f6f8;
+    --panel: #ffffff;
+    --border: #e2e5ea;
+    --text: #1f2430;
+    --muted: #6b7280;
+    --accent: #2563eb;
+    --accent-soft: #eef3ff;
+    --hover: #f3f5f9;
+
+    --pad: 16px;
+    --radius: 12px;
+    --header-h: 60px;
+    --tap: 44px;                 /* minimum touch target */
+    --font: "Segoe UI", "Noto Sans Myanmar", "Myanmar Text", system-ui, -apple-system, sans-serif;
+    --font-mmr: "Noto Sans Myanmar", "Myanmar Text", sans-serif;
+  }
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    font-family: var(--font);
+    background: var(--bg);
+    color: var(--text);
+    font-size: 15px;
+    line-height: 1.45;
+    overscroll-behavior-y: none;
+  }
+
+  /* ---------- header ---------- */
+  header {
+    position: sticky; top: 0; z-index: 20;
+    padding: 12px var(--pad) 10px;
+    background: var(--panel);
+    border-bottom: 1px solid var(--border);
+  }
+  header h1 { margin: 0; font-size: 16px; font-weight: 650; letter-spacing: -.01em; }
+  header p {
+    margin: 3px 0 0; color: var(--muted); font-size: 12px;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+
+  main { max-width: 1100px; margin: 0 auto; padding: var(--pad) var(--pad) 72px; }
+
+  /* ---------- breadcrumbs ---------- */
+  .crumbs {
+    display: flex; flex-wrap: wrap; align-items: center; gap: 2px 4px;
+    margin-bottom: 12px; font-size: 14px; color: var(--muted);
+    position: sticky; top: var(--header-h); z-index: 15;
+    background: var(--bg); padding: 6px 0;
+  }
+  .crumbs button {
+    background: none; border: none; color: var(--accent);
+    cursor: pointer; padding: 6px 4px; font: inherit; border-radius: 6px;
+    min-height: 32px;
+  }
+  .crumbs button:hover { text-decoration: underline; }
+  .crumbs .sep { margin: 0 2px; opacity: .5; }
+  .crumbs .here { color: var(--text); font-weight: 600; padding: 6px 4px; }
+
+  /* ---------- toolbar ---------- */
+  .toolbar {
+    display: flex; flex-direction: column; gap: 10px;
+    margin-bottom: 14px;
+    position: sticky; top: calc(var(--header-h) + 34px); z-index: 14;
+    background: var(--bg); padding-bottom: 8px;
+  }
+  .toolbar input[type="search"] {
+    width: 100%; min-height: var(--tap); padding: 11px 14px;
+    border: 1px solid var(--border); border-radius: 10px;
+    font: inherit; font-size: 16px;            /* >=16px prevents iOS zoom */
+    background: var(--panel); color: var(--text);
+    -webkit-appearance: none; appearance: none;
+  }
+  .toolbar input[type="search"]:focus {
+    outline: none; border-color: var(--accent);
+    box-shadow: 0 0 0 3px var(--accent-soft);
+  }
+  .badge {
+    align-self: flex-start;
+    background: var(--accent-soft); color: var(--accent);
+    border-radius: 999px; padding: 5px 12px; font-size: 12.5px; font-weight: 600;
+    white-space: nowrap;
+  }
+
+  /* ---------- card grid (mobile: single column) ---------- */
+  .grid { display: grid; grid-template-columns: 1fr; gap: 10px; }
+  .card {
+    background: var(--panel); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 14px 16px; cursor: pointer; text-align: left; font: inherit; color: inherit;
+    transition: border-color .12s, box-shadow .12s, transform .12s;
+    display: flex; flex-direction: column; gap: 3px;
+    min-height: var(--tap); width: 100%;
+  }
+  .card:active { transform: scale(.99); }
+  .card .title { font-weight: 600; font-size: 15px; }
+  .card .mmr { font-family: var(--font-mmr); font-size: 13.5px; color: var(--muted); }
+  .card .meta { font-size: 12.5px; color: var(--accent); margin-top: 2px; }
+
+  /* ---------- table: mobile becomes stacked cards ---------- */
+  table { width: 100%; border-collapse: collapse; background: var(--panel); border-radius: var(--radius); overflow: hidden; }
+  thead { display: none; }                       /* hidden on small screens */
+  tbody tr {
+    display: flex; flex-direction: column;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 12px 14px;
+    margin-bottom: 10px;
+    background: var(--panel);
+  }
+  tbody td {
+    display: block;
+    padding: 1px 0; border: none; font-size: 14px;
+    text-align: left;
+  }
+  td[data-label="P-Code"] { display: none; }
+  td[data-label="Name (Eng)"] { order: 1; font-weight: 600; font-size: 16px; margin-bottom: 1px; }
+  td[data-label="Name (Eng)"] .pcode { font-weight: 400; font-size: 12.5px; color: var(--muted); }
+  td[data-label="Name (MMR)"] { order: 3; color: var(--muted); margin-bottom: 6px; }
+  td[data-label="Village Tract"] { order: 4; color: var(--muted); font-size: 13px; }
+  td[data-label="Longitude"], td[data-label="Latitude"] { display: none; }
+  td[data-label="Map"] { order: 5; margin-top: 6px; }
+
+  .num { font-variant-numeric: tabular-nums; color: var(--muted); }
+  a.map {
+    color: var(--accent); text-decoration: none; font-weight: 600;
+    white-space: nowrap; padding: 4px 2px; display: inline-block;
+  }
+  a.map:hover { text-decoration: underline; }
+  .dash { color: #c2c7cf; }
+  .mmr { font-family: var(--font-mmr); }
+
+  .empty, .status {
+    padding: 28px 20px; text-align: center; color: var(--muted);
+    background: var(--panel); border: 1px dashed var(--border); border-radius: var(--radius);
+  }
+  .status { border-style: solid; }
+
+  /* ---------- tablet / desktop ---------- */
+  @media (min-width: 560px) {
+    :root { --pad: 24px; }
+    header { padding: 16px var(--pad) 12px; }
+    header h1 { font-size: 18px; }
+    header p { font-size: 13px; white-space: normal; }
+    .grid { grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); }
+    .toolbar { flex-direction: row; align-items: center; }
+    .toolbar input[type="search"] { flex: 1 1 260px; width: auto; font-size: 15px; }
+    .badge { align-self: center; }
+  }
+
+  @media (min-width: 720px) {
+    /* restore a proper table on wider screens */
+    thead { display: table-header-group; }
+    table { border: 1px solid var(--border); overflow: visible; }
+    tbody tr { display: table-row; border: none; border-radius: 0; padding: 0; margin: 0; }
+    tbody td { display: table-cell; padding: 9px 12px; border-bottom: 1px solid var(--border); text-align: left; }
+    tbody td[data-label="Longitude"], tbody td[data-label="Latitude"], tbody td[data-label="P-Code"] { display: table-cell; }
+    tbody td[data-label="Name (Eng)"] .pcode { display: none; }
+    th, td { font-size: 13.5px; vertical-align: top; }
+    th {
+      background: #fafbfc; font-weight: 650; color: var(--muted);
+      text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--border);
+    }
+    tbody tr:hover { background: var(--hover); }
+    tbody tr:last-child td { border-bottom: none; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Myanmar P-Codes Browser</h1>
+  <p>MIMU Place Codes &mdash; Release 9.7 (Jan 2026) &middot; States/Regions &rarr; Townships &rarr; Villages</p>
+</header>
+<main>
+  <nav class="crumbs" id="crumbs"></nav>
+  <div class="toolbar" id="toolbar" hidden>
+    <input type="search" id="filter" placeholder="Filter by name or P-code…" autocomplete="off">
+    <span class="badge" id="countBadge"></span>
+  </div>
+  <div id="view" class="grid"><div class="status">Loading manifest…</div></div>
+</main>
+
+<script>
+const DATA = "data";
+const state = { manifest: null, sr: null, township: null, filter: "" };
+
+const $ = (id) => document.getElementById(id);
+
+function fmt(n) { return n.toLocaleString("en-US"); }
+
+function mapLink(lng, lat, name) {
+  if (lng === "" || lat === "" || lng == null || lat == null) return null;
+  const lngn = Number(lng), latn = Number(lat);
+  if (!isFinite(lngn) || !isFinite(latn)) return null;
+  const q = `${latn},${lngn}`;
+  const label = encodeURIComponent(name || q);
+  return `https://www.google.com/maps/search/?api=1&query=${q}`;
+}
+
+function parseCSV(text) {
+  const rows = [];
+  let row = [], field = "", inQuotes = false;
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i];
+    if (inQuotes) {
+      if (c === '"') {
+        if (text[i + 1] === '"') { field += '"'; i++; }
+        else inQuotes = false;
+      } else field += c;
+    } else {
+      if (c === '"') inQuotes = true;
+      else if (c === ",") { row.push(field); field = ""; }
+      else if (c === "\n") { row.push(field); rows.push(row); row = []; field = ""; }
+      else if (c === "\r") { /* ignore */ }
+      else field += c;
+    }
+  }
+  if (field !== "" || row.length) { row.push(field); rows.push(row); }
+  return rows;
+}
+
+function csvToObjects(text) {
+  const rows = parseCSV(text);
+  if (!rows.length) return [];
+  const headers = rows[0];
+  return rows.slice(1)
+    .filter((r) => r.length && !(r.length === 1 && r[0] === ""))
+    .map((r) => {
+      const obj = {};
+      headers.forEach((h, i) => { obj[h] = r[i] !== undefined ? r[i] : ""; });
+      return obj;
+    });
+}
+
+async function fetchCSV(path) {
+  const res = await fetch(`${DATA}/${path}`);
+  if (!res.ok) throw new Error(`${path}: HTTP ${res.status}`);
+  return csvToObjects(await res.text());
+}
+
+function renderCrumbs() {
+  const c = $("crumbs");
+  c.innerHTML = "";
+  const mk = (label, handler, here) => {
+    if (here) {
+      const s = document.createElement("span");
+      s.className = "here"; s.textContent = label; c.appendChild(s);
+      return;
+    }
+    const b = document.createElement("button");
+    b.textContent = label;
+    b.onclick = handler;
+    c.appendChild(b);
+  };
+  mk("States / Regions", goRoot, !state.sr);
+  if (state.sr) {
+    c.appendChild(sep());
+    const srName = state.sr.name_eng || state.sr.pcode;
+    mk(srName, () => goSR(state.sr, srName), !state.township);
+  }
+  if (state.township) {
+    c.appendChild(sep());
+    const tName = state.township.name_eng || state.township.pcode;
+    mk(tName, () => goTownship(state.township, tName), true);
+  }
+}
+function sep() { const s = document.createElement("span"); s.className = "sep"; s.textContent = "›"; return s; }
+
+function setToolbar(show, placeholder) {
+  const tb = $("toolbar");
+  tb.hidden = !show;
+  if (show) {
+    $("filter").placeholder = placeholder || "Filter by name or P-code…";
+  }
+}
+
+async function goRoot() {
+  state.sr = null; state.township = null; state.filter = "";
+  renderCrumbs();
+  const view = $("view");
+  view.className = "grid";
+  const srs = state.manifest.states_regions;
+  setToolbar(true, "Filter states / regions…");
+  $("countBadge").textContent = `${srs.length} states / regions`;
+  $("filter").value = "";
+
+  const draw = (term) => {
+    const t = term.trim().toLowerCase();
+    const list = srs.filter((s) =>
+      !t || s.name_eng.toLowerCase().includes(t) || s.pcode.toLowerCase().includes(t) || (s.name_mmr || "").includes(term.trim()));
+    view.innerHTML = "";
+    if (!list.length) { view.innerHTML = `<div class="empty">No matches.</div>`; return; }
+    list.forEach((s) => {
+      const b = document.createElement("button");
+      b.className = "card";
+      b.innerHTML = `<span class="title">${esc(s.name_eng)}</span>
+        <span class="mmr">${esc(s.name_mmr || "")}</span>
+        <span class="meta">${esc(s.pcode)} · ${fmt(s.township_count)} townships</span>`;
+      b.onclick = () => goSR(s, s.name_eng);
+      view.appendChild(b);
+    });
+  };
+  $("filter").oninput = (e) => draw(e.target.value);
+  draw("");
+}
+
+async function goSR(sr, srName) {
+  state.sr = sr; state.township = null; state.filter = "";
+  renderCrumbs();
+  const view = $("view");
+  view.className = "grid";
+  setToolbar(true, "Filter townships…");
+  $("filter").value = "";
+  view.innerHTML = `<div class="status">Loading townships…</div>`;
+  let townships;
+  try {
+    townships = await fetchCSV(`02_townships/${sr.townships_file}`);
+  } catch (e) {
+    view.innerHTML = `<div class="empty">Failed to load townships: ${esc(e.message)}</div>`;
+    return;
+  }
+  const countByCode = Object.fromEntries(state.manifest.townships.map((t) => [t.pcode, t.village_count]));
+  $("countBadge").textContent = `${townships.length} townships`;
+
+  const draw = (term) => {
+    const t = term.trim().toLowerCase();
+    const list = townships.filter((r) =>
+      !t || (r["Township_Name_Eng"] || "").toLowerCase().includes(t) ||
+      (r["Tsp_Pcode"] || "").toLowerCase().includes(t) || (r["Township_Name_MMR"] || "").includes(term.trim()));
+    view.innerHTML = "";
+    if (!list.length) { view.innerHTML = `<div class="empty">No townships match.</div>`; return; }
+    list.forEach((r) => {
+      const code = r["Tsp_Pcode"];
+      const b = document.createElement("button");
+      b.className = "card";
+      b.innerHTML = `<span class="title">${esc(r["Township_Name_Eng"] || code)}</span>
+        <span class="mmr">${esc(r["Township_Name_MMR"] || "")}</span>
+        <span class="meta">${esc(code)} · ${fmt(countByCode[code] || 0)} villages</span>`;
+      b.onclick = () => goTownship({ pcode: code, name_eng: r["Township_Name_Eng"], name_mmr: r["Township_Name_MMR"], sr_pcode: sr.pcode }, r["Township_Name_Eng"]);
+      view.appendChild(b);
+    });
+  };
+  $("filter").oninput = (e) => draw(e.target.value);
+  draw("");
+}
+
+async function goTownship(township, tName) {
+  state.township = township;
+  renderCrumbs();
+  const view = $("view");
+  view.className = "";
+  setToolbar(true, "Filter villages by name (Eng/MMR) or P-code…");
+  $("filter").value = "";
+  view.innerHTML = `<div class="status">Loading villages…</div>`;
+  let villages;
+  try {
+    villages = await fetchCSV(`03_villages/${township.pcode}.csv`);
+  } catch (e) {
+    view.innerHTML = `<div class="empty">Failed to load villages: ${esc(e.message)}</div>`;
+    return;
+  }
+  if (!villages.length) {
+    $("countBadge").textContent = "0 villages";
+    view.innerHTML = `<div class="empty">No villages recorded for this township.</div>`;
+    $("filter").oninput = null;
+    return;
+  }
+  const cols = state.manifest.village_columns;
+  const withCoords = villages.filter((v) => mapLink(v["Longitude"], v["Latitude"], v["Village_Name_Eng"])).length;
+  $("countBadge").textContent = `${fmt(villages.length)} villages · ${fmt(withCoords)} mapped`;
+
+  const draw = (term) => {
+    const t = term.trim().toLowerCase();
+    const list = villages.filter((v) =>
+      !t || (v["Village_Name_Eng"] || "").toLowerCase().includes(t) ||
+      (v["Village_Pcode"] || "").toLowerCase().includes(t) ||
+      (v["VT_Pcode"] || "").toLowerCase().includes(t) ||
+      (v["Village_Name_MMR"] || "").includes(term.trim()));
+    view.innerHTML = "";
+    if (!list.length) { view.innerHTML = `<div class="empty">No villages match.</div>`; return; }
+    const table = document.createElement("table");
+    table.innerHTML = `<thead><tr>
+      <th>Village P-Code</th><th>Name (Eng)</th><th>Name (MMR)</th>
+      <th>Village Tract</th><th>Longitude</th><th>Latitude</th><th>Map</th>
+    </tr></thead><tbody></tbody>`;
+    const tbody = table.querySelector("tbody");
+    const frag = document.createDocumentFragment();
+    list.forEach((v) => {
+      const lng = v["Longitude"], lat = v["Latitude"];
+      const link = mapLink(lng, lat, v["Village_Name_Eng"]);
+      const tr = document.createElement("tr");
+      tr.innerHTML = `
+        <td class="num" data-label="P-Code">${esc(v["Village_Pcode"] || "")}</td>
+        <td data-label="Name (Eng)">${esc(v["Village_Name_Eng"] || "")} <span class="pcode">(${esc(v["Village_Pcode"] || "")})</span></td>
+        <td class="mmr" data-label="Name (MMR)">${esc(v["Village_Name_MMR"] || "")}</td>
+        <td data-label="Village Tract">${esc(v["Village_Tract_Name_Eng"] || "")}${v["Village_Tract_Name_Eng"] ? " Village Tract" : ""}</td>
+        <td class="num" data-label="Longitude">${esc(lng || "")}</td>
+        <td class="num" data-label="Latitude">${esc(lat || "")}</td>
+        <td data-label="Map">${link ? `<a class="map" href="${link}" target="_blank" rel="noopener">📍 Open</a>` : `<span class="dash">—</span>`}</td>`;
+      frag.appendChild(tr);
+    });
+    tbody.appendChild(frag);
+    view.appendChild(table);
+  };
+  $("filter").oninput = (e) => draw(e.target.value);
+  draw("");
+}
+
+function esc(s) {
+  return String(s == null ? "" : s)
+    .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+(async function init() {
+  try {
+    const res = await fetch(`${DATA}/manifest.json`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    state.manifest = await res.json();
+  } catch (e) {
+    $("view").innerHTML = `<div class="empty">
+      Could not load <code>data/manifest.json</code>.<br><br>
+      Serve this folder over HTTP, e.g.:<br>
+      <code>python3 -m http.server</code> then open
+      <code>http://localhost:8000/</code>.<br><br>
+      <small>${esc(e.message)}</small></div>`;
+    return;
+  }
+  goRoot();
+})();
+</script>
+</body>
+</html>

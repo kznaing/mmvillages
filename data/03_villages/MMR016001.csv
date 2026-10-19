@@ -1,0 +1,897 @@
+SR_Pcode,SR_Name_Eng,District/SAZ_Pcode,District/SAZ_Name_Eng,Tsp_Pcode,Township_Name_Eng,VT_Pcode,Village_Tract_Name_Eng,Village_Pcode,Village_Name_Eng,Village_Name_MMR,Commonly_Used_Local_Vlg_Name_Eng,Commonly_Used_Local_Vlg_Name_Mya,Longitude,Latitude,Source,Start_Date,Modified_End_Date,Notification,Notification_modified,GAD_Village_Status,Field_Village_Status,MIMU_Village_Mapping_Status,Change_Type,Previous_Village_Name_Eng,Remark
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001014,Hway Kwei,212170,Har Zar Kaw,ဟားဇားကော်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001014,Hway Kwei,212181,Hpa Long Mai,ဖလုံးမိုင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001014,Hway Kwei,212177,Hpar Yan Kan (1),ဖာရံကန် (၁),Hpar Yang Kan,ဖားရံကန်,99.5835145,21.2347606,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001014,Hway Kwei,212178,Hpar Yan Kan (2),ဖာရံကန် (၂),,,99.5826027,21.23646,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001014,Hway Kwei,212175,Hpar Yan Long,ဖာရ်လုံ,Hpar Yang Long,ဖားရံလုံ,99.5917997,21.2275647,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001014,Hway Kwei,212176,Hpar Yan Nwet,ဖာရံနွဲ့,Hpar Yang Nwet,ဖားရံနွဲ့,99.5898092,21.2293964,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001014,Hway Kwei,212162,Hway Kwei,ဟွေကွယ်,,,99.619206,21.203919,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001014,Hway Kwei,212167,Kaw Hpang Pang,ကော်ဖန်ပန်,Pang Hpat (Ah Kar),ပန်ဖတ် (အာခါ),99.6953015,21.2113558,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001014,Hway Kwei,212173,Kaw Nam Kant,ကော်နမ်ကန့်,Pang Pawng,ပန်ပေါင်း,99.7092348,21.1947776,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001014,Hway Kwei,212169,Kaw Par Pyet,ကော်ပါပျက်,Pang Pyet,ပန်ပျက်,99.6977615,21.2033901,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001014,Hway Kwei,212168,Kaw Wan Htaing,ကော်ဝမ်ထိုင်,Taw Hlaing,တော်လှိုင်း,99.6327909,21.2168552,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001014,Hway Kwei,212172,Kaw Wan Mai,ကော်ဝမ်မိုင်,,,99.6372518,21.1737952,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001014,Hway Kwei,212174,Nam Kan,နမ့်ကန်,Nam Naw,နမ့်နော်,99.7044468,21.1941586,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001014,Hway Kwei,212180,Nar Lay Zu,နားလေးဇူး,,,99.620903,21.20578,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001014,Hway Kwei,212166,Nawng Hei,နောင်ဟယ်,Nawng Hway,နောင်ဟွှယ်,99.6007538,21.2234306,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001014,Hway Kwei,212179,Nawng Hei,နောင်ဟယ်,,,99.5996824,21.2238962,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001014,Hway Kwei,212164,Pang Hpat,ပန်ဖတ်,Pang Hpat Loi,ပန်ဖတ်လွယ်,99.6724705,21.2122313,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001014,Hway Kwei,212165,Wan Hkan Pawng,ဝမ်ခံပေါင်,Mat Hkam Pawng,မတ်ခမ်းပေါင်,99.6023381,21.2208711,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001014,Hway Kwei,212171,Wan Hkay Wa,ဝမ်ခေဝ,Pang Hpat (Wa),ပန်ဖတ် (ဝ),99.6693018,21.214994,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001014,Hway Kwei,212163,Wan Met,ဝမ်မက်,Wan Mat Mun,ဝမ်မက်မွန်,99.613317,21.2007188,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001014,Hway Kwei,212182,Wan Tawt,ဝမ်တော့,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212336,Aw Pyant,အော်ပြန့်,,,99.6449737,21.3679504,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,222080,Bo Yar Hseng,ဘိုရာဆိုင်း,,,99.68926,21.3738871,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,222085,Hlan Kyant,လျန်ကျန့်,,,99.6226857,21.3413999,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212360,Ho Nar,ဟိုနား,,,99.6822444,21.361743,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212331,Hpa Kan,ဖကန်,,,99.6368633,21.3743192,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,222072,Hway Hsan,ဝှေးဆမ်း,,,99.6614861,21.3472213,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212330,Kat Hpa,ကတ်ဖ,,,99.6362917,21.3694202,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212361,Kaw Hkat,ကော်ခတ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212358,Kaw Par Chein,ကော်ပါချိန်,Par Chan,ပါချန်,99.7452987,21.3307514,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212341,Kawng Kyauk,ကောင်းကျောက်,,,99.6623001,21.3806992,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212354,Keng Shen,ကျိုင်းရှဲန်,,,99.6423874,21.3496208,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212356,Keng Win,ကျိုင်းဝင်,Kyein Tan,ကျိင်းတန်,99.6305793,21.3298509,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212338,Launt Tawng,လောင့်တောင်း,,,99.6577911,21.3646393,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212340,Lay Law,လေလော,,,99.668019,21.38317,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212363,Na Lan,နလန်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212350,Nawng Hawng,နောင်ဟောင်,,,99.6450272,21.3503799,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212345,Nawng Hkun,နောင်ခွန်,,,99.6203976,21.3355015,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,222081,Nawng Hwei,နောင်ဟွယ်,,,99.6937553,21.3849185,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,222082,Nawng In,နောင်အင်,,,99.6694328,21.4065738,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212351,Nawng Kon,နောင်ကုမ်,,,99.6349343,21.3348955,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212332,Nawng Kyan,နောင်ကျန်,Nawng Kar,နောင်ကာ,99.6261852,21.3679131,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,222074,Nawng Kyauk,နောင်ကျောက်,,,99.6509102,21.382812,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212344,Nawng La,နောင်လ,,,99.6760407,21.3561993,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212353,Nawng Lay,နောင်လေ,,,99.6368796,21.3393917,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212349,Nawng Ngin,နောင်ငင်း,,,99.6443329,21.3415203,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,222086,Nawng Tan,နောင်တန်,,,99.6158759,21.3203203,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,222070,Nawng Tan (Ah Kar),နောင်တန် (အာခါ),,,99.6282867,21.3268334,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,222079,Nawng Yang (Nawng Shan),နောင်ရန် (နောင်ရှမ်း),,,99.6765848,21.3431147,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,222075,Pang Huong,ပန်ဟုန်း,Pang Hoke,ပန်ဟုတ်,99.7559399,21.4784202,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,222083,Pang Pyang,ပန်ပျန်း,,,99.674577,21.4209806,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212337,Par Hkam,ပါခမ်,,,99.6576767,21.36133,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212362,Par Hkar,ပါခါး,,,99.7479401,21.3941708,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212357,Wan Hkam,ဝမ်ခမ်း,,,99.6493683,21.3782902,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,222078,Wan Hkan,ဝမ်ခန်,,,99.7123042,21.3803992,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212333,Wan Hlan,ဝမ်လျန်,,,99.6337916,21.3658756,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212334,Wan Hseng (1),ဝမ်ဆိုင်း (၁),Wan Hseng,ဝမ်ဆိုင်း,99.6424124,21.3604357,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212359,Wan Hseng (2),ဝမ်ဆိုင်း (၂),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,222076,Wan Hseng Loi Ywar Haung,ဝမ်ဆိုင်းလွယ်ရွာဟောင်း,,,99.7232886,21.3881046,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,222077,Wan Hseng Loi Ywar Thit,ဝမ်ဆိုင်းလွယ်ရွာသစ်,,,99.7170021,21.3853708,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212335,Wan Kauk,ဝမ်ကောက်,Wan Lauk,ဝမ်လောက်,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212352,Wan Kone,ဝမ်ကုန်း,Wan Kone (Shan),ဝမ်ကုန်း(ရှမ်း),99.6382753,21.3295604,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,222071,Wan Kone (Ah Kar),ဝမ်ကုန်း (အာခါ),,,99.6384898,21.3308446,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212346,Wan Lauk,ဝမ်လောက်,,,99.6248328,21.3476104,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212343,Wan Poke Kawng,ဝမ်ပုတ်ကောင်,,,99.6704021,21.3661501,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212342,Wan Poke Mai,ဝမ်ပုတ်မိုင်,,,99.6662207,21.3633725,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212348,Wan Tar,ဝမ်တာ,,,99.6300736,21.3565006,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212339,Wan Ton,ဝမ်တုန်,,,99.6566205,21.3672148,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,222073,Wan Tun,ဝမ်တွန်း,,,99.6387977,21.3703144,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,222084,Yang Hkam,ယန်းခမ်း,,,99.6275913,21.3585748,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212355,Yang Hla,ယန်းလှ,,,99.6282425,21.3236408,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001022,Kat Hpa,212347,Yang Poe,ယန်းပိုး,Yang Woe,ယန်းဝိုး,99.6279032,21.3565492,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211937,Bat Won,ဘတ်ဝုန်,,,99.5630035,21.3699398,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211943,Ho Tayt,ဟိုတေ့,,,99.559326,21.382242,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211942,Ho Yin,ဟိုရင်း,Ho Yang,ဟိုယန်း,99.559784,21.408898,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211931,Hsun Haik,ဆွန်ဟိုက်,,,99.549687,21.354108,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211929,Hway Pong,ဟွေပုန်,,,99.535217,21.332141,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,221976,Hway Pong (Upper),ဟွေပုန် (ထက်),,,99.534068,21.335666,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211916,Kat Htaik,ကတ်ထိုက်,,,99.553894,21.349811,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211933,Kat Wone,ကတ်ဝုန်း,,,99.562975,21.370824,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211953,Kawng Han,ကောင်းဟန်,Kawng Sat,ကောင်းစပ်,99.522665,21.358542,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,221966,Kawng Kan,ကောင်းကန်,,,99.525791,21.369443,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,221967,Kawng Kan (Ywar Thit),ကောင်းကန် (ရွာသစ်),,,99.526145,21.379298,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211955,Kawng Pyet,ကောင်းပျက်,,,99.50941,21.332559,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,221963,Kone Ge (a) Kone Keng,ကုန်းဂဲ (ခ) ကုန်းကျိုင်း,,,99.546224,21.325229,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,221965,Kone Kaw,ကုန်းကော်,,,99.542803,21.340895,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211922,Kone Ma (1),ကုန်းမ (၁),,,99.552703,21.322722,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211923,Kone Ma (2),ကုန်းမ (၂),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211924,Kone Ma (3),ကုန်းမ (၃),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211940,Kone Mon,ကုန်းမုန်,,,99.553119,21.375257,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211918,Launt Tawng,လောင့်တောင်း,,,99.568995,21.336426,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211956,Ma Hing Nwet,မဟိန်နွဲ့,,,99.508193,21.373238,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211935,Maik Hsi Shen,မိုက်ဆီရှဲန်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211930,Mar Keng,မာကျိုင်း,Mat Keng,မတ်ကျိုင်း,99.547321,21.35917,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211927,Nam Paw Hawng,နမ့်ပေါ်ဟောင်,Nam Pong Haung,နမ့်ပုံဟောင်း,99.518614,21.370759,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,221968,Nam Pong (1),နမ့်ပုံ (၁),,,99.515654,21.3701164,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211928,Nam Pong Wa,နမ့်ပုံဝ,,,99.51639,21.372464,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211957,Nauk In,နောက်အင်,Nawng Inn,နောင်အင်,99.530204,21.365746,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211947,Nawng Hsar,နောင်ဆာ,,,99.544221,21.332703,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211934,Nawng Hson,နောင်ဆုန်,,,99.517971,21.352431,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,221969,Nawng Hson (2),နောင်ဆုန် (၂),,,99.515059,21.349485,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,221970,Nawng Hson (3),နောင်ဆုန် (၃),,,99.51239,21.352784,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211920,Nawng Huong,နောင်ဟုန်း,,,99.571289,21.340936,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211917,Nawng Shan,နောင်ရှန်,,,99.5558636,21.3404183,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211954,Nawng Tawng,နောင်တောင်း,Nawng Tawng,နောင်တောင်,99.522028,21.361751,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211926,Nawng Yar Hseng,နောင်ယာဆိုင်း,Wan Kyawng,ဝမ်‌ကျောင်း,99.521684,21.343723,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,221964,Pang Hoke,ပန်ဟုတ်,,,99.506854,21.414195,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,221971,Par Hkar,ပါခါး,,,99.510121,21.341951,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211945,Pawng Wein,​ပေါင်ဝိန်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,221972,Ping Hkar (a) Ping Hkam,ပိန်းခါး (ခ) ပိန်းခမ်း,,,99.534587,21.345109,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211958,Thea Hseng,သဲဆိုင်း,,,99.570684,21.358218,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211925,Tin Htat,တင်းထပ်,,,99.550213,21.365409,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211932,Ton Kun,တုံကွမ်,,,99.544207,21.360274,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211919,Wan Awayt,ဝမ်အွေ့,Wan Hayt,ဝမ်ဟေ့,99.566179,21.346448,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211938,Wan Hai,ဝမ်ဟိုင်း,,,99.563501,21.366052,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,221975,Wan Hai (Lower),ဝမ်ဟိုင်း (အောက်),,,99.568319,21.364958,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211936,Wan Hawng,ဝမ်ဟောင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,221974,Wan Hin,ဝမ်ဟင်,,,99.560773,21.337662,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211921,Wan Hkawng,ဝမ်ခေါင်,,,99.5528793,21.3367004,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211939,Wan Hseng,ဝမ်ဆိုင်း,,,99.548273,21.337413,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211948,Wan Hseng,ဝမ်ဆိုင်,Wan Hswang,ဝမ်ဆောင်,99.561395,21.327862,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211949,Wan Kawng,ဝမ်ကောင်း,,,99.521492,21.3440094,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211952,Wan Keng,ဝမ်ကျိုင်း,Wan Kyan,ဝမ်ကျန်,99.558802,21.365254,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211950,Wan Kway Hway Paw,ဝမ်ကွေဟွေပေါ်,,,99.552182,21.357321,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211941,Wan Nam,ဝမ်နမ့်,,,99.565409,21.393882,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,221973,Wan Sang,ဝမ်ဆန်း,,,99.558308,21.34432,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211951,Wan Son,ဝမ်စုန်,Wan Kyon,ဝမ်ကြုံ,99.528339,21.340936,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211944,Wan Tawng,ဝမ်တောင်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001004,Kat Htaik,211946,Yang Kyauk,ယန်းကျောက်,,,99.547899,21.345275,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212258,Hat Hai,ဟတ်ဟိုင်း,,,99.598465,21.346193,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212262,Kat Kyawng,ကတ်ကျောင်း,Kat Tawng,ကတ်တောင်း,99.6169498,21.4078957,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212243,Kat Taung,ကတ်တောင်,,,99.6022112,21.3884243,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212249,Kha Yan,ခရမ်း,,,99.5909825,21.384282,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212256,Lai Hkaik,လိုင်ခိုက်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212253,Lai Kun,လိုင်ကွမ်,,,99.5953624,21.3568633,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212265,Lar Mong,လာမိုင်း,,,99.6270766,21.4480852,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212257,Nawng Awt,နောင်အော့,,,99.5968704,21.3490906,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212264,Nawng Kan,နောင်ကန်,,,99.6202608,21.4354641,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212244,Par Sat,ပါစပ်,,,99.6053157,21.3878699,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212255,Pauk Kat,ပေါက်ကပ်,,,99.5884246,21.3653161,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212260,Wan Ha,ဝမ်ဟ,,,99.588014,21.330711,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212254,Wan Hi,ဝမ်ဟီ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212267,Wan Hkan Pawng,ဝမ်ခံပေါင်,,,99.6342936,21.4581081,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212263,Wan Hpai,ဝမ်ဖိုင်,,,99.6159415,21.4190271,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212266,Wan Hway Pong,ဝမ်ဟွေပုန်း,,,99.6352601,21.4318237,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212252,Wan Kan,ဝမ်ကန်း,,,99.601532,21.3989201,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212251,Wan Lawng,ဝမ်လောင်,,,99.5956415,21.3944392,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212259,Wan Mauk,ဝမ်မောက်,,,99.600783,21.33746,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212246,Wan Ngan,ဝမ်ငမ်း,,,99.5975523,21.4137199,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212247,Wan Ngin Da,ဝမ်ငင်းဒ,Wan Hnyin,ဝမ်ညှင်း,99.5846806,21.4042674,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212250,Wan Pawng,ဝမ်ပေါင်,,,99.5890352,21.3884279,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212261,Wan Tawng,ဝမ်တောင်း,Wan Kawng,ဝမ်ကောင်း,99.6069241,21.405709,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212248,Yang Hoke,ယန်းဟုတ်,,,99.5984,21.38627,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001018,Kat Taung,212245,Yang Hsaw,ယန်းဆော်,,,99.6004224,21.4023128,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,221960,Kat Woe,ကတ်ဝိုး,,,99.5460098,21.3218331,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211905,Keng Hpawng,ကျိုင်းဖောင်း,,,99.56726,21.282165,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,221961,Kyu Kawt,ကျူကော့,,,99.543508,21.324557,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211892,Loi Long,လွယ်လုံ,,,99.572438,21.313947,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211896,Mong Yaing,မိုင်းယိုင်း,Mong Hai,မိုင်းဟိုင်း,99.569181,21.311167,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211915,Nam Heit,နမ့်ဟဲ့,,,99.5455747,21.3229022,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211914,Nam Lin Long,နမ့်လင်းလုံ,,,99.5508118,21.3186894,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211912,Nam Yit Hway,နမ့်ယစ်ဟွေ,,,99.5091324,21.3127995,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,221962,Nawng Hpan,နောင်ဖန်,,,99.577577,21.328957,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211893,Nawng Nay,နောင်နေ,Wan Nawng,ဝမ်နောင်,99.5779722,21.307072,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211904,Par Chan,ပါချန်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211907,Pong Hat,ပုံဟတ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211909,Ton Hsi,တုံဆီ,,,99.564391,21.317721,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211911,Wan Hway Long,ဝမ်ဟွေလုံ,,,99.5469507,21.3219401,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211899,Wan Kat,ဝမ်ကပ်,,,99.573109,21.307291,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211900,Wan Kawng,ဝမ်ကောင်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211895,Wan Kyauk,ဝမ်ကျောက်,,,99.568148,21.305537,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211910,Wan Kying (1),ဝမ်ကျိန် (၁),Wan Kying (Upper),ဝမ်ကျိန် (ပေါ်),99.55112,21.319043,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211913,Wan Kying (2),ဝမ်ကျိန် (၂),Wan Kying (Lower),ဝမ်ကျိန် (အောက်),99.55752,21.321442,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211902,Wan Lat,ဝမ်လတ်,,,99.572793,21.325492,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211908,Wan Lauk,ဝမ်လောက်,Wan Lauk (Ah Kar),ဝမ်လောက် (အာခါ),99.557558,21.299088,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211894,Wan Mai,ဝမ်မိုင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211903,Wan Nawng Tein,ဝန်နောင်တိန်,Nawng Ting,နောင်တိန်,99.575244,21.320244,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211898,Wan Pauk,ဝမ်ပေါက်,,,99.574232,21.3099738,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211906,Wan Pong,ဝမ်ပုံ,,,99.558959,21.292113,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211897,Wan Pyan,ဝမ်ပြန်,,,99.567913,21.308651,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001003,Loi Long,211901,Yang Pu,ယန်းပူ,Yang Pu,ယန်းပူး,99.575597,21.312916,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,222087,19 Maing (Wa),၁၉ မိုင် (ဝ),,,99.8003009,21.1202985,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,222088,21 Maing Lan Khwe,၂၁ မိုင်လမ်းခွဲ,,,99.8014761,21.1196758,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212367,Hkun Hseng (Lower),ခွန်ဆိုင်း (အောက်),,,99.7575607,21.1794701,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212366,Hkun Hseng (Middle),ခွန်ဆိုင်း (လယ်),,,99.7588482,21.1780103,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212365,Hkun Hseng (Upper),ခွန်ဆိုင်း (ထက်),,,99.7599025,21.176962,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212403,Ho Kyin (Lower),ဟိုကျင်း (အောက်),Ho Kyin (2),ဟိုကျင်း (၂),99.7078829,21.1493066,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212404,Ho Kyin (Middle),ဟိုကျင်း (လယ်),Ho Kyin (1),ဟိုကျင်း (၁),99.7085691,21.1535809,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212402,Ho Kyin (Upper),ဟိုကျင်း (ထက်),Ho Kyin (4),ဟိုကျင်း (၄),99.7161323,21.1513193,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212405,Ho Kyin Ywar Thit,ဟိုကျင်း (ရွာသစ်),Ho Kyin (3),ဟိုကျင်း (၃),99.7103071,21.1470769,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212378,Ho Lat (1),ဟိုလပ် (၁),,,99.72395,21.21024,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212379,Ho Lat (2),ဟိုလပ် (၂),,,99.7223053,21.2129345,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212380,Ho Lat (3),ဟိုလပ် (၃),,,99.7165375,21.2135506,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212381,Ho Lat (4),ဟိုလပ် (၄),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212382,Ho Lat (5),ဟိုလပ် (၅),,,99.7179184,21.2320995,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212383,Ho Lat (6),ဟိုလပ် (၆),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212384,Ho Lat (7),ဟိုလပ် (၇),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212408,Ho Po (Lower),ဟိုပို (အောက်),,,99.7324627,21.1339493,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212407,Ho Po (Middle),ဟိုပို (လယ်),,,99.7322235,21.1344891,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212406,Ho Po (Upper),ဟိုပို (ထက်),,,99.7277095,21.1357503,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212398,Hpar Ta (Lower),ဖာတ (အောက်),Hpar Ta (Upper),ဖာတ (ထက်),99.7444611,21.1399708,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212412,Hpar Ta (Upper),ဖာတ (ထက်),Hpar Ta,ဖာတ,99.7394675,21.1548217,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212372,Hpar Thea Hawng,ဖာသဲဟောင်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212373,Hpar Thea Thit,ဖာသဲသစ်,Hpar Thea,ဖာသဲ,99.7926499,21.1454168,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212395,Htan Nwet,ထန်နွဲ့,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212371,Kaw In Hkan,ကော်အင်ခန်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212364,Loi Mway,လွိုင်မွေ,,,99.750984,21.171498,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212399,Nam Hpi Hpei (1),နမ့်ဖီဖယ် (၁),Nam Hpi Hpei (Ah Kar),နမ့်ဖီဖယ် (အာခါ),99.7384975,21.1573353,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212400,Nam Hpi Hpei (2),နမ့်ဖီဖယ် (၂),Nam Hpi Hpei (Lar Hu),နမ့်ဖီဖယ် (လားဟူ),99.7377113,21.1565522,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,222089,Nam Nawt (Lar Hu),နမ့်နော့ (လားဟူ),,,99.7148444,21.1827011,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212385,Nam Nawt (Upper),နမ့်နော့ (ထက်),Nam Nawt (Ah Kar),နမ့်နော့ (အာခါ),99.7184607,21.1844251,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212410,Nawng Hkei (Lower),နောင်ခယ် (အောက်),,,99.7329381,21.1503599,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212411,Nawng Hkei (Upper),နောင်ခယ် (ထက်),Nawng Hkei,နောင်ခယ်,99.7312553,21.1508147,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212389,Nawng Hlan,နောင်လျန်,Nawng Hlan (4),နောင်လျန် (၄),99.7725123,21.2063613,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,222090,Nawng Hlan (6),နောင်လျန် (၆),,,99.7919102,21.2035806,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212392,Nawng Hlan (Lower),နောင်လျန် (အောက်),Nawng Hlan (1),နောင်လျန် (၁),99.7725979,21.2036806,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212390,Nawng Hlan (Middle-1),နောင်လျန် (လယ်- ၁),Nawng Hlan (3),နောင်လျန် (၃),99.7881336,21.2012405,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212391,Nawng Hlan (Middle-2),နောင်လျန် (လယ်- ၂),,,99.7827835,21.2049503,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212388,Nawng Hlan (Upper),နောင်လျန် (ထက်),Nawng Hlan (5),နောင်လျန် (၅),99.7995058,21.203521,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212396,Nawng Hoi (Lower),နောင်ဟွိုင် (အောက်),,,99.8279495,21.1531277,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212397,Nawng Hoi (Upper),နောင်ဟွိုင် (ထက်),Nawng Hoi,နောင်ဟွိုင်,99.8279038,21.1535301,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,222091,Nawng Long,နောင်လုံ,,,99.852682,21.2007418,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212376,Nawnghkio (Lower),နောင်ချို (အောက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212377,Nawnghkio (Middle),နောင်ချို (လယ်),Nawnghkio,နောင်ချို,99.7368622,21.2033997,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212375,Nawnghkio (Upper),နောင်ချို (ထက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212374,Pang Hkay Khut,ပန်ခေးခွတ်,Pang Hkay Khwat,ပန်ခေးခွက်,99.728349,21.1729685,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212401,Pang Kwe,ပန်ကွဲ,,,99.7238781,21.1684405,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,222092,Pang Kwe Taung Hteik,ပန်ကွဲတောင်ထိပ်,,,99.7384996,21.1601324,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212368,Pang Mat Hpai,ပန်မတ်ဖိုင်း,,,99.7652664,21.1498509,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212409,Pang Nyu,ပန်ညု,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,222093,Pang Pawng,ပန်ပေါင်း,,,99.6997925,21.2407428,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212387,Pang Waun (Lower),ပန်ဝိုင် (အောက်),,,99.7525864,21.1980591,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212386,Pang Waun (Upper),ပန်ဝိုင် (ထက်),,,99.7507971,21.1898776,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212369,Pang Woe,ပန်ဝိုး,,,99.77086,21.1755317,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212394,Par Hkar (Lower),ပါခါး (အောက်),,,99.8011398,21.1782398,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212393,Par Hkar (Upper),ပါခါး (ထက်),,,99.79956,21.1815723,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,212370,Pong Mauk,ပုံမောက်,,,99.7773617,21.1812743,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001023,Loi Mway,222094,Ywar Thit,ရွာသစ်,,,99.764767,21.174111,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212158,Ahr Hkar Day,အားခါးဒေ,,,99.616332,21.138803,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212129,Baw Hpar,ဘော်ဖာ,,,99.567459,21.197517,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212132,Ho Nar,ဟိုနား,,,99.60384,21.152303,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212139,Hway Hi,ဟွေဟိ,,,99.5925235,21.1436474,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212137,Hway Hlwe (1),ဟွေဟွဲ (၁),Hway Hlwe (1),ဟွေဟွှဲ (၁),99.669592,21.119578,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212138,Hway Hwe,ဟွေဟွှဲ,,,99.677113,21.121722,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212148,Hway Kyan,ဟွေကျန်း,,,99.580156,21.156763,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212128,Hway Lan,ဟွေလန်,,,99.5929718,21.1427593,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212141,Hway Yo,ဟွေယို,,,99.649368,21.149074,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212135,Hway Yoet,ဟွေယို့,,,99.638819,21.151759,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212127,Kawng Sang (Lower),ကောင်းဆန်း (အောက်),,,99.5715364,21.1881492,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212126,Kawng Sang (Upper),ကောင်းဆန်း (ထက်),,,99.5709131,21.1897747,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212131,Long Ma Tee,လုံမတီး,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212155,Mong Pyang,မိုင်းပျန်း,Moe Pyang,မိုးပျန်း,99.632371,21.120017,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212144,Nam Kyin (Lower),နမ့်ကျင် (အောက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212143,Nam Kyin (Upper),နမ့်ကျင် (ထက်),Nam Kyin,နမ့်ကျင်း,99.5782699,21.1666022,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212146,Nar Bo,နားဘို,,,99.567026,21.154455,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212157,Nar Mar Day,နာမားဒေး,,,99.613928,21.113281,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212160,Nawng Hlan,နောင်လျဲန်,Nawng Hlan,နောင်လျံ,99.646591,21.157674,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212156,Nawng Hoi,နောင်ဟွိုင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212159,Nawng Hwei,နောင်ဟွယ်,Nawng Pang Lar,နောင်ပန်လာ,99.668064,21.143348,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212154,Pang Hkoke,ပန်ခုတ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212150,Pang Len,ပန်လင်,Pang Lin (Ah Kar),ပန်လင် (အာခါ),99.616232,21.116963,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212149,Pang Moe Kyar,ပန်မိုးကြား,,,99.5811907,21.1797941,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212145,Par Sang,ပါဆန်း,,,99.582262,21.161223,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212147,Ping Long,ပိန်းလုံ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212161,San Kyaw,စံကျော်,,,99.62256,21.114547,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212151,Shan Jawng (1),ရှန်ဂျောင် (၁),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212152,Shan Jawng (2),ရှန်ဂျောင် (၂),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212153,Shan Jawng (3),ရှန်ဂျောင် (၃),,,99.6629562,21.1137695,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212142,Tar Myaung,တာမြောင်း,Thar Yar Kone,သာယာကုန်း,99.61264,21.153755,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212136,Tawng Tan,တောင်းတန်,Kawng Kan,ကောင်းကန်,99.584719,21.179274,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212133,Ton Mun,တုံမွန်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212125,Wan Awe,ဝမ်အွယ်,,,99.60362,21.167256,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212121,Wan In,ဝမ်အင်,,,99.595382,21.188397,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212122,Wan Kan,ဝမ်ကန်,,,99.58327,21.19792,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212124,Wan Kyin,ဝမ်းကျင်း,Wan Kyin,ဝမ်ကျင်း,99.588355,21.171306,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212123,Wan Lein,ဝမ်းလိမ်း,,,99.579733,21.201572,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212134,Wan Lum,ဝမ်လွမ်း,,,99.586951,21.187539,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212140,Wan Nar,ဝမ်နား,Ban Nar,ဘန်နား,99.620061,21.118914,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001013,Mong Da Hkun,212130,Wein Kyauk,ဝိန်းကျောက်,,,99.600475,21.163039,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,212076,Ahr Gu,အာဂူ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,222025,Ahr Mu Kyei (1),အာမူးကျယ် (၁),,,99.3481841,21.0556231,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,222026,Ahr Mu Kyei (2),အာမူးကျယ် (၂),,,99.3461135,21.0556732,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,212075,Boe Htei,ဘိုးထယ်,,,99.4128161,21.0438385,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,222014,Chee Nar Day,ချီးနားဒေ,,,99.4070382,21.0449422,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,222024,Har Waing,ဟာဝိုင်း,,,99.3867847,21.0602915,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,222015,Hkar Bar Lay (1),ခါးဘာလေ (၁),,,99.3841793,21.0396601,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,222016,Hkar Bar Lay (2),ခါးဘာလေ (၂),,,99.3881805,21.0344982,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,212080,Hsan Do Aye,ဆန်ဒိုအေ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,212078,Hsu Hseng Wan Man,ဆူဆိုင်ဝမ်မံ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,212068,La Hpet (Lower),လဖက် (အောက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,212067,La Hpet (Upper),လဖက် (ထက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,212077,Lar Khut,လာခွတ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,212072,Li Kyan (1),လီကျန် (၁),,,99.3385851,21.0274706,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,212073,Li Kyan (2),လီကျန် (၂),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,222021,Mar Hee Tet,မာဟီးတက်,,,99.3159858,21.072383,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,212070,Nam Hsay (Lower),နမ့်ဆေး (အောက်),Nam Oke (1),နမ့်အုပ် (၁),99.3807096,21.0334597,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,212069,Nam Hsay (Upper),နမ့်ဆေး (ထက်),Nar Hseng,နားဆိုင်,99.3627696,21.0456801,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,212074,Nam Yang,နမ့်ယန်း,Nam Oke (2),နမ့်အုပ် (၂),99.3695301,21.0398523,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,212079,Nam Yone,နမ့်ယုန်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,222019,Nawng Hpar,နောင်ဖာ,,,99.3456987,21.0170549,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,222018,Nawng Nwe (1),နောင်နွယ် (၁),,,99.3436066,21.0273854,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,222027,Nawng Nwe (2),နောင်နွယ် (၂),,,99.3499795,21.0269849,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,222020,Nawng Ye,နောင်ရဲ,,,99.3757815,21.1006711,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,222017,Nawnghkio,နောင်ချို,,,99.4045018,20.9985142,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,212081,Par Taw,ပါတော,,,99.3613417,21.0040401,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,222022,Wai Kyin Ko (1),ဝေကျင်းကို (၁),,,99.3782561,20.9941118,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,222023,Wai Kyin Ko (2),ဝေကျင်းကို (၂),,,99.3813245,20.9908364,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001009,Mong Inn,212071,Wan Hkeit,ဝမ်ခဲ့,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,222107,Bar Yar,ဘာယာ,,,100.0444862,21.242487,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,212458,Hpa Yar Hkan Shan,ဖရားခန်းရှန်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,212463,Hpa Yar In,ဖရားအင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,212460,Hpa Yar In Ta,ဖရားအင်တ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,212457,Hpa Yar Kyauk,ဖရားကျောက်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,212464,Hpa Yar Kyin,ဖရားကျင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,212461,Hpa Yar Pang Mai,ဖရားပန်မိုင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,212467,Hpa Yar Tawng Mai,ဘုရားတောင်းမိုင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,212468,Hseng Hkawng,ဆိုင်ခေါင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,212456,Hway Hawng,ဟွေဟောင်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,212455,Hway Lway,ဟွေလွေ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,222112,Kone Hkar,ကုန်းခါး,,,100.0896494,21.2631403,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,212472,Kone Ta,ကုံးတ,,,99.59165192,21.26423073,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,222109,Kyone Pu,ကျုံးပူ,,,100.0880079,21.26518,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,212473,Mong Lun,မိုင်းလွန်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,212471,Nam Ngun,နမ့်ငွန်း,,,99.91191864,21.21615028,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,212465,Nang Pauk,နန်ပေါက်,,,99.5916892,21.1143501,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,212462,Pang Kawng,ပန်ကောင်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,212469,Pang Len,ပန်လင်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,212466,Su Tawng Kawng,ဆုတောင်းကောင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,222111,Wan Hsi Mun,ဝမ်ဆီမွန်း,,,100.0932865,21.2642401,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,212459,Wan Kawng,ဝမ်ကောင်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,222113,Wan Ku,ဝမ်ကု,,,100.0878792,21.2614006,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,212454,Wan Lin,ဝမ်လင်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,222114,Wan Tun,ဝမ်တွန်း,,,100.104192,21.277764,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,222110,Wan Wein,ဝမ်ဝိန်း,,,100.0913768,21.2638402,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,222108,Wan Yang Hkam,ဝမ်ယမ်းခမ်း,,,100.0880185,21.2635103,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001026,Mong Kai,212470,Wo Hkam,ဝိုခမ်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212242,Hway Hsan,ဟွေဆန်,,,99.7139913,21.3433692,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212228,Hway Pong,ဟွေပုံ,Hway Pong (Ah Kar),ဟွေပုံ(အာခါ),99.6625565,21.3087029,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212224,In Hpai Hlyan,အင်ဖိုင်လျှံ,In Hpai Lin,အင်ဖိုင်လင်,99.7185244,21.3261882,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212226,Par Chan,ပါချန်,,,99.6647199,21.3276408,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212240,Wan Aweit,ဝမ်အွဲ့,,,99.6821485,21.3307911,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212219,Wan Hlwe,ဝမ်လွှဲ,Wan Lwe,ဝမ်လွဲ,99.7037608,21.3275996,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212227,Wan Hsan,ဝန်ဆန်,,,99.6676978,21.3183607,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,222063,Wan Hwei,ဝမ်ဟွယ်,,,99.6965369,21.3430209,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212238,Wan Kan,ဝမ်ကန်,,,99.6934202,21.3419441,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212241,Wan Kaw Nauk,ဝမ်ကော်နောက်,,,99.64991,21.3165398,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212221,Wan Keng,ဝမ်ကျိုင်း,Wan Sai (Shan),ဝမ်စိုင်း(ရှမ်း),99.6910784,21.3214617,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212222,Wan Kyin,ဝမ်ကျင်,Wan Kyan (Ah Kar),ဝမ်ကျန်း(အာခါ),99.66053,21.3383394,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212235,Wan Kyin,ဝမ်ကျင်း,,,99.6751056,21.2916388,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212237,Wan Loi,ဝမ်လွိုင်,,,99.7041364,21.3276596,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212236,Wan Long,ဝမ်လုံ,Wan Lu,ဝမ်လု,99.6873845,21.3374669,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212239,Wan Long,ဝမ်လုံး,,,99.7092459,21.3108244,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212220,Wan Ngoke,ဝမ်ငုတ်,,,99.6985756,21.3292574,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,222064,Wan Noke,ဝမ်နုတ်,,,99.6754494,21.3230421,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212231,Wan Pang,ဝမ်ပန်,Wan Pang (Shan),ဝမ်ပန် (ရှမ်း),99.6588768,21.2879904,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,222066,Wan Pang (Ah Kar),ဝမ်ပန် (အာခါ),,,99.6685765,21.2854873,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212223,Wan Poe,ဝမ်ပိုး,Wan Woe,ဝမ်ဝိုး,99.6840884,21.3189492,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,222065,Wan Sai (Ahr Hkay),ဝမ်စိုင်း(အားခေ),,,99.6930004,21.3178181,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212234,Wan Tan,ဝမ်တန်,Wan Tan,ဝမ်တဲန်,99.6937039,21.3085609,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212230,Wan Tin,ဝမ်တင်,Wan Hin,ဝမ်ဟင်,99.6569469,21.3249326,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212233,Wan Wein Kawng,ဝမ်ဝိမ်းကောင်,,,99.6899104,21.3016444,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212232,Wan Wein Mai,ဝမ်ဝိမ်းမိုင်,,,99.6861877,21.2995606,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212225,Yang Khwei,ယန်းခွယ်,,,99.6500931,21.3180504,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001017,Mong Lan,212229,Yang Mun,ယန်းမွန်,,,99.6377564,21.3184605,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001016,Mong Lat,212212,Ahr Hkay,အားခေ,Pang Hsan Kya,ပန်ဆံကျ,99.6810022,21.2665778,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001016,Mong Lat,222060,Hpar Nang Day,ဖာနန်းဒေ,,,99.6752572,21.2750852,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001016,Mong Lat,212218,Keng Kar,ကျိုင်းကာ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001016,Mong Lat,222059,Mong Kwi,မိုင်းကွီ,,,99.6803856,21.2746653,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001016,Mong Lat,222062,Nawng Kan,နောင်ကန်,,,99.660697,21.2711538,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001016,Mong Lat,222061,San Tar Mar Yee Yar,စံတာမာရီးယား,,,99.6687705,21.274793,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001016,Mong Lat,212213,Wan Hsar (1),ဝမ်ဆာ (၁),Wan Hsar,ဝမ်ဆာ,99.6441498,21.2620201,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001016,Mong Lat,212217,Wan Hsar (2),ဝမ်ဆာ (၂),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001016,Mong Lat,212211,Wan Hut,ဝမ်ဟွတ်,,,99.6313032,21.2591891,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001016,Mong Lat,212216,Wan Kan,ဝမ်ကန်,,,99.6854901,21.24695,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001016,Mong Lat,212215,Wan Kyun,ဝမ်ကျွန်,,,99.6778717,21.2476501,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001016,Mong Lat,212207,Wan Len,ဝမ်လင်,,,99.6456428,21.2726605,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001016,Mong Lat,212205,Wan Mai,ဝမ်မိုင်,Wan Mai (Shan),ဝမ်မိုင်(ရှမ်း),99.6539307,21.2577992,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001016,Mong Lat,222058,Wan Mai (Ah Kar),ဝမ်မိုင်(အာခါ),,,99.6553442,21.2595189,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001016,Mong Lat,212206,Wan Nwet,ဝမ်နွဲ့,,,99.6356884,21.2683761,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001016,Mong Lat,212210,Wan Tawng Kawng,ဝမ်တောင်းကောင်,Wan Tawng,ဝမ်တောင်း,99.6774902,21.2549896,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001016,Mong Lat,212209,Wan Tawng Mai,ဝမ်တောင်းမိုင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001016,Mong Lat,212208,Wan Ton,ဝမ်တုန်,,,99.6346018,21.2783501,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001016,Mong Lat,212214,Wan Yang,ဝမ်ယန်း,,,99.6672532,21.25097,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212487,Bo Yar Hseng (Haung),ဘိုယာဆိုင်း (ဟောင်း),,,99.812393,21.2473603,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212488,Bo Yar Hseng (Thit),ဘိုယာဆိုင်း (သစ်),,,99.8131551,21.2517388,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212493,Har Nam Kyin (Lower),ဟာနမ့်ကျင် (အောက်),Ho Nam Kyin/ Nar Kay,ဟိုနမ့်ကျင်/နာကေး,99.7766724,21.2282639,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212492,Har Nam Kyin (Upper),ဟာနမ့်ကျင် (ထက်),Ho Nam Kee,ဟိုနမ့်ကီး,99.8180203,21.2383696,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212484,Ho Kei,ဟိုကယ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212491,Hpar Ngeit,ဖာငဲ့,,,99.8003545,21.260903,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212481,Hpar Ngeit (1),ဖာငဲ့ (၁),,,99.7861727,21.2732531,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212482,Hpar Ngeit (2),ဖာငဲ့ (၂),,,99.7900577,21.2775844,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212483,Hpar Ngeit (3),ဖာငဲ့ (၃),,,99.7854246,21.2793599,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,222115,Hpar Ngeit (4),ဖာငဲ့ (၄),,,99.7947734,21.2784645,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212474,Hpar Ta,ဖာတ,,,99.7125759,21.2623985,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212486,Htam Hin,ထမ်ဟင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212478,Maw Tawng,မော်တောင်း,,,99.788307,21.2745704,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212490,Mong Hpin (Lower),မိုင်းဖင်း (အောက်),Mong Pyin,မိုင်းပြင်း,99.7664236,21.2398306,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212489,Mong Hpin (Upper),မိုင်းဖင်း (ထက်),Mong Pyin,မိုင်းပျင်း,99.7681764,21.233603,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212476,Mong Nawt,မိုင်းနော့,,,99.7318164,21.3119317,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,222116,Nam Aye,နမ့်အေး,,,99.8257395,21.3453854,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212475,Nam Kay,နမ့်ကေ,Nam Koke,နမ့်ကုတ်,99.7578326,21.3213169,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212480,Nam Lar,နမ့်လား,Par Shea,ပါရှဲ,99.755798,21.3200051,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212479,Nam Lawng,နမ့်လောင်း,,,99.8053961,21.343844,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212485,Nam Ti,နမ့်တီ,,,99.8704451,21.2730517,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212495,Nawng Tawng,နောင်တောင်း,,,99.7467917,21.229972,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212477,Pang Mauk,ပန်မောက်,,,99.6933365,21.2515297,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001027,Mong Naw/Hpar Ta,212494,Wan Ngin,ဝမ်ငင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,222118,Hkun Ngat,ခွန်ငတ်,,,99.850809,21.302121,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212524,Hkun Poke (Haung),ခွန်ပုတ် (ဟောင်း),,,99.9121628,21.2164307,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212523,Hkun Poke (Thit),ခွန်ပုတ် (သစ်),Hpi Bar Ywar Thit,ဖီဘာရွာသစ်,99.9237366,21.2330399,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212516,Hkun Put,ခွန်ပွတ်,,,99.9328919,21.2044907,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212518,Hway San,ဟွေစမ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212522,Kar Lai,ကာလိုင်,Kar Lan,ကာလန်း,99.9920706,21.219342,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212502,Kun Yawng,ကွန်ယောင်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212515,Loi Kyan,လွိုင်ကျန်,,,99.9238434,21.2345295,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212506,Lum Hsay,လွမ်းဆေး,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212498,Mong Khut,မိုင်းခွပ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212496,Mong Ngun,မိုင်းငွန်း,,,99.9747912,21.2486402,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,222117,Mun Laik,မွန်းလိုက်,,,99.9678342,21.2485815,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212499,Nam Hsan Hseng,နမ့်ဆန်ဆိုင်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212503,Nam Hseng (Lower),နမ့်ဆိုင်း (အောက်),,,99.9548035,21.2486305,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212512,Nam Keik,နမ့်ကိတ်,,,99.9348373,21.2740898,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212520,Nam Ngun Nwet,နမ့်ငွန်းနွဲ့,Nam Ngaung Nwet,နမ့်ငေါင်းနွဲ့,99.9408264,21.2358799,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212500,Nam Sang (Upper),နမ့်ဆန်း (ထက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212504,Nam Tin (Lower),နမ့်တင်း (အောက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212505,Nam Tin (Upper),နမ့်တင်း (ထက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,222739,Nar Ngaw Nwee,နာငေါနွီး,,,99.9790093,21.2556351,Field Sources,2022-10-27 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212521,Nawng Kyant,နောင်ကျန့်,,,100.035759,21.1969758,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212513,Ngun Aweit,ငွန့်အွဲ့,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212511,Ngun Ngat (1),ငွန်ငတ် (၁),,,99.8707581,21.2362404,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212517,Ngun Ngat (2),ငွန်ငတ် (၂),,,99.8936748,21.2547394,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212510,Ngun Ta Lai,ငွန်တလိုင်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212508,Pang Poe (Lower),ပန်းပိုး (အောက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212507,Pang Poe (Upper),ပန်းပိုး (ထက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212519,Par Hkar,ပါခါး,,,99.8971539,21.2544896,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212501,Pong Hi,ပုံဟီ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212497,Pong Seik,ပုံစိတ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212509,Tawng Pawng,တောင်းပေါင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001028,Mong Ngun,212514,Wan La,ဝမ်လ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),212010,Bay Da Ni,ဗေဓနိ,,,99.3377075,21.2891998,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),211995,Ho Nar,ဟိုနား,,,99.2839889,21.4100704,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),212005,Ho Pant,ဟိုပန့်,Ho Pant (1),ဟိုပန့် (၁),99.4030311,21.3026738,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),221995,Ho Pant (2),ဟိုပန့် (၂),,,99.3969369,21.3284002,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),221990,Hpar Haw,ဖားဟော်,,,99.3449713,21.3328093,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),221989,Hpar Hlyant,ဖားလျှန့်,,,99.3472587,21.3546561,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),212004,Hpar Tant,ဖာတန့်,,,99.3211822,21.3873692,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),211996,Htone Po,ထုံးပို,,,99.3994268,21.2913644,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),221983,Hway Hpyan (Upper),ဟွေဖြန်း (ပေါ်),,,99.3315466,21.309097,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),221982,Ma Naw Day,မနော ဒေ,,,99.3710197,21.312349,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),221992,Mae Sang Day,မယ်ဆန်း ‌ဒေ,,,99.3617397,21.3310704,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),212012,Mai Hkar,မိုင်ခါး,,,99.33987,21.27839,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),221993,Maw Ko,မောကို,,,99.3881437,21.3432506,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),211999,Mong Mee (Haung),မိုင်းမီး (ဟောင်း),Mong Hpi (Old),မိုင်းဖီ (ဟောင်း),99.3395233,21.2478981,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),211998,Mong Mee (New),မိုင်းမီး (သစ်),Mong Hpi (New),မိုင်းဖီ (သစ်),99.3463852,21.2507647,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),211991,Mong Pang (Lower),မိုင်းပန် (အောက်),,,99.3188972,21.3450062,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),211989,Mong Pang (Middle),မိုင်းပန် (လယ်),,,99.3234681,21.3324136,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),211990,Mong Pang (Upper),မိုင်းပန် (ထက်),,,99.3308272,21.3332726,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),212006,Nam Tawng,နမ့်တောင်း,Nam Tawng (Upper),နမ့်တောင်း (ထက်),99.362864,21.314423,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),221985,Nam Tawng (Lower),နမ့်တောင်း (အောက်),,,99.3538147,21.3210392,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),221984,Nam Tawng (Middle),နမ့်တောင်း (လယ်),,,99.3626298,21.3109297,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),211993,Nawng Pang,နောင်ပန်း,,,99.2808838,21.3737774,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),212007,Nawng San Hpu,နောင်စံဖူး,,,99.3437693,21.33165,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),221987,Pa Laung Ywar,ပလောင်ရွာ,,,99.3664216,21.3003408,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),221986,Pang Long,ပန်းလုံ,,,99.3536423,21.3569643,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),211997,Pang Mat Mun,ပန်မတ်မွန်,,,99.3824467,21.2998685,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),212009,Par Hoke,ပါဟုတ်,Par Yoke (Upper),ပါယုတ် (ထက်),99.3355385,21.2803963,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),221988,Par Yoke (Lower),ပါယုတ် (အောက်),,,99.335857,21.2751391,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),212003,Ping Aut,ပိန်းအွတ်,Ping Oke,ပိန်းအုတ်,99.3198406,21.354532,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),221991,Ping Long,ပိန်းလုံ,,,99.3174559,21.289295,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),212000,Ping Long (New),ပိန်းလုံ (သစ်),Ping Long,ပိန်းလုံ,99.33674,21.2863763,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),212001,Pong Long,ပုန်းလုံ,Pong Hton,ပုန်းထုံ,99.365329,21.2482497,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),212011,Shwe Nyaung Pin,ရွှေညောင်ပင်,,,99.3384444,21.292245,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),212002,Taung Chay,တောင်ခြေ,,,99.3523826,21.3013403,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),211994,Wan Hpyat,ဝမ်ဖြတ်,,,99.2797165,21.4011707,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),212008,Wan Kyone,ဝမ်ကျုံး,,,99.3456,21.3697,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),221994,Wan Mai Sang,ဝမ်မိုင်ဆန်း,,,99.3617855,21.3626497,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001006,Mong Pang (Middle),211992,Yang Long,ယန်းလုံ,,,99.2804565,21.35396,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),222122,An Ywar,အဲန်ရွာ,,,99.7022665,21.0538471,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212536,Hpan Ree (Lower),ဖန်ရီး (အောက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212535,Hpan Ree (Upper),ဖန်ရီး (ထက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212533,Kya Hseng,ကျဆိုင်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212541,Loi Kyan,လွယ်ကျန်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212546,Loi Tawng (Lower),လွယ်တောင်း (အောက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212545,Loi Tawng (Upper),လွယ်တောင်း (ထက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212534,Lum Hsay,လွမ်းဆေး,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212530,Maik Laik,မိုက်လိုက်,,,99.6897024,21.0634865,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212538,Mat Hman Hkam,မတ်မှန်ခမ်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212556,Mong Ngeit (Lower),မိုင်းငဲ့ (အောက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),222119,Nam Han,နမ့်ဟန်း,,,99.7588857,20.9904028,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212554,Nam Hei (Lower),နမ့်ဟယ် (အောက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212553,Nam Hei (Upper),နမ့်ဟယ် (ထက်),,,99.7253571,21.0545502,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212555,Nam Hei Long,နမ့်ဟယ်လုံ,,,99.7315536,20.9398647,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212540,Nam Hsei Aweit,နမ့်ဆယ်အွဲ့,,,99.731781,21.0831299,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212532,Nam Hseng (Lower),နမ့်ဆိုင်း (အောက်),Nang Hseng,နန်ဆိုင်း,99.6977584,21.0354996,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212531,Nam Hseng (Upper),နမ့်ဆိုင်း (ထက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212551,Nam Kan (1),နမ့်ကမ်း (၁),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212552,Nam Kan (2),နမ့်ကမ်း (၂),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212550,Nam Kei Pu,နမ့်ကယ်ပု,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212544,Nam Lin Tawng,နမ့်လင်းတောင်း,,,99.7320051,20.9830618,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212549,Nam Ping (Lower),နမ့်ပိန်း (အောက်),Nar Kawng,နားကောင်း,99.72544859999999,21.0045605,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212548,Nam Ping (Middle),နမ့်ပိန်း (လယ်),,,99.692276,21.0306797,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212547,Nam Ping (Upper),နမ့်ပိန်း (ထက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212526,Nar Nwet,နားနွဲ့,,,99.7262699,21.0586534,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),222120,Nawng Hei,နောင်ဟယ်,,,99.7487237,21.0147797,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212558,Nawng Par,နောင်ပါ,,,99.7071256,21.0333806,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212543,Nyu Pang (Lower),ညုပန်း (အောက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212542,Nyu Pang (Upper),ညုပန်း (ထက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),222121,Pang Woe,ပန်ဝိုး,,,99.7122976,21.1013957,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212557,Par Meit,ပါမဲ့,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212529,Ping Long,ပိန်းလုံ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212539,Pong Hkay,ပုံခေ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212525,Pong Hseng,ပုံဆိုင်း,,,99.722032,21.0463265,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212537,Ton Long,တုံလုံ,,,99.6982693,21.0808049,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212528,Wan In,ဝမ်အင်,,,99.7198799,21.0307719,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001029,Mong Pat (Lower),212527,Wan Ping,ဝမ်ပင်း,,,99.7154288,21.0351051,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001030,Mong Pat (Upper),212577,Gyaw Maw,ဂျောမော,Gyawt Mawt,ဂျော့မော့,99.63791,21.033434,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001030,Mong Pat (Upper),212562,Hpar Pe Ko,ဖာပဲကို,Hpa Pe Ko,ဖပဲကို,99.639471,21.086092,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001030,Mong Pat (Upper),212568,Kawng Hum (1),ကောင်းဟွမ် (၁),Kawng Hum (Lar Hu),ကောင်းဟွမ် (လားဟူ),99.654929,21.0331797,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001030,Mong Pat (Upper),212571,Kawng Hum (2),ကောင်းဟွမ် (၂),Kawng Hum (Pa Laung),ကောင်းဟွမ် (ပလောင်),99.642397,21.050206,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001030,Mong Pat (Upper),222124,Loi Say,လွယ်စေး,,,99.700489,21.110082,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001030,Mong Pat (Upper),212559,Mo Min Ngeit,မိုမင်းငဲ့,Mar Ngeit,မာငဲ့,99.68247,21.067593,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001030,Mong Pat (Upper),212566,Mong Nawt (Lower),မိုင်းနော့ (အောက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001030,Mong Pat (Upper),212567,Mong Nawt (Upper),မိုင်းနော့ (ထက်),Mar Naw,မာနော်,99.668264,21.078459,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001030,Mong Pat (Upper),212565,Nam Hkat (Lower),နမ့်ခတ် (အောက်),Nam Hkam (Upper),နမ့်ခမ်း (ထက်),99.69713,21.026424,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001030,Mong Pat (Upper),212564,Nam Hkat (Upper),နမ့်ခတ် (ထက်),Nam Hkam (Lower),နမ့်ခမ်း (အောက်),99.679384,21.024687,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001030,Mong Pat (Upper),212575,Nam Hsan Sut,နမ့်ဆံဆွပ်,Nar Hsan Su,နာဆန်းစု,99.658647,21.03505,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001030,Mong Pat (Upper),212570,Nam Tin (Lower),နမ့်တင် (အောက်),,,99.6789169,21.0249901,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001030,Mong Pat (Upper),212569,Nam Tin (Upper),နမ့်တင် (ထက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001030,Mong Pat (Upper),212573,Nawng Pong,နောင်ပုံ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001030,Mong Pat (Upper),212576,Pang Sang,ပန်ဆန်း,,,99.661031,21.074427,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001030,Mong Pat (Upper),222123,Pang Woe,ပန်ဝိုး,,,99.716332,21.099173,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001030,Mong Pat (Upper),212572,Par Hkar,ပါခါး,Par Pei,ပါးပါယ်,99.643511,21.081575,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001030,Mong Pat (Upper),212561,Pong Hkeik (Lower),ပုံခိတ် (အောက်),,,99.670076,21.054439,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001030,Mong Pat (Upper),212560,Pong Hkeik (Upper),ပုံခိတ် (ထက်),,,99.6616976,21.0550821,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001030,Mong Pat (Upper),212574,Pong Ti,ပုံတီ,Pong Hi,ပုံဟီ,99.692603,21.030999,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001030,Mong Pat (Upper),212563,Shan Taung,ရှန်တောင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,222042,(Wa) Wan Long,(ဝ) ဝမ်လုံး,,,99.6550693,21.2204841,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,222041,(Wa) Zin,(ဝ) ဇင်း,,,99.658374,21.218559,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212196,Gyoe Hpyu,ဂျိုးဖြူ,,,99.6291763,21.2215153,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,222043,Hkar Nan,ခါနန်,,,99.639518,21.239622,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212191,Ho Hko,ဟိုခို,,,99.6426004,21.2347198,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212203,Hway Hkar Hawng,ဟွေခါးဟောင်း,Hway Hkar,ဟွေခါး,99.6158967,21.2658925,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212204,Hway Hkar Thit,ဟွေခါးသစ်,,,99.6108589,21.26446,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212186,Kat Zin (1),ကတ်ဇင်း (၁),,,99.658999,21.212949,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212187,Kat Zin (2),ကတ်ဇင်း (၂),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212193,Moke Soe (Mai),မုဆိုး (မိုင်),Moke Hsun Mai,မုတ်ဆွန်းမိုင်,99.6410627,21.247519,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212184,Nam Waw Awt,နမ့်ဝေါ်အော့ဖ်,,,99.680589,21.174704,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212188,Nam Waw Nay,နမ့်ဝေါ်နေ,,,99.679718,21.168972,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212198,Nawng Bo,နောင်ဘို,,,99.6233119796735,21.2461272966964,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,222049,Nawng Nun (Ah Kar),နောင်နွန်း (အာခါ),,,99.6224906,21.2525104,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,222047,Nawng Nun (Kwet Thit),နောင်နွန်း (ကွက်သစ်),,,99.6175488,21.2490294,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,222048,Nawng Nun (Lar Hu),နောင်နွန်း (လားဟူ),,,99.6202831,21.252676,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212201,Nawng Nwan,နောင်နွမ်း,Nawng Nwan (Shan),နောင်နွမ်း (ရှမ်း),99.6214103,21.249955,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212199,Nawng Poe,နောင်ပိုး,Nawng Wo,နောင်ဝို,99.6229686569538,21.2474172423209,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,222044,Nyawng Nyo,ညောင်ညို,,,99.610688,21.253936,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212195,Pang Hseng,ပန်ဆိုင်း,Ping Hseng (Wa),ပိန်းဆိုင်း (ဝ),99.6296439,21.2425196,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,222051,Pang Hsun,ပန်ဆွန်,,,99.604837,21.2692411,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212202,Pang Huong,ပန်ဟုန်း,,,99.6215756,21.2555576,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,222050,Pang Ku Lar,ပန်ကုလား,,,99.689118,21.159418,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212185,Pang Lawt,ပန်လော့,,,99.6907512,21.1798969,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,222762,Pang Lawt (upper),ပန်လော့ (အထက်),,,99.7042409,21.1756351,Field Sources,2022-10-27 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,222052,Ping Hseng (Wa),ပိန်းဆိုင်း (ဝ),,,99.6309999,21.2417159,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,222045,Taw An (1),တော်အန်း (၁),,,99.668426,21.204487,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,222046,Taw An (2),တော်အန်း (၂),,,99.6710781,21.2004411,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212200,Tin Htat,တင်ထပ်,,,99.6051402,21.2664741,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,222055,Wan Kawng,ဝမ်ကောင်း,,,99.6205103,21.2475494,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212190,Wan Lawng,ဝမ်လောင်,Wan Pawng,ဝမ်ပေါင်,99.6204185,21.2473592,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212192,Wan Long,ဝမ်လုံး,,,99.6435241,21.2306211,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,222056,Wan Mon,ဝမ်မုံ,,,99.6320898,21.2441139,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,222057,Wan Pawng,ဝမ်ပေါင်,,,99.611722,21.259524,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212194,Wan Pong,ဝမ်ပုံ,,,99.6290914,21.230678,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212197,Yang Htu,ယန်းထူး,Yang Lu (Shan),ယန်းလူး (ရှမ်း),99.6220819,21.236808,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,222054,Yang Lu (Lan Khwe Ah Kar),ယန်းလူး (လမ်းခွဲအာခါ),,,99.6266098,21.2410624,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,222053,Yang Lu (Lan Khwe Shan),ယန်းလူး (လမ်းခွဲရှမ်း),,,99.6255686,21.2395101,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212183,Zin Nay,ဇင်းနေ,,,99.6601402,21.2103736,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001015,Mong Zin,212189,Zin Taing,ဇင်းတိုင်,,,99.6562809,21.2129799,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,222010,Ah Hkar Day,အာခါဒေ,,,99.4221621,21.1441309,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,222007,Hat Pi Kwei (1),ဟပ်ပီကွယ် (၁),,,99.4814146,21.0684401,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,222008,Hat Pi Kwei (2),ဟပ်ပီကွယ် (၂),,,99.4851911,21.070923,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,222009,Hat Pi Kwei (3),ဟပ်ပီကွယ် (၃),,,99.4925457,21.0742818,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212063,Hpa Hpaw Aye,ဖဖော်အေ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212051,Hsu Mu,ဆူမူ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212057,Htaw Ku Day (1),ထောကူးဒေ (၁),,,99.4159775,21.1761704,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212058,Htaw Ku Day (2),ထောကူးဒေ (၂),Htaw Ku Day,ထောကူးဒေ,99.445343,21.1599407,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212047,Kei Weit,ကယ်ဝဲ့,Kei Hwet,ကယ်ဝှက်(၁),99.3880005,21.1999703,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,222013,Kei Weit (2),ကယ်ဝှက်(၂),,,99.3889523,21.2136022,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212055,Kyu Khi Kaing (Lower),ကျူးခီကိုင် (အောက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212054,Kyu Khi Kaing (Upper),ကျူးခီကိုင် (ထက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212045,Loi Ko,လွိုင်ကို,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,222012,Ma Hi Pang,မဟီပန်,,,99.4034977,21.1375806,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,222011,Mong Inn,မိုင်းအင်း,,,99.3353537,21.115175,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212059,Nam Aw (1),နမ့်အော် (၁),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212060,Nam Aw (2),နမ့်အော,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212043,Nam Hkat,နမ့်ခတ်,,,99.4734454,21.100661,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212044,Nam Hkat Hawng,နမ့်ခတ်ဟောင်း,,,99.4733696,21.1096693,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212061,Nam Kyauk,နမ့်ကျောက်,,,99.4435196,21.0852108,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212064,Nam Thein,နမ့်သိမ်း,,,99.4702994,21.0816992,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212062,Nam Tin,နမ့်တင်း,,,99.47052,21.0825291,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212065,Nam Yawt,နမ့်ယော့,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212066,Nar Kyawt,နားကျော့,,,99.4429295,21.0849605,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212046,Pang Mu,ပန်မူ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212056,Tar Hpar,တာဖာ,Tar Hpe,တာဖဲ,99.4186575,21.1671667,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212050,Wan Hsun,ဝမ်ဆွန်,Wan Hkei,ဝမ်ခယ်,99.3606539,21.1434646,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212053,Wan Po (Lower),ဝမ်ပို (အောက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212052,Wan Po (Upper),ဝမ်ပို (ထက်),Wan Long,ဝမ်လုံ,99.4198837,21.1304894,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212049,Win Ya,ဝင်းရ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001008,Nam Hkat,212048,Yang Mu,ယန်းမူ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001011,Nam Inn,222037,Ah Mar Day,အမားဒေ,,,99.5284051,21.042311,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001011,Nam Inn,212098,Ah Maw Day,အမောဒေ,Ah Maw Day,အာမောဒေ,99.5857773,21.0218105,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001011,Nam Inn,212104,Bang Ngu (Lower),ဘန်ငူး (အောက်),,,99.4610649,21.0528733,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001011,Nam Inn,212103,Bang Ngu (Upper),ဘန်ငူး (ထက်),,,99.4658276,21.0393014,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001011,Nam Inn,212101,Har Lo,ဟားလို,,,99.4157333,21.0639801,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001011,Nam Inn,212096,Har Mee Kwei,ဟာမီးကွယ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001011,Nam Inn,212102,Hpar Naw Kway,ဖာနောကွေ,,,99.4148569,21.0436879,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001011,Nam Inn,212105,Hpe Hkun,ဖဲခွန်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001011,Nam Inn,212097,Htaw Ku Day,ထောကူးဒေ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001011,Nam Inn,212108,Man Heik,မန်ဟိတ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001011,Nam Inn,222035,Nam Aw,နမ့်သြေ,,,99.4886769,21.0523834,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001011,Nam Inn,222034,Nam Hpu,နမ့်ဖူး,,,99.5160569,21.0627462,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001011,Nam Inn,222036,Nam Inn,နမ့်အင်း,,,99.5033075,21.0577093,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001011,Nam Inn,212095,Nam Lo (Lower),နမ့်လို (အောက်),,,99.3826857,21.034461,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001011,Nam Inn,212094,Nam Lo (Upper),နမ့်လို (ထက်),Hsu Day,ဆူ ဒေး,99.5831701,21.0264149,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001011,Nam Inn,212107,Nam Mun,နမ့်မွန်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001011,Nam Inn,212100,Naw Su (Lower),နော်ဆု (အောက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001011,Nam Inn,212099,Naw Su (Upper),နော်ဆု (ထက်),Nawng Hsu,နောင်ဆူ,99.4068211,21.0845709,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001011,Nam Inn,212106,Nawnghkio,နောင်ချို,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001011,Nam Inn,222033,Shea Par Ko,ရှဲပါကို,,,99.5391521,21.0103767,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,212441,Ah Yaw Day,အယောဒေ,,,99.9238743,21.1397869,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,212443,Ban Kawng,ဗန်ကောင်း,,,99.8899259,21.0999491,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,222104,Bu Hsar,ဘူးဆာ,,,99.8725211,21.0396314,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,222105,Haw Mi To,ဟောမီတို,,,99.9111882,21.0788558,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,212444,Ho Thar Hseng,ဟိုသာဆိုင်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,212451,Hpa Ku (Lower),ဖကူ (အောက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,212450,Hpa Ku (Upper),ဖကူ (ထက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,222106,Hpa Pe,ဖပဲ,,,99.8366864,21.0762136,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,212442,Hpee Pang,ဖီးပန်း,,,99.92767,21.170792,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,212448,Hway Pang,ဟွေပန်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,222101,Kat Ku Day,ကတ်ကုဋေ,,,99.9164707,21.1386587,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,222102,Ke Shwe,ကဲရွှေ,,,99.911362,21.1080246,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,212434,Lo Pauk,လိုပေါက်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,212445,Ma Hin Kya Hsi,မဟင်ကျဆီ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,212438,Maw Chu Hawng,မောချူးဟောင်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,212436,Maw Chu Thit,မောချုးသစ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,212439,Maw Kyan,မော်ကျန်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,212440,Mong Kun,မိုင်းကွန်း,Mong Yun,မိုင်းယွန်း,99.8972092,21.1214104,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,212437,Nam Har,နမ့်ဟာ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,212446,Nam Hkam,နမ့်ခမ်း,,,99.8687739,21.0971104,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,212447,Nam Hsi Pang,နမ့်ဆီပန်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,222103,Nam Ke,နမ့်ကဲ,,,99.9603934,21.1186617,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,212433,Nam Ni,နမ့်နီ,,,99.9409236,21.1016105,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,212449,Oh Lar,အိုလာ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,212435,Shan Htan,ရှမ်ထန်း,,,100.0047539,21.1385581,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,212453,Yang Kyaw (Lower),ယန်းကျော် (အောက်),,,99.88706207,21.0841198,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001025,Nam Ni/Nam Long,212452,Yang Kyaw (Upper),ယန်းကျော် (ထက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001012,Nar Paw,212120,Ah Yaw Da,အယောဒ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001012,Nar Paw,212117,Aik Lum,အိုက်လွမ်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001012,Nar Paw,222040,Har Hpu Mar,ဟာဖူးမား,,,99.5914363,20.9853833,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001012,Nar Paw,212112,Har Ta,ဟားတ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001012,Nar Paw,222039,Loi Kyay (1),လွယ်ကျေး (၁),,,99.600181,20.9571401,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001012,Nar Paw,212119,Man Ni (Upper),မန်နီ (ထက်),,,99.4715195,21.0074997,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001012,Nar Paw,212115,Nam Hsan (1),နမ့်ဆန် (၁),,,99.5940456,20.9900611,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001012,Nar Paw,212116,Nam Hsan (2),နမ့်ဆန် (၂),,,99.5665207,20.9865093,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001012,Nar Paw,222038,Nam Shar,နမ့်ရှား,,,99.5658377,20.9360482,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001012,Nar Paw,212110,Nar Hsi Daw,နားဆိဒေါ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001012,Nar Paw,212113,Nar Lu,နာလူး,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001012,Nar Paw,212114,Nar Par,နာပါး,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001012,Nar Paw,212109,Nar Paw,နားပေါ်,,,99.531189,20.9878101,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001012,Nar Paw,212111,Par Tawng,ပါတောင်း,Bar Kawng,ဘာကောင်း,99.5054588,20.9967829,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001012,Nar Paw,212118,Wan Kat Hlet,ဝမ်ကပ်လျက်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001002,Nawng Kon,221958,Ahr Hkay,အားခေ,,,99.6329059,21.284658,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001002,Nawng Kon,221957,Ho Hko,ဟိုခို,,,99.6250802,21.2842938,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001002,Nawng Kon,211888,Hpway Huong,ဖွေးဟုန်,,,99.632756,21.3096181,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001002,Nawng Kon,211883,Keng Leik (Kaw),ကျိုင်းလိတ် (ကော်),,,99.6233073,21.3048313,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001002,Nawng Kon,211887,Kyeng Leik Wan Hawng,ကျန်းလိတ်ဝမ်ဟောင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001002,Nawng Kon,211886,Kyeng Leik Wan Kan,ကျန်းလိတ်ဝမ်ကန်,,,99.622587,21.3053298,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001002,Nawng Kon,211885,Kyeng Leik Wan Nawt,ကျန်းလိတ်ဝမ်နော့,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001002,Nawng Kon,211884,Kyeng Leik Wan Ping,ကျန်းလိတ်ဝမ်ပိန်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001002,Nawng Kon,211882,Nawng Kon,နောင်ကုန်,,,99.627861,21.2957001,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001002,Nawng Kon,211889,Nawng Peik,နောင်ပိတ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001002,Nawng Kon,211890,Par Len,ပါလင်,,,99.6349987,21.2910063,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001002,Nawng Kon,221959,Thea Hseng,သဲဆိုင်း,,,99.6205344,21.287579,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001002,Nawng Kon,221956,Wan Mai,ဝမ်မိုင်,,,99.6380494,21.3113198,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001002,Nawng Kon,211891,Wan Yang,ဝမ်ယန်း,,,99.6493116,21.2985501,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001010,Nawng Tawng,222031,Bar Khway  (1),ဘာခွေ (၁),,,99.47177424097,21.01058199871,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001010,Nawng Tawng,222032,Bar Khway  (2),ဘာခွေ (၂),,,99.472943,21.007777,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001010,Nawng Tawng,212086,Cheik Tan,ချိတ်တန်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001010,Nawng Tawng,212092,Law Kaw,လော်ကော်,,,99.489769,20.9895001,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001010,Nawng Tawng,212088,Mar Mo To,မာမိုတို,,,99.5490952,20.8924201,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001010,Nawng Tawng,212085,Mi Dee (Lower),မီဒီး (အောက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001010,Nawng Tawng,212084,Mi Dee (Upper),မီဒီး (ထက်),Nar Kaw (Ah Kar),နားကော် (အာခါ),99.4812674,20.9855599,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001010,Nawng Tawng,212091,Mi Kaw,မီကော်,Par Kaw,ပါကော်,99.4898368,20.8985424,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001010,Nawng Tawng,212093,Mong Lu,မိုင်းလု,,,99.455114,20.921296,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001010,Nawng Tawng,212083,Nam Hpwet,နမ့်ဖွဲ့,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001010,Nawng Tawng,212089,Nam Hse Nwet,နမ့်ဆယ်နွှဲ့,Ma He Mon,မဟီးမုန်,99.4814139,20.9541651,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001010,Nawng Tawng,212090,Nar Kaw,နားကော်,Hkar Kyar Day,ခါကြားဒေ,99.4866171,20.9929673,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001010,Nawng Tawng,222028,Nar Leik,နားလိတ်,,,99.498243,20.9572977,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001010,Nawng Tawng,212082,Nawng Tawng,နောင်တောင်း,,,99.49485,20.954874,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001010,Nawng Tawng,222029,Par Sang (1),ပါဆန်း (၁),,,99.5206451,20.9676265,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001010,Nawng Tawng,222030,Par Sang (2),ပါဆန်း (၂),,,99.527816,20.985641,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001010,Nawng Tawng,212087,Pue Kway,ပူကွေ,,,99.4713898,21.0008602,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212025,Hpar Hkaw (1),ဖားခေါ (၁),,,99.5281994,21.232424,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212026,Hpar Hkaw (2),ဖားခေါ (၂),,,99.526949,21.23341,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212027,Hpar Hkaw (3),ဖားခေါ (၃),,,99.526408,21.232846,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212028,Hpar Hkaw (4),ဖားခေါ (၄),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212029,Hpar Hkaw (5),ဖားခေါ (၅),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212030,Hpar Tay Aye,ဖာတေအေ,Mar Tay Day,မားတေဒေ,99.541704,21.225253,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,221998,Htaw Day,ထောဒေ,,,99.492723,21.290369,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212038,Kaw Ahr Ko (1),ကော်အားကို (၁),Law Kar Ko (1),လော်ကားကို (၁),99.5103,21.2474869,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212039,Kaw Ahr Ko (2),ကော်အားကို (၂),,,99.5088425,21.2518997,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212040,Kaw Ahr Ko (3),ကော်အားကို (၃),Law Kar Ko (3),လော်ကားကို (၃),99.5100179,21.2549606,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,221996,Kwi Nam Kaing,ကွီနမ့်ကိုင်,,,99.475052,21.314998,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212041,Law Kyan,လောကျန်း,Moe Mai (Lower),မိုးမိုင်(အောက်),99.532467,21.262285,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212021,Lawt Kaing (Lower),လော့ကိုင်း (အောက်),,,99.5089798,21.27281,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212020,Lawt Kaing (Upper),လော့ကိုင်း (ထက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212033,Loi Kaing,လွယ်ကိုင်း,,,99.50771,21.272099,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,222006,Moe Mai Khwe,မိုးမိုင်ခွဲ,,,99.5394551,21.2654867,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,222003,Nam Aw (Ywar Thit),နမ့်အော် (ရွာသစ်),,,99.548078,21.271471,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,221999,Nam Hsi (1),နမ့်ဆီ (၁),,,99.4104861,21.250215,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,222000,Nam Hsi (2),နမ့်ဆီ (၂),,,99.4050788,21.238492,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,222001,Nam Hsi (4),နမ့်ဆီ (၄),,,99.390561,21.224809,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,222002,Nam Hsi (5),နမ့်ဆီ (၅),,,99.379418,21.235153,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212017,Nam Kaing (Lower),နမ့်ကိုင် (အောက်),,,99.473908,21.306501,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212016,Nam Kaing (Upper),နမ့်ကိုင် (ထက်),,,99.494533,21.298251,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212019,Nam Kway,နမ့်ကွေ,,,99.462986,21.283598,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212035,Nam Kyan,နမ်ကျန်း,Nar Kyan,နာကျန်း,99.531757,21.234136,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212037,Nar Lo,နာလို,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212036,Pang Hai,ပါန်ဟိုင်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212023,Pang Kaing,ပန်ကိုင်း,Pang Hseng,ပန်ဆန်း,99.510215,21.290261,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212022,Pang Kyin,ပန်ကျင်,,,99.491097,21.274052,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212013,Pang Kyu,ပန်ကြူ,,,99.451488,21.292373,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212015,Pang Maik,ပန်မိုက်,,,99.4511719,21.2887497,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,222004,Pang Oo (Ywar Thit),ပန်ဦး (ရွာသစ်),,,99.540983,21.278433,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212018,Pang Yawng,ပန်ရောင်း,,,99.473434,21.280881,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212034,Par Kaw,ပါကော်,,,99.419125,21.207622,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,222005,Ping Yun,ပိန်းယွန်း,,,99.343377,21.218113,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212042,Pu La,ပုလ,Moe Mai (Upper),မိုးမိုင်(ထက်),99.528776,21.26515,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,221997,Ta Dar Hpyu,တံတားဖြူ,,,99.500561,21.288341,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212032,Ton War (Lower),တုံဝါ (အောက်),,,99.4551487,21.20968,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212031,Ton War (Upper),တုံဝါ (ထက်),,,99.4567795,21.2135906,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212014,Wan Mai,ဝမ်မိုင်,,,99.5376663,21.2633705,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001007,Pang Kyu,212024,Win Bo,ဝင်းဘို,,,99.5456044,21.243122,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211967,Ah Chay Hpeik,အချေဖိတ်,,,99.403208,21.375349,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211966,Ah Yaw Day,အယောဒေ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211981,Aw Hke Day,အော်ခဲဒေ,,,99.402129,21.43398,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211961,Ho Pang (Lower),ဟိုပန် (အောက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211960,Ho Pang (Upper),ဟိုပန် (ထက်),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,221981,Hpee Dei,ဖီးဒယ်,,,99.417855,21.394669,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,221978,Htaw Day,ထောဒေ,,,99.416717,21.424705,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211977,Hway Chei,ဟွေချယ်,Hway Ku,ဟွေကု,99.447274,21.444602,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211962,Hway Hi,ဟွေဟီ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211982,Hway Hpan,ဟွေဖန်,,,99.402485,21.3752099,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,221977,Kar Na Kyei,ကာနကျယ်,,,99.410664,21.442635,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211972,Lawng Hkei,လောင်ခယ်,,,99.471597,21.434835,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211984,Maik Pong,မိုက်ပုန်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211987,Mee Bang,မီးဘန်,Day Li,ဒေလီ,99.336983,21.404136,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211973,Nam Htun,နမ့်ထွန်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211963,Nam Law,နမ့်လော,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211978,Nam Nar,နမ့်နား,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,221979,Nam Pu,နမ့်ပူ,,,99.317913,21.402168,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211976,Nar Oke (Lower),နားအုပ် (အောက်),,,99.3738389,21.4378591,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211975,Nar Oke (Upper),နားအုပ် (ထက်),,,99.3752418,21.4382835,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211979,Nawnghkio (1),နောင်ချို (၁),,,99.467783,21.507377,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211980,Nawnghkio (2),နောင်ချို (၂),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211974,Pang Hkeit,ပန်ခဲ့,,,99.472552,21.499512,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211959,Pang Mat,ပန်မတ်,,,99.4150134,21.3982086,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211964,Par Awe,ပါအွယ်,Par Pawt,ပါပေါ့,99.363345,21.430041,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,221980,Par Mu,ပါမူး,,,99.3195264,21.426123,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211965,Par Nyunt,ပါညွန့်,Par Chei,ပါချယ်,99.305313,21.419327,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211983,Si Koke,စီကုပ်,Htu Ku,ထူးကု,99.416438,21.42791,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211968,Tar Hpe,တာဖဲ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211971,Wan Ait Kawng,ဝမ်အစ်ကောင်,Wan Kan (New),ဝမ်ကန် (သစ်),99.383245,21.367497,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211970,Wan Ait Mai,ဝမ်အစ်မိုင်,Wan Kan (Old),ဝမ်ကန် (ဟောင်း),99.390748,21.375598,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211986,Wan Ping,ဝမ်ပိန်း,,,99.4149482,21.3972806,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211985,Wan Pyet,ဝမ်ပျက်,Wan Kyu,ဝမ်ကြူး,99.405285,21.380551,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211988,Wein Hsar,ဝိန်းဆာ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001005,Pang Mat,211969,Win Bo,ဝင်းဘို,,,99.413269,21.3885899,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212295,Bay Tha La,ဗေသလ,,,99.6122971,21.4583111,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,222069,Ho Leik,ဟိုလိတ်,,,99.5470731,21.4289886,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212313,Hpar Min,ဖာမင်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212308,Hway Kwei,ဟွေကွယ်,,,99.5755487,21.5229895,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212309,In Pang Hu,အင်ပန်ဟူ,,,99.5311303,21.5397043,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212294,Jaw Maw,ဂျော်မော,,,99.5481776,21.3914155,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212302,Ma Mawt,မမော့,,,99.6037214,21.4531233,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212310,Mun Hkoke,မွန်ခုတ်,,,99.4672325,21.5071588,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212300,Nam Lin Kawng,နမ့်လင်းကောင်း,Nam Lin Kawng,နမ့်လင်းကောင်,99.5689411,21.4290499,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212301,Nam Lin Mai,နမ့်လင်းမိုင်,,,99.5756123,21.4322814,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,222740,Nar War,နာဝါး,,,99.7487583,21.4815441,Field Sources,2022-10-27 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212288,Nawng Shan,နောင်ရှန်,,,99.5776662,21.4493183,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212297,Nawng Yein,နောင်ယိန်း,,,99.5535522,21.3941802,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212311,Pang Hkar,ပန်ခါး,Loi Hlan,လွယ်လျဲန်း,99.4409458,21.5792468,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212299,Pang Kyauk,ပန်ကျော့,,,99.5789603,21.4278782,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212291,Pang Lay,ပန်လေ,,,99.5739782,21.4434199,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212312,Pang Tawng,ပန်တောင်,,,99.4143018,21.5766788,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212304,Par Hoke Kawng,ပါဟုတ်ကောင်,,,99.5930328,21.4838009,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212303,Par Hoke Mai,ပါဟုတ်မိုင်,,,99.5933304,21.4835491,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212285,Pin Tauk,ပင်းတောက်,,,99.5926659,21.4316194,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212290,Tin Htat,တင်ထပ်,,,99.505027,21.5029507,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212305,Wan Hkar,ဝမ်ခါး,,,99.5039219,21.5330878,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212298,Wan Ku Hawng,ဝမ်ကူဟောင်း,,,99.563797,21.4169634,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212296,Wan Ku Thit,ဝမ်ကူသစ်,,,99.5688851,21.4188112,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212292,Wan Lar,ဝမ်လာ,,,99.5710716,21.4326193,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212293,Wan Li,ဝမ်လီ,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212289,Wan Nawng,ဝမ်နောင်,,,99.5201708,21.5018626,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212306,Wan Non Thit,ဝမ်နွန်သစ်,,,99.6295753,21.4616067,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212286,Wan Pin (1),ဝမ်းပင်း (၁),,,99.5825219,21.4391792,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212287,Wan Pin (2),ဝမ်းပင် (၂),Wan Pin (2),ဝမ်ပင်း (၂),99.5862127,21.4390095,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001020,Pin Tauk,212307,Wan Tar Pong,ဝမ်တာပုံ,,,99.5733719,21.5250206,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001031,Tar Lay,212584,Ahr Hkay,အားခေ,,,99.8736857,21.3594994,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001031,Tar Lay,212581,Lai Kan,လိုင်းကန်,Lai Kan,လိုင်ကမ်,99.856755,21.38727,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001031,Tar Lay,212582,Lai Long,လိုင်းလုံ,,,99.8767419,21.3542023,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001031,Tar Lay,212585,Mu Hsay,မူဆေး,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001031,Tar Lay,212583,Nam Hko,နမ့်ခို,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001031,Tar Lay,212586,Nam Lin,နမ့်လင်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001031,Tar Lay,212578,Tar Lay,တာလေ,,,99.857169,21.39093,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001031,Tar Lay,212580,Tar Long,တာလုံး,,,99.80387,21.433407,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001031,Tar Lay,212579,Wan Mun,ဝမ်မွန်,Wan Pong,ဝမ်ပုံ,99.840842,21.403433,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001019,Wut Hsawng,212270,Hsee Hpone,ဆီးဖုန်း,,,99.5810869,21.3662562,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001019,Wut Hsawng,212269,Kone Nwet,ကုန်းနွဲ့,Wut Kan Nwet,ဝပ်ကန်နွဲ့,99.5727624,21.3703802,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001019,Wut Hsawng,222067,Mong Mawt,မိုင်မော့,,,99.5838824,21.3560237,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001019,Wut Hsawng,212278,Nawng Tawng,နောင်တောင်း,,,99.5783849,21.352727,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001019,Wut Hsawng,212273,Wan Awng,ဝမ်အောင်,Wan Yawng,ဝမ်ယောင်,99.5705428,21.385017,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001019,Wut Hsawng,212271,Wan Hing (1),ဝမ်ဟိန် (၁),Wan Hing,ဝမ်ဟိမ်,99.5759354,21.3653795,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001019,Wut Hsawng,212274,Wan Hing (2),ဝမ်ဟိန် (၂),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001019,Wut Hsawng,212277,Wan Hkaing,ဝမ်ခိုင်,,,99.5782906046107,21.3960692253303,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001019,Wut Hsawng,212275,Wan Hsawng,ဝမ်ဆောင်,Wut Kawnt,ဝပ်ကောင့်,99.5765024,21.3743234,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001019,Wut Hsawng,212283,Wan Hseng,ဝမ်ဆိုင်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001019,Wut Hsawng,212280,Wan Kar,ဝမ်ကာ,,,99.5795539250099,21.3947156535076,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001019,Wut Hsawng,212281,Wan Kyan,ဝမ်ကျန်း,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001019,Wut Hsawng,212284,Wan Nawng,ဝမ်နောင်,,,99.5873871,21.3994293,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001019,Wut Hsawng,212282,Wan Pang,ဝမ်ပန်း,Wan Pant,ဝမ်ပန့်,99.5735401,21.4040886,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001019,Wut Hsawng,212272,Wan Pong,ဝမ်ပုံ,,,99.5803412,21.3748332,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001019,Wut Hsawng,222068,Wan Tan,ဝမ်တဲန်,,,99.5769962,21.3855665,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001019,Wut Hsawng,212276,Wan Ti Mi,ဝမ်တီမီ,Wan Teint,ဝမ်တိမ့်,99.5781265,21.3600208,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001019,Wut Hsawng,212268,Wut Hsawng,ဝပ်ဆောင်း,,,99.5796202,21.3704612,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001019,Wut Hsawng,212279,Yang Long,ယန်းလုံ,,,99.5882993,21.34298,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,212416,Hsut Ywe,ဆွတ်ယွဲ,,,99.7801971,21.0549603,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,212425,Hway Hpat,ဟွေဖတ်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,222099,Hway Kut (Lower),ဟွေကွတ် (အောက်),,,99.7613823,21.0468849,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,222100,Hway Kut (Upper),ဟွေကွတ် (ထက်),,,99.7644714,21.0600676,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,212426,Hway Lan,ဟွေလန်း,,,99.8240955,21.0825062,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,212427,Hway Lun,ဟွေလွန်း,,,99.8055062,21.0749206,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,212423,Hway Na Gar,ဟွေနဂါး,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,212428,Kyeik Hkawng (Lower),ကြိတ်ခေါင် (အောက်),,,99.8030319,21.1021004,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,212429,Kyeik Hkawng (Middle),ကြိတ်ခေါင် (လယ်),,,99.7905062,21.1237434,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,212430,Kyeik Hkawng (Upper),ကြိတ်ခေါင် (ထက်),,,99.7818211,21.1098273,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,212414,Ma Si Kan,မစီကန်,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,212431,Mong Ywea (Kaw),မိုင်းရွဲ (ကော်),,,99.7466507,21.1042881,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,212432,Mong Ywea (Shan),မိုင်းရွဲ (ရှမ်း ),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,212424,Nawng Hsar,နောင်ဆာ,,,99.8058575,21.1102304,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,222096,Nawng Hsar (Kachin),နောင်ဆာ (ကချင်),,,99.8068935,21.1067073,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,222097,Nawng Hsar (Upper),နောင်ဆာ (ထက်),,,99.8258942,21.1121621,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,212415,Nawng Yang,နောင်ယန်း,,,99.7415917,21.0528987,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,212417,Pang Ku Lar,ပန်ကုလား,,,99.7724593,21.0966891,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,212418,Pang Lawng (1),ပန်လောင်း (၁),Pang Tawng (1),ပန်တောင်း (၁),99.7881531,21.0226918,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,212419,Pang Lawng (2),ပန်လောင်း (၂),Pang Tawng (2),ပန်တောင်း (၂),99.803404,21.0141731,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,222095,Pang Lawng (28 Maing),ပန်လောင်း (၂၈ မိုင်),,,99.7867513,21.0303428,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,212420,Pang Lawng (3),ပန်လောင်း (၃),Pang Tawng (3),ပန်တောင်း (၃),99.8112562,21.0084481,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,212421,Pat Chet,ပတ်ချက်,Mar Hket,မာခက်,99.7568893,21.0216541,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,212422,Tawe Lawt,တွေလော့,,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,222098,Wan Hsan,ဝမ်ဆန်,,,99.794767,21.0893766,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001024,Yang Hka,212413,Yang Hka,ယန်းခ,,,99.7932944,21.0816285,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001021,Yang Kying,212318,Nawng Ngit,နောင်ငစ်,,,99.6347275,21.3910275,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001021,Yang Kying,212317,Nawng Pang,နောင်ပန်း,,,99.6499786,21.3887005,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001021,Yang Kying,212315,Nawng Tin,နောင်တင်,Nawng Tan,နောင်တဲန်,99.6330821,21.3811516,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001021,Yang Kying,212327,Pang Kyawng,ပန်ကျောင်း,,,99.6235423,21.3822701,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001021,Yang Kying,212326,Tar Khwei,တာခွယ်,,,99.6208106,21.3898463,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001021,Yang Kying,212323,Tawng Hway,တောင်းဟွေး,Tawng Hwayt,တောင်းဟွေ့,99.6256818,21.4052351,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001021,Yang Kying,212321,Tawng Nam,တောင်းနမ့်,,,99.6203746,21.4068776,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001021,Yang Kying,212324,Tin Htat,တင်ထပ်,,,99.6244111,21.3962372,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001021,Yang Kying,212320,Wan Hsar,ဝမ်ဆာ,,,99.643837,21.4019909,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001021,Yang Kying,212316,Wan Hway,ဝမ်ဟွေ,,,99.6443024,21.3738995,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001021,Yang Kying,212319,Wan Kyum,ဝမ်ကျွမ်,,,99.6416183,21.3947023,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001021,Yang Kying,212328,Wan Pang Nam,ဝမ်ပန်းနမ့်,Wan Pang Nam,ဝမ်ပန်နမ့်,99.6207628,21.3793295,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001021,Yang Kying,212322,Wan Pauk,ဝမ်ပေါက်,,,99.6251767,21.4217091,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001021,Yang Kying,212325,Yang Kauk,ယန်းကောက်,Yang Hauk,ယန်းဟောက်,99.6178694,21.3802431,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001021,Yang Kying,212329,Yang Kone,ယန်းကုန့်,,,99.6257477,21.3737888,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001021,Yang Kying,212314,Yang Kying,ယန်းကျိန်,,,99.6316727,21.3854708,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001001,Yang Law,211879,Ho Hko,ဟိုခို,,,99.592685,21.307512,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001001,Yang Law,211872,Hsun Naw Hkam,ဆွန်နော်ခမ်း,,,99.58103,21.285277,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001001,Yang Law,221955,Hway Hpyan (Lower),ဟွေဖြန်း (အောက်),,,99.582818,21.269198,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001001,Yang Law,221954,Hway Hpyan (Upper),ဟွေဖြန်း (ပေါ်),,,99.584065,21.263361,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001001,Yang Law,221950,Kyant Hsat,ကျန့်ဆတ်,,,99.572944,21.297041,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001001,Yang Law,211877,Maik Hsa Li Kon,မိုက်ဆလီကုန်,,,99.598352,21.311731,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001001,Yang Law,211875,Maik Hsa Li Nan Pat,မိုက်ဆလီနံပါတ်,,,99.5984634,21.3196368,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001001,Yang Law,211878,Maik Nyaung Sum,မိုက်ညောင်ဆွမ်,Lawnt Hpan,လောင့်ဖန်,99.580993,21.307509,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001001,Yang Law,221951,Nam Waw Kyant,နမ့်ဝေါ်ကျန့်,,,99.597984,21.333456,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001001,Yang Law,211881,Tan Hlyet (Lower),တန်လျက် (အောက်),,,99.589405,21.301651,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001001,Yang Law,211880,Tan Hlyet (Upper),တန်လျက် (ထက်),,,99.584514,21.301711,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001001,Yang Law,221952,Wan Hway,ဝမ်ဟွေ,,,99.586183,21.286205,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001001,Yang Law,211876,Wan Nar,ဝမ်နား,,,99.596121,21.315677,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001001,Yang Law,211870,Wan Nar Hkan,ဝမ်နားခန်း,,,99.576564,21.287996,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001001,Yang Law,211874,Wan Nawng Htat (Nay),ဝမ်နောင်ထပ် (နေ),,,,,GAD,,,,,Active,Inactive,Active,,,"The village does not exist on the ground, confirmed by GAD Township Office"
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001001,Yang Law,211873,Wan Nawng Htat (Taing),ဝမ်နောင်ထပ် (တိုင်),,,99.587187,21.282098,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001001,Yang Law,211871,Waw Hkoke,ဝေါ်ခုတ်,,,99.584503,21.28675,GAD,,,,,Active,N/A,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001001,Yang Law,221953,Waw Hkoke Kwet Thit,ဝေါ်ခုတ်ကွက်သစ်,,,99.581595,21.289165,Field Sources,2019-10-31 00:00:00,,,,N/A,Active,Active,,,
+MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001001,Yang Law,211869,Yang Law,ယန်းလော,,,99.585718,21.306458,GAD,,,,,Active,N/A,Active,,,
