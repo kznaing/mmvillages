@@ -3,289 +3,185 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#0f2a52">
-<title>Myanmar P-Code Atlas</title>
+<meta name="theme-color" content="#1976d2">
+<title>Villages in Myanmar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 <style>
   :root {
-    --bg: #f6f7f9;
-    --panel: #ffffff;
-    --panel-2: #fbfcfd;
-    --border: #e5e8ee;
-    --border-strong: #d3d9e2;
-    --text: #1a2231;
-    --muted: #68758a;
-    --faint: #99a3b3;
-    --ink: #0f2a52;          /* deep slate-navy */
-    --accent: #245e9e;       /* muted steel blue */
-    --accent-hover: #1c4c83;
-    --accent-wash: #eef3f9;
-    --focus: rgba(36, 94, 158, .16);
-
-    --pad: 16px;
-    --radius: 8px;
-    --radius-sm: 6px;
-    --header-h: 60px;
-    --tap: 44px;
-    --font: "Inter", "Segoe UI", "Noto Sans Myanmar", "Myanmar Text", system-ui, -apple-system, sans-serif;
-    --font-mmr: "Noto Sans Myanmar", "Myanmar Text", sans-serif;
-    --shadow-sm: 0 1px 2px rgba(16, 24, 40, .05);
-    --shadow-md: 0 6px 16px -6px rgba(16, 24, 40, .16);
+    --primary: #1976d2;
+    --primary-dark: #1565c0;
+    --success: #4caf50;
+    --text: #212121;
+    --text-secondary: rgba(0, 0, 0, .6);
+    --divider: rgba(0, 0, 0, .12);
+    --bg: #ffffff;
+    --bar-h: 68px;
+    --font: "Roboto", "Noto Sans Myanmar", "Myanmar Text", system-ui, -apple-system, "Segoe UI", sans-serif;
+    --mmr: "Noto Sans Myanmar", "Myanmar Text", "Roboto", sans-serif;
   }
   * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
   html { -webkit-text-size-adjust: 100%; }
   body {
     margin: 0;
     font-family: var(--font);
-    background: var(--bg);
+    font-size: 16px;
+    line-height: 1.6;
     color: var(--text);
-    font-size: 15px;
-    line-height: 1.5;
+    background: #fafafa;
     -webkit-font-smoothing: antialiased;
-    text-rendering: optimizeLegibility;
     overscroll-behavior-y: none;
   }
+  .mdi { font-size: 20px; line-height: 1; }
+  .mmr { font-family: var(--mmr); }
 
-  /* ---------- top bar ---------- */
-  header {
-    position: sticky; top: 0; z-index: 20;
-    background: var(--panel);
-    border-bottom: 1px solid var(--border);
-    box-shadow: var(--shadow-sm);
+  /* ---------- app bar ---------- */
+  .app-bar {
+    position: fixed; top: 0; left: 0; right: 0; z-index: 30;
+    height: var(--bar-h);
+    display: flex; align-items: center; gap: 4px;
+    padding: 0 8px;
+    background: var(--primary); color: #fff;
+    box-shadow: 0 2px 4px -1px rgba(0,0,0,.2), 0 4px 5px 0 rgba(0,0,0,.14), 0 1px 10px 0 rgba(0,0,0,.12);
   }
-  .banner {
-    display: flex; align-items: center; gap: 12px;
-    max-width: 1100px; margin: 0 auto;
-    padding: 12px var(--pad);
-  }
-  .mark {
-    flex: 0 0 auto; width: 34px; height: 34px; border-radius: 8px;
-    background: var(--ink); color: #fff;
-    display: grid; place-items: center;
-    font-weight: 700; font-size: 15px; letter-spacing: .02em;
-    box-shadow: inset 0 0 0 1px rgba(255,255,255,.08);
-  }
-  .titles { min-width: 0; }
-  .titles h1 {
-    margin: 0; font-size: 15px; font-weight: 650; letter-spacing: -.01em;
-    color: var(--ink); white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
-  }
-  .titles p {
-    margin: 1px 0 0; font-size: 12px; color: var(--muted);
+  .app-bar .bar-title {
+    flex: 1 1 auto; min-width: 0;
+    font-size: 22px; font-weight: 500; letter-spacing: .0125em;
     white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    padding-left: 4px;
   }
-  .titles .sep { color: var(--faint); margin: 0 5px; }
+  .icon-btn {
+    flex: 0 0 auto; width: 44px; height: 44px;
+    display: grid; place-items: center;
+    background: none; border: none; color: inherit; cursor: pointer;
+    border-radius: 50%; font-size: 22px;
+    transition: background .15s;
+  }
+  .icon-btn:hover { background: rgba(255,255,255,.16); }
+  .icon-btn .mdi { font-size: 24px; }
 
-  main { max-width: 1100px; margin: 0 auto; padding: var(--pad) var(--pad) 80px; }
-
-  /* ---------- breadcrumbs ---------- */
-  .crumbs {
-    display: flex; flex-wrap: wrap; align-items: center; gap: 4px 2px;
-    margin-bottom: 14px; font-size: 13.5px;
-    position: sticky; top: var(--header-h); z-index: 15;
-    background: var(--bg); padding: 10px 0 8px;
+  /* search field inside bar */
+  .search {
+    flex: 1 1 auto; min-width: 0;
+    display: flex; align-items: center; gap: 6px;
+    height: 40px; margin: 0 4px 0 2px; padding: 0 6px 0 14px;
+    background: #fff; border-radius: 999px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.2);
   }
-  .crumbs button {
-    background: none; border: none; color: var(--accent);
-    cursor: pointer; padding: 3px 4px; font: inherit; font-weight: 500;
-    border-radius: 4px;
-  }
-  .crumbs button:hover { color: var(--accent-hover); text-decoration: underline; text-underline-offset: 2px; }
-  .crumbs .sep { color: var(--faint); margin: 0 2px; font-size: 12px; }
-  .crumbs .here { color: var(--text); font-weight: 600; padding: 3px 4px; }
-
-  /* ---------- toolbar ---------- */
-  .toolbar {
-    display: flex; flex-direction: column; gap: 10px;
-    margin-bottom: 16px;
-    position: sticky; top: calc(var(--header-h) + 38px); z-index: 14;
-    background: var(--bg); padding: 4px 0 10px;
-  }
-  .search-wrap { position: relative; flex: 1 1 auto; }
-  .search-wrap svg {
-    position: absolute; left: 12px; top: 50%; transform: translateY(-50%);
-    width: 16px; height: 16px; color: var(--faint); pointer-events: none;
-  }
-  .toolbar input[type="search"] {
-    width: 100%; min-height: var(--tap); padding: 11px 14px 11px 36px;
-    border: 1px solid var(--border-strong); border-radius: var(--radius);
-    font: inherit; font-size: 16px;
-    background: var(--panel); color: var(--text);
-    box-shadow: var(--shadow-sm);
+  .search input {
+    flex: 1 1 auto; min-width: 0; border: none; outline: none;
+    background: none; font: inherit; font-size: 16px; color: var(--text);
     -webkit-appearance: none; appearance: none;
-    transition: border-color .14s, box-shadow .14s;
   }
-  .toolbar input[type="search"]::placeholder { color: var(--faint); }
-  .toolbar input[type="search"]:focus {
-    outline: none; border-color: var(--accent);
-    box-shadow: 0 0 0 3px var(--focus);
+  .search input::placeholder { color: var(--text-secondary); }
+  .search .clear {
+    flex: 0 0 auto; width: 32px; height: 32px; border: none; background: none;
+    color: var(--text-secondary); cursor: pointer; border-radius: 50%;
+    display: grid; place-items: center;
   }
-  .badge {
-    align-self: flex-start; flex: 0 0 auto;
-    color: var(--muted); font-variant-numeric: tabular-nums;
-    font-size: 12.5px; font-weight: 600;
-    padding: 6px 12px; border: 1px solid var(--border-strong);
-    border-radius: 999px; background: var(--panel-2);
-    white-space: nowrap;
+  .search .clear:hover { background: rgba(0,0,0,.06); }
+
+  /* ---------- main ---------- */
+  main {
+    max-width: 640px; margin: 0 auto;
+    padding-top: var(--bar-h); min-height: 100vh;
+    background: var(--bg);
+    box-shadow: 0 0 0 1px rgba(0,0,0,.04);
+  }
+  @media (min-width: 660px) {
+    body { background: #eeeeee; }
+    main { margin-top: 0; min-height: 100vh; }
   }
 
-  /* ---------- card grid ---------- */
-  .grid { display: grid; grid-template-columns: 1fr; gap: 8px; }
-  .card {
-    position: relative;
-    background: var(--panel); border: 1px solid var(--border-strong);
-    border-radius: var(--radius);
-    padding: 14px 16px 14px 18px; cursor: pointer; text-align: left;
-    font: inherit; color: inherit; width: 100%;
-    display: flex; flex-direction: column; gap: 2px;
-    box-shadow: var(--shadow-sm);
-    transition: border-color .14s, box-shadow .14s, transform .14s;
+  /* ---------- list rows ---------- */
+  .row {
+    padding: 10px 16px; border-bottom: 1px solid var(--divider);
+    cursor: pointer; background: #fff;
+    transition: background .12s;
+    display: block; width: 100%; text-align: left;
+    font: inherit; color: inherit; border-left: none; border-right: none; border-top: none;
   }
-  .card::before {
-    content: ""; position: absolute; left: 0; top: 12px; bottom: 12px;
-    width: 3px; border-radius: 0 3px 3px 0; background: var(--border-strong);
-    transition: background .14s;
-  }
-  .card:hover { border-color: var(--accent); box-shadow: var(--shadow-md); transform: translateY(-1px); }
-  .card:hover::before { background: var(--accent); }
-  .card:active { transform: translateY(0); box-shadow: var(--shadow-sm); }
-  .card .title { font-weight: 600; font-size: 15px; color: var(--text); letter-spacing: -.005em; }
-  .card .mmr { font-family: var(--font-mmr); font-size: 13px; color: var(--muted); }
-  .card .meta {
-    font-size: 12px; color: var(--muted); margin-top: 3px;
-    display: flex; align-items: center; gap: 6px;
-    font-variant-numeric: tabular-nums;
-  }
-  .card .meta .code { color: var(--faint); letter-spacing: .01em; }
-  .card .meta .dot { width: 3px; height: 3px; border-radius: 50%; background: var(--border-strong); flex: 0 0 auto; }
+  .row:hover { background: rgba(0,0,0,.03); }
+  .row:active { background: rgba(0,0,0,.06); }
+  .row .title { font-size: 17px; color: var(--text); }
+  .row .sub { font-family: var(--mmr); font-size: 17px; color: var(--text-secondary); }
+  .row .code { font-size: 85%; color: gray; margin-top: 2px; }
 
-  /* ---------- table: mobile stacked ---------- */
-  table { width: 100%; border-collapse: collapse; }
-  thead { display: none; }
-  tbody tr {
-    display: flex; flex-direction: column;
-    position: relative;
-    background: var(--panel); border: 1px solid var(--border-strong);
-    border-radius: var(--radius);
-    padding: 14px 16px 14px 18px; margin-bottom: 8px;
-    box-shadow: var(--shadow-sm);
-    transition: border-color .14s, box-shadow .14s;
+  .village-row {
+    display: flex; flex-direction: row; align-items: center; gap: 8px;
   }
-  tbody tr::before {
-    content: ""; position: absolute; left: 0; top: 12px; bottom: 12px;
-    width: 3px; border-radius: 0 3px 3px 0; background: var(--border-strong);
-  }
-  tbody tr:hover { border-color: var(--accent); box-shadow: var(--shadow-md); }
-  tbody tr:hover::before { background: var(--accent); }
-  tbody td { display: block; padding: 0; border: none; font-size: 14px; text-align: left; }
-  td[data-label="P-Code"] { display: none; }
-  td[data-label="Name (Eng)"] {
-    order: 1; font-weight: 600; font-size: 15.5px; color: var(--text); letter-spacing: -.005em;
-    display: flex; align-items: baseline; flex-wrap: wrap; gap: 7px;
-  }
-  td[data-label="Name (Eng)"] .pcode {
-    font-weight: 500; font-size: 11.5px; color: var(--muted);
-    background: var(--accent-wash); border: 1px solid var(--border);
-    padding: 1px 7px; border-radius: 5px; letter-spacing: .02em;
-    font-variant-numeric: tabular-nums;
-  }
-  td[data-label="Name (MMR)"] { order: 2; color: var(--muted); margin-top: 3px; font-size: 13.5px; }
-  td[data-label="Village Tract"] {
-    order: 3; color: var(--muted); font-size: 12.5px; margin-top: 7px;
-    display: flex; align-items: center; gap: 6px;
-  }
-  td[data-label="Village Tract"]::before {
-    content: ""; width: 5px; height: 5px; border-radius: 50%;
-    background: var(--faint); flex: 0 0 auto;
-  }
-  td[data-label="Longitude"], td[data-label="Latitude"] { display: none; }
-  td[data-label="Map"] { order: 4; margin-top: 11px; }
+  .village-row .info { min-width: 0; flex: 1 1 auto; }
 
-  .num { font-variant-numeric: tabular-nums; color: var(--muted); }
-  a.map {
-    display: inline-flex; align-items: center; gap: 6px;
-    color: var(--accent); text-decoration: none; font-weight: 600; font-size: 13px;
-    padding: 7px 13px; border: 1px solid var(--border-strong); border-radius: var(--radius-sm);
-    background: var(--panel-2); white-space: nowrap;
-    transition: background .14s, border-color .14s, color .14s;
+  /* ---------- FAB ---------- */
+  .fab {
+    flex: 0 0 auto; width: 40px; height: 40px; border-radius: 50%;
+    border: none; cursor: pointer;
+    background: var(--success); color: #fff;
+    display: grid; place-items: center;
+    box-shadow: 0 3px 5px -1px rgba(0,0,0,.2), 0 6px 10px 0 rgba(0,0,0,.14), 0 1px 18px 0 rgba(0,0,0,.12);
+    transition: background .15s, box-shadow .15s;
   }
-  a.map svg { width: 14px; height: 14px; }
-  a.map:hover { background: var(--accent); border-color: var(--accent); color: #fff; }
-  .dash { color: var(--faint); }
-  .mmr { font-family: var(--font-mmr); }
+  .fab:hover { background: #43a047; }
+  .fab .mdi { font-size: 22px; }
 
-  .empty, .status {
-    padding: 32px 20px; text-align: center; color: var(--muted);
-    background: var(--panel); border: 1px solid var(--border-strong);
-    border-radius: var(--radius); box-shadow: var(--shadow-sm); font-size: 14px;
+  /* ---------- states ---------- */
+  .center-box {
+    display: flex; align-items: center; justify-content: center;
+    min-height: 60vh; padding: 24px; text-align: center;
+    color: var(--text-secondary);
   }
-  .empty code { background: var(--panel-2); border: 1px solid var(--border); padding: 1px 5px; border-radius: 4px; font-size: 12.5px; color: var(--text); }
-  .status { color: var(--muted); }
-
-  /* ---------- tablet / desktop ---------- */
-  @media (min-width: 560px) {
-    :root { --pad: 24px; }
-    .banner { padding: 14px var(--pad); }
-    .titles h1 { font-size: 16px; }
-    .grid { grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 10px; }
-    .toolbar { flex-direction: row; align-items: center; gap: 12px; }
-    .badge { align-self: center; }
+  .spinner {
+    width: 44px; height: 44px; border-radius: 50%;
+    border: 4px solid rgba(25,118,210,.2); border-top-color: var(--primary);
+    animation: spin .9s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .empty code {
+    background: #f5f5f5; border: 1px solid var(--divider);
+    padding: 1px 5px; border-radius: 4px; font-size: 12.5px; color: var(--text);
   }
 
-  @media (min-width: 720px) {
-    thead { display: table-header-group; }
-    table {
-      border: 1px solid var(--border-strong); border-radius: var(--radius);
-      overflow: hidden; background: var(--panel); box-shadow: var(--shadow-sm);
-    }
-    tbody tr {
-      display: table-row; position: static;
-      border: none; border-radius: 0; padding: 0; margin: 0; box-shadow: none;
-    }
-    tbody tr::before { content: none; }
-    tbody tr:hover { box-shadow: none; }
-    tbody td { display: table-cell; padding: 10px 14px; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; }
-    tbody td[data-label="P-Code"] { display: table-cell; }
-    tbody td[data-label="Longitude"], tbody td[data-label="Latitude"] { display: table-cell; }
-    tbody td[data-label="Name (Eng)"] { display: table-cell; font-size: 13.5px; font-weight: 500; }
-    tbody td[data-label="Name (Eng)"] .pcode { display: none; }
-    tbody td[data-label="Name (MMR)"] { margin: 0; font-size: 13.5px; }
-    tbody td[data-label="Village Tract"] { display: table-cell; margin: 0; flex-wrap: initial; }
-    tbody td[data-label="Village Tract"]::before { content: none; }
-    tbody td[data-label="Map"] { margin: 0; }
-    a.map { border: none; background: none; padding: 2px 0; }
-    a.map:hover { background: none; color: var(--accent-hover); text-decoration: underline; text-underline-offset: 2px; }
-    th {
-      background: var(--panel-2); color: var(--muted);
-      font-weight: 600; font-size: 11.5px; letter-spacing: .05em; text-transform: uppercase;
-      text-align: left; padding: 11px 14px;
-      border-bottom: 1px solid var(--border-strong);
-    }
-    tbody tr:nth-child(even) td { background: var(--panel-2); }
-    tbody tr:hover td { background: var(--accent-wash); }
-    tbody tr:last-child td { border-bottom: none; }
+  /* ---------- drawer ---------- */
+  .overlay {
+    position: fixed; inset: 0; z-index: 40;
+    background: rgba(0,0,0,.5); opacity: 0; pointer-events: none;
+    transition: opacity .25s;
   }
+  .overlay.open { opacity: 1; pointer-events: auto; }
+  .drawer {
+    position: fixed; top: 0; bottom: 0; left: 0; z-index: 50;
+    width: 256px; max-width: 80vw;
+    background: #fff; box-shadow: 2px 0 8px rgba(0,0,0,.2);
+    transform: translateX(-100%); transition: transform .25s;
+    padding-top: 8px;
+  }
+  .drawer.open { transform: translateX(0); }
+  .drawer .nav-item {
+    display: flex; align-items: center; gap: 28px;
+    padding: 14px 20px; cursor: pointer; font-size: 16px;
+    color: rgba(0,0,0,.87);
+  }
+  .drawer .nav-item:hover { background: rgba(0,0,0,.04); }
+  .drawer .nav-item .mdi { font-size: 22px; color: var(--text-secondary); }
 </style>
 </head>
 <body>
-<header>
-  <div class="banner">
-    <div class="mark" aria-hidden="true">MM</div>
-    <div class="titles">
-      <h1>Myanmar P-Code Atlas</h1>
-      <p>MIMU Place Codes <span class="sep">·</span> Release 9.7 (Jan 2026) <span class="sep">·</span> States/Regions → Townships → Villages</p>
-    </div>
+
+<div class="overlay" id="overlay" onclick="closeDrawer()"></div>
+<nav class="drawer" id="drawer" aria-label="Navigation">
+  <div class="nav-item" onclick="showAbout()">
+    <span class="mdi mdi-information-outline" aria-hidden="true"></span>
+    <span>About</span>
   </div>
-</header>
-<main>
-  <nav class="crumbs" id="crumbs" aria-label="Breadcrumb"></nav>
-  <div class="toolbar" id="toolbar" hidden>
-    <div class="search-wrap">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-      <input type="search" id="filter" placeholder="Filter by name or P-code…" autocomplete="off" aria-label="Filter">
-    </div>
-    <span class="badge" id="countBadge"></span>
-  </div>
-  <div id="view" class="grid"><div class="status">Loading manifest…</div></div>
+</nav>
+
+<header class="app-bar" id="appBar"></header>
+<main id="view">
+  <div class="center-box"><div class="spinner" aria-label="Loading"></div></div>
 </main>
 
 <script>
@@ -294,15 +190,20 @@ const state = { manifest: null, sr: null, township: null, filter: "" };
 
 const $ = (id) => document.getElementById(id);
 
-function fmt(n) { return n.toLocaleString("en-US"); }
+function fmt(n) { return (n || 0).toLocaleString("en-US"); }
+
+function isIOS() {
+  return /iPhone|iPad|iPod/.test(navigator.platform || "");
+}
 
 function mapLink(lng, lat, name) {
   if (lng === "" || lat === "" || lng == null || lat == null) return null;
   const lngn = Number(lng), latn = Number(lat);
   if (!isFinite(lngn) || !isFinite(latn)) return null;
   const q = `${latn},${lngn}`;
-  const label = encodeURIComponent(name || q);
-  return `https://www.google.com/maps/search/?api=1&query=${q}`;
+  return isIOS()
+    ? `https://maps.apple.com/maps?q=${q}`
+    : `https://maps.google.com/?q=${q}`;
 }
 
 function parseCSV(text) {
@@ -346,187 +247,194 @@ async function fetchCSV(path) {
   return csvToObjects(await res.text());
 }
 
-function renderCrumbs() {
-  const c = $("crumbs");
-  c.innerHTML = "";
-  const mk = (label, handler, here) => {
-    if (here) {
-      const s = document.createElement("span");
-      s.className = "here"; s.textContent = label; c.appendChild(s);
-      return;
-    }
-    const b = document.createElement("button");
-    b.textContent = label;
-    b.onclick = handler;
-    c.appendChild(b);
-  };
-  mk("States / Regions", goRoot, !state.sr);
-  if (state.sr) {
-    c.appendChild(sep());
-    const srName = state.sr.name_eng || state.sr.pcode;
-    mk(srName, () => goSR(state.sr, srName), !state.township);
-  }
-  if (state.township) {
-    c.appendChild(sep());
-    const tName = state.township.name_eng || state.township.pcode;
-    mk(tName, () => goTownship(state.township, tName), true);
-  }
-}
-function sep() { const s = document.createElement("span"); s.className = "sep"; s.textContent = "›"; return s; }
-
-function setToolbar(show, placeholder) {
-  const tb = $("toolbar");
-  tb.hidden = !show;
-  if (show) {
-    $("filter").placeholder = placeholder || "Filter by name or P-code…";
-  }
-}
-
-async function goRoot() {
-  state.sr = null; state.township = null; state.filter = "";
-  renderCrumbs();
-  const view = $("view");
-  view.className = "grid";
-  const srs = state.manifest.states_regions;
-  setToolbar(true, "Filter states / regions…");
-  $("countBadge").textContent = `${srs.length} states / regions`;
-  $("filter").value = "";
-
-  const draw = (term) => {
-    const t = term.trim().toLowerCase();
-    const list = srs.filter((s) =>
-      !t || s.name_eng.toLowerCase().includes(t) || s.pcode.toLowerCase().includes(t) || (s.name_mmr || "").includes(term.trim()));
-    view.innerHTML = "";
-    if (!list.length) { view.innerHTML = `<div class="empty">No matches.</div>`; return; }
-    list.forEach((s) => {
-      const b = document.createElement("button");
-      b.className = "card";
-      b.innerHTML = `<span class="title">${esc(s.name_eng)}</span>
-        <span class="mmr">${esc(s.name_mmr || "")}</span>
-        <span class="meta"><span class="code">${esc(s.pcode)}</span><span class="dot"></span>${fmt(s.township_count)} townships</span>`;
-      b.onclick = () => goSR(s, s.name_eng);
-      view.appendChild(b);
-    });
-  };
-  $("filter").oninput = (e) => draw(e.target.value);
-  draw("");
-}
-
-async function goSR(sr, srName) {
-  state.sr = sr; state.township = null; state.filter = "";
-  renderCrumbs();
-  const view = $("view");
-  view.className = "grid";
-  setToolbar(true, "Filter townships…");
-  $("filter").value = "";
-  view.innerHTML = `<div class="status">Loading townships…</div>`;
-  let townships;
-  try {
-    townships = await fetchCSV(`02_townships/${sr.townships_file}`);
-  } catch (e) {
-    view.innerHTML = `<div class="empty">Failed to load townships: ${esc(e.message)}</div>`;
-    return;
-  }
-  const countByCode = Object.fromEntries(state.manifest.townships.map((t) => [t.pcode, t.village_count]));
-  $("countBadge").textContent = `${townships.length} townships`;
-
-  const draw = (term) => {
-    const t = term.trim().toLowerCase();
-    const list = townships.filter((r) =>
-      !t || (r["Township_Name_Eng"] || "").toLowerCase().includes(t) ||
-      (r["Tsp_Pcode"] || "").toLowerCase().includes(t) || (r["Township_Name_MMR"] || "").includes(term.trim()));
-    view.innerHTML = "";
-    if (!list.length) { view.innerHTML = `<div class="empty">No townships match.</div>`; return; }
-    list.forEach((r) => {
-      const code = r["Tsp_Pcode"];
-      const b = document.createElement("button");
-      b.className = "card";
-      b.innerHTML = `<span class="title">${esc(r["Township_Name_Eng"] || code)}</span>
-        <span class="mmr">${esc(r["Township_Name_MMR"] || "")}</span>
-        <span class="meta"><span class="code">${esc(code)}</span><span class="dot"></span>${fmt(countByCode[code] || 0)} villages</span>`;
-      b.onclick = () => goTownship({ pcode: code, name_eng: r["Township_Name_Eng"], name_mmr: r["Township_Name_MMR"], sr_pcode: sr.pcode }, r["Township_Name_Eng"]);
-      view.appendChild(b);
-    });
-  };
-  $("filter").oninput = (e) => draw(e.target.value);
-  draw("");
-}
-
-async function goTownship(township, tName) {
-  state.township = township;
-  renderCrumbs();
-  const view = $("view");
-  view.className = "";
-  setToolbar(true, "Filter villages by name (Eng/MMR) or P-code…");
-  $("filter").value = "";
-  view.innerHTML = `<div class="status">Loading villages…</div>`;
-  let villages;
-  try {
-    villages = await fetchCSV(`03_villages/${township.pcode}.csv`);
-  } catch (e) {
-    view.innerHTML = `<div class="empty">Failed to load villages: ${esc(e.message)}</div>`;
-    return;
-  }
-  if (!villages.length) {
-    $("countBadge").textContent = "0 villages";
-    view.innerHTML = `<div class="empty">No villages recorded for this township.</div>`;
-    $("filter").oninput = null;
-    return;
-  }
-  const cols = state.manifest.village_columns;
-  const withCoords = villages.filter((v) => mapLink(v["Longitude"], v["Latitude"], v["Village_Name_Eng"])).length;
-  $("countBadge").textContent = `${fmt(villages.length)} villages · ${fmt(withCoords)} mapped`;
-
-  const draw = (term) => {
-    const t = term.trim().toLowerCase();
-    const list = villages.filter((v) =>
-      !t || (v["Village_Name_Eng"] || "").toLowerCase().includes(t) ||
-      (v["Village_Pcode"] || "").toLowerCase().includes(t) ||
-      (v["VT_Pcode"] || "").toLowerCase().includes(t) ||
-      (v["Village_Name_MMR"] || "").includes(term.trim()));
-    view.innerHTML = "";
-    if (!list.length) { view.innerHTML = `<div class="empty">No villages match.</div>`; return; }
-    const table = document.createElement("table");
-    table.innerHTML = `<thead><tr>
-      <th>Village P-Code</th><th>Name (Eng)</th><th>Name (MMR)</th>
-      <th>Village Tract</th><th>Longitude</th><th>Latitude</th><th>Map</th>
-    </tr></thead><tbody></tbody>`;
-    const tbody = table.querySelector("tbody");
-    const frag = document.createDocumentFragment();
-    list.forEach((v) => {
-      const lng = v["Longitude"], lat = v["Latitude"];
-      const link = mapLink(lng, lat, v["Village_Name_Eng"]);
-      const tr = document.createElement("tr");
-      tr.innerHTML = `
-        <td class="num" data-label="P-Code">${esc(v["Village_Pcode"] || "")}</td>
-        <td data-label="Name (Eng)">${esc(v["Village_Name_Eng"] || "")} <span class="pcode">(${esc(v["Village_Pcode"] || "")})</span></td>
-        <td class="mmr" data-label="Name (MMR)">${esc(v["Village_Name_MMR"] || "")}</td>
-        <td data-label="Village Tract">${esc(v["Village_Tract_Name_Eng"] || "")}${v["Village_Tract_Name_Eng"] ? " Village Tract" : ""}</td>
-        <td class="num" data-label="Longitude">${esc(lng || "")}</td>
-        <td class="num" data-label="Latitude">${esc(lat || "")}</td>
-        <td data-label="Map">${link ? `<a class="map" href="${link}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>Map</a>` : `<span class="dash">—</span>`}</td>`;
-      frag.appendChild(tr);
-    });
-    tbody.appendChild(frag);
-    view.appendChild(table);
-  };
-  $("filter").oninput = (e) => draw(e.target.value);
-  draw("");
-}
-
 function esc(s) {
   return String(s == null ? "" : s)
     .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;");
 }
 
+/* ---------- app bar ---------- */
+function setAppBar(html) { $("appBar").innerHTML = html; }
+
+function barWithMenu(title) {
+  return `<button class="icon-btn" aria-label="Menu" onclick="openDrawer()"><span class="mdi mdi-menu"></span></button>
+    <div class="bar-title">${esc(title)}</div>`;
+}
+
+function barWithBack(title) {
+  return `<button class="icon-btn" aria-label="Back" onclick="goBack()"><span class="mdi mdi-arrow-left"></span></button>
+    <div class="bar-title">${esc(title)}</div>`;
+}
+
+/* ---------- drawer ---------- */
+function openDrawer() { $("drawer").classList.add("open"); $("overlay").classList.add("open"); }
+function closeDrawer() { $("drawer").classList.remove("open"); $("overlay").classList.remove("open"); }
+
+function showAbout() {
+  closeDrawer();
+  Swal.fire({
+    title: "Villages in Myanmar",
+    html: `Webapp v1.0.0<br><br>
+      Data is acquired from <a href="https://themimu.info" target="_blank" rel="noopener">themimu.info</a>.<br><br>
+      Developed by:<br>Kyaw Zaw Naing<br>dr.kyawzawnaing@gmail.com`,
+    icon: "info",
+    confirmButtonText: "Close",
+    confirmButtonColor: "#1976d2"
+  });
+}
+
+/* ---------- navigation ---------- */
+function goBack() {
+  if (state.township) goSR(state.sr, state.sr.name_eng);
+  else if (state.sr) goRoot();
+  else goRoot();
+}
+
+/* ---------- level 1: state / regions ---------- */
+function goRoot() {
+  state.sr = null; state.township = null; state.filter = "";
+  window.scroll(0, 0);
+  setAppBar(barWithMenu("State/Regions"));
+  const view = $("view");
+  const srs = state.manifest.states_regions;
+  view.innerHTML = "";
+  const frag = document.createDocumentFragment();
+  srs.forEach((s) => {
+    const b = document.createElement("div");
+    b.className = "row";
+    b.innerHTML = `<div class="title">${esc(s.name_eng)}</div>
+      <div class="sub">${esc(s.name_mmr || "")}</div>
+      <div class="code">${esc(s.pcode)}</div>`;
+    b.onclick = () => goSR(s, s.name_eng);
+    frag.appendChild(b);
+  });
+  view.appendChild(frag);
+}
+
+/* ---------- level 2: townships ---------- */
+async function goSR(sr, srName) {
+  state.sr = sr; state.township = null; state.filter = "";
+  window.scroll(0, 0);
+  setAppBar(barWithBack(srName || sr.name_eng || sr.pcode));
+  const view = $("view");
+  view.innerHTML = `<div class="center-box"><div class="spinner" aria-label="Loading"></div></div>`;
+  let townships;
+  try {
+    townships = await fetchCSV(`02_townships/${sr.townships_file}`);
+  } catch (e) {
+    view.innerHTML = `<div class="center-box empty">Failed to load townships: ${esc(e.message)}</div>`;
+    return;
+  }
+  townships.sort((a, b) =>
+    (a["Township_Name_Eng"] || "").localeCompare(b["Township_Name_Eng"] || ""));
+
+  view.innerHTML = "";
+  const frag = document.createDocumentFragment();
+  townships.forEach((r) => {
+    const code = r["Tsp_Pcode"];
+    const b = document.createElement("div");
+    b.className = "row";
+    b.innerHTML = `<div class="title">${esc(r["Township_Name_Eng"] || code)} Township</div>
+      <div class="sub">${esc(r["Township_Name_MMR"] || "")}မြို့နယ်</div>
+      <div class="code">${esc(code)}</div>`;
+    b.onclick = () => goTownship({
+      pcode: code,
+      name_eng: r["Township_Name_Eng"],
+      name_mmr: r["Township_Name_MMR"],
+      sr_pcode: sr.pcode
+    }, r["Township_Name_Eng"]);
+    frag.appendChild(b);
+  });
+  view.appendChild(frag);
+}
+
+/* ---------- level 3: villages ---------- */
+async function goTownship(township, tName) {
+  state.township = township;
+  window.scroll(0, 0);
+  const view = $("view");
+
+  view.innerHTML = `<div class="center-box"><div class="spinner" aria-label="Loading"></div></div>`;
+  let villages;
+  try {
+    villages = await fetchCSV(`03_villages/${township.pcode}.csv`);
+  } catch (e) {
+    setAppBar(barWithBack(tName));
+    view.innerHTML = `<div class="center-box empty">Failed to load villages: ${esc(e.message)}</div>`;
+    return;
+  }
+  villages.sort((a, b) =>
+    (a["Village_Name_Eng"] || "").localeCompare(b["Village_Name_Eng"] || ""));
+
+  state.filter = "";
+  renderVillageBar(tName, villages.length);
+
+  const draw = (term) => {
+    const t = (term || "").trim().toLowerCase();
+    const list = villages.filter((v) =>
+      !t || (v["Village_Name_Eng"] || "").toLowerCase().includes(t) ||
+      (v["Village_Pcode"] || "").toLowerCase().includes(t) ||
+      (v["Village_Name_MMR"] || "").includes(term.trim()));
+    view.innerHTML = "";
+    if (!list.length) {
+      view.innerHTML = `<div class="center-box empty">No villages match.</div>`;
+      return;
+    }
+    const frag = document.createDocumentFragment();
+    list.forEach((v) => {
+      const lng = v["Longitude"], lat = v["Latitude"];
+      const link = mapLink(lng, lat, v["Village_Name_Eng"]);
+      const row = document.createElement("div");
+      row.className = "row village-row";
+      row.innerHTML = `<div class="info">
+          <div class="title">${esc(v["Village_Name_Eng"] || "")}</div>
+          <div class="sub">${esc(v["Village_Name_MMR"] || "")}</div>
+          <div class="code">Pcode : ${esc(v["Village_Pcode"] || "")}</div>
+          <div class="code"> ${esc(v["Village_Tract_Name_Eng"] || "")} Village Tract </div>
+          ${link ? `<div class="code"> Lat: ${esc(lat)} , Lng: ${esc(lng)} </div>` : ""}
+        </div>
+        ${link ? `<button class="fab" aria-label="Open map" title="Open map"><span class="mdi mdi-map-marker"></span></button>` : ""}`;
+      if (link) {
+        row.querySelector(".fab").onclick = (ev) => {
+          ev.stopPropagation();
+          window.open(link, "_blank", "noopener");
+        };
+      }
+      frag.appendChild(row);
+    });
+    view.appendChild(frag);
+  };
+
+  state._draw = draw;
+  draw("");
+}
+
+function renderVillageBar(tName, count) {
+  setAppBar(`<button class="icon-btn" aria-label="Back" onclick="goBack()"><span class="mdi mdi-arrow-left"></span></button>
+    <div class="search">
+      <input type="search" id="filter" autocomplete="off" aria-label="Search villages"
+        placeholder="Search ${count} villages in ${esc(tName)} Township" value="${esc(state.filter)}">
+      <button class="clear" id="clearBtn" aria-label="Clear" hidden><span class="mdi mdi-close"></span></button>
+    </div>`);
+  const input = $("filter");
+  const clearBtn = $("clearBtn");
+  const sync = () => {
+    state.filter = input.value;
+    clearBtn.hidden = input.value === "";
+    state._draw(input.value);
+  };
+  input.oninput = sync;
+  clearBtn.onclick = () => { input.value = ""; sync(); input.focus(); };
+}
+
+/* ---------- init ---------- */
 (async function init() {
   try {
     const res = await fetch(`${DATA}/manifest.json`);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     state.manifest = await res.json();
   } catch (e) {
-    $("view").innerHTML = `<div class="empty">
+    $("view").innerHTML = `<div class="center-box empty">
       Could not load <code>data/manifest.json</code>.<br><br>
       Serve this folder over HTTP, e.g.:<br>
       <code>python3 -m http.server</code> then open
