@@ -283,15 +283,37 @@ function showAbout() {
   });
 }
 
-/* ---------- navigation ---------- */
+/* ---------- routing ---------- */
+function findSR(pcode) {
+  return state.manifest.states_regions.find((s) => s.pcode === pcode) || null;
+}
+
+function hashFor(parts) { return "#/" + parts.filter(Boolean).join("/"); }
+
+function navigate(hash) {
+  if (location.hash === hash) route();
+  else location.hash = hash;
+}
+
 function goBack() {
-  if (state.township) goSR(state.sr, state.sr.name_eng);
-  else if (state.sr) goRoot();
-  else goRoot();
+  history.back();
+}
+
+function route() {
+  const parts = decodeURIComponent(location.hash.replace(/^#\/?/, ""))
+    .split("/").filter(Boolean);
+  if (parts[0] === "sr" && parts[1]) {
+    const sr = findSR(parts[1]);
+    if (!sr) { navigate("#/"); return; }
+    if (parts[2]) renderTownship(sr, parts[2]);
+    else renderSR(sr);
+  } else {
+    renderRoot();
+  }
 }
 
 /* ---------- level 1: state / regions ---------- */
-function goRoot() {
+function renderRoot() {
   state.sr = null; state.township = null; state.filter = "";
   window.scroll(0, 0);
   setAppBar(barWithMenu("State/Regions"));
@@ -305,17 +327,17 @@ function goRoot() {
     b.innerHTML = `<div class="title">${esc(s.name_eng)}</div>
       <div class="sub">${esc(s.name_mmr || "")}</div>
       <div class="code">${esc(s.pcode)}</div>`;
-    b.onclick = () => goSR(s, s.name_eng);
+    b.onclick = () => navigate(hashFor(["sr", s.pcode]));
     frag.appendChild(b);
   });
   view.appendChild(frag);
 }
 
 /* ---------- level 2: townships ---------- */
-async function goSR(sr, srName) {
+async function renderSR(sr) {
   state.sr = sr; state.township = null; state.filter = "";
   window.scroll(0, 0);
-  setAppBar(barWithBack(srName || sr.name_eng || sr.pcode));
+  setAppBar(barWithBack(sr.name_eng || sr.pcode));
   const view = $("view");
   view.innerHTML = `<div class="center-box"><div class="spinner" aria-label="Loading"></div></div>`;
   let townships;
@@ -325,6 +347,7 @@ async function goSR(sr, srName) {
     view.innerHTML = `<div class="center-box empty">Failed to load townships: ${esc(e.message)}</div>`;
     return;
   }
+  if (state.sr !== sr) return;
   townships.sort((a, b) =>
     (a["Township_Name_Eng"] || "").localeCompare(b["Township_Name_Eng"] || ""));
 
@@ -337,20 +360,16 @@ async function goSR(sr, srName) {
     b.innerHTML = `<div class="title">${esc(r["Township_Name_Eng"] || code)} Township</div>
       <div class="sub">${esc(r["Township_Name_MMR"] || "")}မြို့နယ်</div>
       <div class="code">${esc(code)}</div>`;
-    b.onclick = () => goTownship({
-      pcode: code,
-      name_eng: r["Township_Name_Eng"],
-      name_mmr: r["Township_Name_MMR"],
-      sr_pcode: sr.pcode
-    }, r["Township_Name_Eng"]);
+    b.onclick = () => navigate(hashFor(["sr", sr.pcode, code]));
     frag.appendChild(b);
   });
   view.appendChild(frag);
 }
 
 /* ---------- level 3: villages ---------- */
-async function goTownship(township, tName) {
-  state.township = township;
+async function renderTownship(sr, tspPcode) {
+  const township = { pcode: tspPcode, sr_pcode: sr.pcode };
+  state.sr = sr; state.township = township;
   window.scroll(0, 0);
   const view = $("view");
 
@@ -359,13 +378,15 @@ async function goTownship(township, tName) {
   try {
     villages = await fetchCSV(`03_villages/${township.pcode}.csv`);
   } catch (e) {
-    setAppBar(barWithBack(tName));
+    setAppBar(barWithBack(tspPcode));
     view.innerHTML = `<div class="center-box empty">Failed to load villages: ${esc(e.message)}</div>`;
     return;
   }
+  if (state.township !== township) return;
   villages.sort((a, b) =>
     (a["Village_Name_Eng"] || "").localeCompare(b["Village_Name_Eng"] || ""));
 
+  const tName = (villages[0] && villages[0]["Township_Name_Eng"]) || tspPcode;
   state.filter = "";
   renderVillageBar(tName, villages.length);
 
@@ -442,7 +463,9 @@ function renderVillageBar(tName, count) {
       <small>${esc(e.message)}</small></div>`;
     return;
   }
-  goRoot();
+  window.addEventListener("hashchange", route);
+  if (!location.hash) location.replace("#/");
+  route();
 })();
 </script>
 </body>
