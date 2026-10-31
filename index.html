@@ -206,45 +206,10 @@ function mapLink(lng, lat, name) {
     : `https://maps.google.com/?q=${q}`;
 }
 
-function parseCSV(text) {
-  const rows = [];
-  let row = [], field = "", inQuotes = false;
-  for (let i = 0; i < text.length; i++) {
-    const c = text[i];
-    if (inQuotes) {
-      if (c === '"') {
-        if (text[i + 1] === '"') { field += '"'; i++; }
-        else inQuotes = false;
-      } else field += c;
-    } else {
-      if (c === '"') inQuotes = true;
-      else if (c === ",") { row.push(field); field = ""; }
-      else if (c === "\n") { row.push(field); rows.push(row); row = []; field = ""; }
-      else if (c === "\r") { /* ignore */ }
-      else field += c;
-    }
-  }
-  if (field !== "" || row.length) { row.push(field); rows.push(row); }
-  return rows;
-}
-
-function csvToObjects(text) {
-  const rows = parseCSV(text);
-  if (!rows.length) return [];
-  const headers = rows[0];
-  return rows.slice(1)
-    .filter((r) => r.length && !(r.length === 1 && r[0] === ""))
-    .map((r) => {
-      const obj = {};
-      headers.forEach((h, i) => { obj[h] = r[i] !== undefined ? r[i] : ""; });
-      return obj;
-    });
-}
-
-async function fetchCSV(path) {
+async function fetchJSON(path) {
   const res = await fetch(`${DATA}/${path}`);
   if (!res.ok) throw new Error(`${path}: HTTP ${res.status}`);
-  return csvToObjects(await res.text());
+  return res.json();
 }
 
 function esc(s) {
@@ -342,23 +307,22 @@ async function renderSR(sr) {
   view.innerHTML = `<div class="center-box"><div class="spinner" aria-label="Loading"></div></div>`;
   let townships;
   try {
-    townships = await fetchCSV(`02_townships/${sr.townships_file}`);
+    townships = await fetchJSON(sr.townships_file ? `02_townships/${sr.townships_file}` : `02_townships/${sr.pcode}.json`);
   } catch (e) {
     view.innerHTML = `<div class="center-box empty">Failed to load townships: ${esc(e.message)}</div>`;
     return;
   }
   if (state.sr !== sr) return;
-  townships.sort((a, b) =>
-    (a["Township_Name_Eng"] || "").localeCompare(b["Township_Name_Eng"] || ""));
+  townships.sort((a, b) => (a.name_eng || "").localeCompare(b.name_eng || ""));
 
   view.innerHTML = "";
   const frag = document.createDocumentFragment();
   townships.forEach((r) => {
-    const code = r["Tsp_Pcode"];
+    const code = r.pcode;
     const b = document.createElement("div");
     b.className = "row";
-    b.innerHTML = `<div class="title">${esc(r["Township_Name_Eng"] || code)} Township</div>
-      <div class="sub">${esc(r["Township_Name_MMR"] || "")}မြို့နယ်</div>
+    b.innerHTML = `<div class="title">${esc(r.name_eng || code)} Township</div>
+      <div class="sub">${esc(r.name_mmr || "")}မြို့နယ်</div>
       <div class="code">${esc(code)}</div>`;
     b.onclick = () => navigate(hashFor(["sr", sr.pcode, code]));
     frag.appendChild(b);
@@ -376,26 +340,26 @@ async function renderTownship(sr, tspPcode) {
   view.innerHTML = `<div class="center-box"><div class="spinner" aria-label="Loading"></div></div>`;
   let villages;
   try {
-    villages = await fetchCSV(`03_villages/${township.pcode}.csv`);
+    villages = await fetchJSON(`03_villages/${township.pcode}.json`);
   } catch (e) {
     setAppBar(barWithBack(tspPcode));
     view.innerHTML = `<div class="center-box empty">Failed to load villages: ${esc(e.message)}</div>`;
     return;
   }
   if (state.township !== township) return;
-  villages.sort((a, b) =>
-    (a["Village_Name_Eng"] || "").localeCompare(b["Village_Name_Eng"] || ""));
+  villages.sort((a, b) => (a.name_eng || "").localeCompare(b.name_eng || ""));
 
-  const tName = (villages[0] && villages[0]["Township_Name_Eng"]) || tspPcode;
+  const tspMeta = (state.manifest.townships || []).find((t) => t.pcode === tspPcode);
+  const tName = (tspMeta && tspMeta.name_eng) || tspPcode;
   state.filter = "";
   renderVillageBar(tName, villages.length);
 
   const draw = (term) => {
     const t = (term || "").trim().toLowerCase();
     const list = villages.filter((v) =>
-      !t || (v["Village_Name_Eng"] || "").toLowerCase().includes(t) ||
-      (v["Village_Pcode"] || "").toLowerCase().includes(t) ||
-      (v["Village_Name_MMR"] || "").includes(term.trim()));
+      !t || (v.name_eng || "").toLowerCase().includes(t) ||
+      String(v.pcode || "").toLowerCase().includes(t) ||
+      (v.name_mmr || "").includes(term.trim()));
     view.innerHTML = "";
     if (!list.length) {
       view.innerHTML = `<div class="center-box empty">No villages match.</div>`;
@@ -403,15 +367,15 @@ async function renderTownship(sr, tspPcode) {
     }
     const frag = document.createDocumentFragment();
     list.forEach((v) => {
-      const lng = v["Longitude"], lat = v["Latitude"];
-      const link = mapLink(lng, lat, v["Village_Name_Eng"]);
+      const lng = v.longitude, lat = v.latitude;
+      const link = mapLink(lng, lat, v.name_eng);
       const row = document.createElement("div");
       row.className = "row village-row";
       row.innerHTML = `<div class="info">
-          <div class="title">${esc(v["Village_Name_Eng"] || "")}</div>
-          <div class="sub">${esc(v["Village_Name_MMR"] || "")}</div>
-          <div class="code">Pcode : ${esc(v["Village_Pcode"] || "")}</div>
-          <div class="code"> ${esc(v["Village_Tract_Name_Eng"] || "")} Village Tract </div>
+          <div class="title">${esc(v.name_eng || "")}</div>
+          <div class="sub">${esc(v.name_mmr || "")}</div>
+          <div class="code">Pcode : ${esc(v.pcode || "")}</div>
+          <div class="code"> ${esc(v.vt_name_eng || "")} Village Tract </div>
           ${link ? `<div class="code"> Lat: ${esc(lat)} , Lng: ${esc(lng)} </div>` : ""}
         </div>
         ${link ? `<button class="fab" aria-label="Open map" title="Open map"><span class="mdi mdi-map-marker"></span></button>` : ""}`;

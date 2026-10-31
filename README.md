@@ -16,18 +16,18 @@ Source: [MIMU Myanmar P-Codes](https://themimu.info/) — *Release 9.7, Jan 2026
 - 72,571 Villages (~77% with coordinates)
 
 The original workbook is `Myanmar_PCodes_Release_9.7_Jan2026_Countrywide.xlsm`.
-`export_pcodes.py` splits it into per-level CSV files.
+`export_pcodes.py` splits it into per-level JSON files.
 
 ## Project layout
 
 ```
-export_pcodes.py          # generates data/ from the .xlsm workbook
-index.html                # single-file viewer (vanilla JS, no build step)
+export_pcodes.py              # generates data/ from the .xlsm workbook
+index.html                    # single-file viewer (vanilla JS, no build step)
 data/
-  manifest.json           # states/regions, townships, counts, column indices
-  01_states_regions.csv   # 18 active states/regions (all columns)
-  02_townships/<SR>.csv   # townships per state/region (all columns)
-  03_villages/<Tsp>.csv   # villages per township (all columns)
+  manifest.json               # states/regions, townships, counts, file references
+  01_states_regions.json      # 18 active states/regions (eng + mmr names)
+  02_townships/<SR>.json      # townships per state/region (eng + mmr names)
+  03_villages/<Tsp>.json      # villages per township (eng + mmr names, tract, lat/lng)
 ```
 
 ## Regenerating the data
